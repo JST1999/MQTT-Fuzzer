@@ -11,5 +11,5 @@ with open("messages-to-mutate.txt") as f:
 print(cases)
 for ele in cases:
     for i in range(2):
-        case = rad.fuzz(ele.encode("UTF-8"), seed=117)
-        print(case.decode("UTF-8"))
+        case = rad.fuzz(ele.encode("UTF-8"))
+        print(case.decode("UTF-8", "ignore"))

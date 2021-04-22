@@ -21,31 +21,22 @@ with open("messages-to-mutate.txt") as f:
     for ele in lines:
         cases.append(ele.rstrip())#they have a \n so I removed it
 
-print(cases)
+def write_to_file(topic, case):
+    with open("sent_log.csv", 'a', encoding="utf-8", newline="") as csvfile:
+        csvwriter = csv.writer(csvfile)
+        csvwriter.writerow([datetime.datetime.now(), topic, case])
+
 for ele in cases:
-    for i in range(3):
-        case = rad.fuzz(ele.encode("UTF-8"), seed=117)
+    for i in range(100000):
+        case = rad.fuzz(ele.encode("UTF-8"))
+        decodedCase = case.decode("UTF-8", "ignore")
 
         client.publish(topic, payload=case, qos=0, retain=False)
+        write_to_file(topic, case)
 
-        with open("sent_log.csv", 'a', encoding="utf-8", newline="") as csvfile:
-            csvwriter = csv.writer(csvfile)
-            csvwriter.writerow([datetime.datetime.now(), topic, case])
+        client.publish(topic, payload=decodedCase, qos=0, retain=False)
+        write_to_file(topic, decodedCase)
 
-    # for i in range(2):
-    #     case = rad.fuzz(ele.encode("UTF-8"), seed=117)
-    #     print(case.decode("UTF-8"))
-
-# case = b"asdfasdf"
-# for i in range(3):
-#     client.publish(topic, payload=case, qos=0, retain=False)
-#     #print(f"sent {i} to {topic}")
-#     print(f"sent {case} to {topic}")
-
-#     with open("sent_log.csv", 'a', encoding="utf-8", newline="") as csvfile:
-#         csvwriter = csv.writer(csvfile)
-#         csvwriter.writerow([datetime.datetime.now(), topic, case])
-    
-#     #time.sleep(1)
+print("Done")
 
 client.loop_forever()
