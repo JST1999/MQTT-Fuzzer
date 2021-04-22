@@ -1,0 +1,9 @@
+hello world
+this is a test, this is a test. this is a test; this is a test: test, test, test
+\"ac\\dc\"
+shutdown now
+print("alert")
+00100111
+&#39
+@#59
+echo -ne '\x104\x00\x04MQTT\x04\xc2\x00\xff\x00\x19alicedoesnotneedaclientid\x00\x05alice\x00\x06secret\x82\x19\xa5\xa6\x00\x15hello/topic/of/alice\x00' | nc localhost 1883
