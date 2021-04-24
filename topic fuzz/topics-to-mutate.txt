@@ -1,0 +1,4 @@
+dev/test
+hello/topic/of/alice/block1/house1/room1/desk1/item1/sensor1
+dev/testx82
+dev/testx82/part2
