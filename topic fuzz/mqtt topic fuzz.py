@@ -31,8 +31,12 @@ for ele in cases:
         topic = rad.fuzz(ele.encode("UTF-8"))
         topic = topic.decode("UTF-8", "ignore")
 
-        client.publish(topic, payload=message, qos=0, retain=False)
-        write_to_file(topic, message)
+        if "#" not in topic and "+" not in topic:#cant have wildcards
+            try:#bad practice but oh well
+                client.publish(topic, payload=message, qos=0, retain=False)
+                write_to_file(topic, message)
+            except:
+                continue
 
 print("Done")
 
