@@ -17,9 +17,9 @@ for i in range(20):
     client.publish(topic, payload=i, qos=0, retain=False)
     print(f"sent {i} to {topic}")
 
-    with open("sent_log.csv", 'a', encoding="utf-8", newline="") as csvfile:
-        csvwriter = csv.writer(csvfile)
-        csvwriter.writerow([datetime.datetime.now(), topic, str(i)])
+    # with open("sent_log.csv", 'a', encoding="utf-8", newline="") as csvfile:
+    #     csvwriter = csv.writer(csvfile)
+    #     csvwriter.writerow([datetime.datetime.now(), topic, str(i)])
     
     #time.sleep(1)
 
