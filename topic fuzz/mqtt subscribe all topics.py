@@ -20,6 +20,6 @@ client = mqtt.Client()
 client.username_pw_set(username="username",password="password")
 client.on_connect = on_connect
 client.on_message = on_message
-client.connect("192.168.0.16", 1883, 60)
+client.connect("127.0.0.1", 9998, 60)
 client.subscribe("#")#subscribes to all topics
 client.loop_forever()

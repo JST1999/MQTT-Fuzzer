@@ -8,7 +8,7 @@ HEX_FILTER = ''.join(
 
 def hexdump(src, length=16, show=True):
     if isinstance(src, bytes):
-        src = src.decode()
+        src = src.decode("utf-8", "ignore")
     results = list()
     for i in range(0, len(src), length):
         word = str(src[i:i+length])
