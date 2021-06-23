@@ -4,9 +4,16 @@ import socket
 import struct
 import sys
 
+HEX_FILTER = ''.join(
+    [(len(repr(chr(i))) == 3) and chr(i) or '.' for i in range(256)])
+
 class IP:
     def __init__(self, buff=None):
+        header2 = struct.unpack('<20s', buff)
+        #print(header2)
+
         header = struct.unpack('<BBHHHBBH4s4s', buff)
+        #print(header)
         self.ver = header[0] >> 4
         self.ihl = header[0] & 0xF
     
@@ -32,6 +39,22 @@ class IP:
             print('%s No protocol for %s' % (e, self.protocol_num))
             self.protocol = str(self.protocol_num)
 
+def hexdump(src, length=16, show=True):
+    if isinstance(src, bytes):
+        src = src.decode("utf-8", "ignore")
+    results = list()
+    for i in range(0, len(src), length):
+        word = str(src[i:i+length])
+        printable = word.translate(HEX_FILTER)
+        hexa = ' '.join([f'{ord(c):02X}' for c in word])
+        hexwidth = length*3
+        results.append(f'{i:04x}  {hexa:<{hexwidth}}  {printable}')
+    if show:
+        for line in results:
+            print(line)
+    else:
+        return results
+
 def sniff(host):
     if os.name == 'nt':
         socket_protocol = socket.IPPROTO_IP
@@ -48,9 +71,14 @@ def sniff(host):
     try:
         while True:
             raw_buffer = sniffer.recvfrom(65535)[0]
+            print(raw_buffer)
+            hexdump(raw_buffer)
             ip_header = IP(raw_buffer[0:20])
             print('Protocol: %s %s -> %s' % (ip_header.protocol, ip_header.src_address, ip_header.dst_address))
-            print(f'Version: {ip_header.ver} Header Length: {ip_header.ihl}  TTL: {ip_header.ttl}')
+            print(f'Version: {ip_header.ver} Header Length: {ip_header.ihl}  ToS: {ip_header.tos}  TL: {ip_header.len}')
+            print(f'ID: {ip_header.id} Offset: {ip_header.offset}')
+            print(f'Time to Live: {ip_header.ttl} Protocol Num: {ip_header.protocol_num} Header Checksum: {ip_header.sum}')
+            print()
                 
     except KeyboardInterrupt:
         if  os.name == 'nt':

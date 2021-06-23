@@ -23,5 +23,5 @@ for i in range(1):
     
     # time.sleep(1)
 
-client.loop_forever()
+#client.loop_forever()
 #C:\Users\Jason\AppData\Local\Programs\Python\Python36-32\python.exe C:\Users\Jason\Documents\MQTT-Fuzzer\netcat.py -t 127.0.0.1 -p 7000 -l
