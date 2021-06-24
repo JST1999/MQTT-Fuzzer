@@ -1,10 +1,23 @@
 import sys
 import socket
 import threading
+import csv
+import datetime
+import pyradamsa
+
+rad = pyradamsa.Radamsa()
 
 HEX_FILTER = ''.join(
     [(len(repr(chr(i))) == 3) and chr(i) or '.' for i in range(256)])
 
+def write_to_file(original):
+    with open("publisher_log_proxy.csv", 'a', encoding="utf-8", newline="") as csvfile:
+        csvwriter = csv.writer(csvfile)
+        csvwriter.writerow([datetime.datetime.now(), original, "MESSAGE NOT FUZZED"])
+def write_to_file(original, case):
+    with open("publisher_log_proxy.csv", 'a', encoding="utf-8", newline="") as csvfile:
+        csvwriter = csv.writer(csvfile)
+        csvwriter.writerow([datetime.datetime.now(), original, case])
 
 def hexdump(src, length=16, show=True):
     if isinstance(src, bytes):
@@ -41,9 +54,12 @@ def receive_from(connection):
 
 
 def request_handler(buffer):
-    # perform packet modifications
-    return buffer
+    test = buffer
+    case = rad.fuzz(test.encode("UTF-8"))
+    decodedCase = case.decode("UTF-8", "ignore")
+    print(decodedCase)
 
+    return buffer
 
 def response_handler(buffer):
     # perform packet modifications
@@ -64,15 +80,25 @@ def proxy_handler(client_socket, remote_host, remote_port, receive_first):
             # client_socket.send(remote_buffer)
             # print("[==>] Sent to local.")
 
+    counter = 1
+
     while True:
         local_buffer = receive_from(client_socket)
         if len(local_buffer):
             print("[<==] Received %d bytes from local." % len(local_buffer))
             hexdump(local_buffer)
 
-            local_buffer = request_handler(local_buffer)
+            if counter % 2 == 0:
+                og = local_buffer
+                local_buffer = request_handler(local_buffer)
+                write_to_file(og, local_buffer)
+            else:
+                write_to_file(local_buffer)
+            
             remote_socket.send(local_buffer)
             print("[==>] Sent to remote.")
+
+            counter += 1
 
         remote_buffer = receive_from(remote_socket)
         if len(remote_buffer):
