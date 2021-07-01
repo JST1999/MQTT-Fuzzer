@@ -1,0 +1,5 @@
+Sending message number
+MQTT
+socket.sendall(bytes[, flags])
+\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password
+Receive normal data (up to bufsize bytes) and ancillary data from the socket.

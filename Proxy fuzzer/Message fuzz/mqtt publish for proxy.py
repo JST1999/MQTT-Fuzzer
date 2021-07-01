@@ -13,18 +13,29 @@ client.username_pw_set(username="username",password="password")
 client.on_connect = on_connect
 client.connect("192.168.0.25", 9998, 60)
 
-def write_to_file(topic, case):
+def write_to_file(topic, message):
     with open("sent_log.csv", 'a', encoding="utf-8", newline="") as csvfile:
         csvwriter = csv.writer(csvfile)
-        csvwriter.writerow([datetime.datetime.now(), topic, case])
+        csvwriter.writerow([datetime.datetime.now(), topic, message])
 
-for i in range(10):
-    case = "Sending message number " + str(i)
+cases = []
+with open("messages-to-mutate.txt") as f:
+    lines = f.readlines()
+    for ele in lines:
+        cases.append(ele.rstrip())#they have a \n so I removed it
 
-    client.publish(topic, payload=case, qos=0, retain=False)
-    write_to_file(topic, case)
+for ele in cases:
+    for connection in range(1000):
+        for i in range(14):
+            message = ele# + str(i)
 
-    #time.sleep(1)
+            client.publish(topic, payload=message, qos=0, retain=False)
+            write_to_file(topic, message)
+
+            time.sleep(0.001)
+
+        client.disconnect()
+        client.reconnect()
 
 print("Done")
 
