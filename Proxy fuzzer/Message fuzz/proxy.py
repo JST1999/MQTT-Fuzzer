@@ -40,24 +40,19 @@ def receive_from(connection):
     buffer = b""
     connection.settimeout(15)
     try:
-        #buffer = connection.recv(4096)
         counter = 1
         while True:
-            data = connection.recv(4096)
-            print("---")
-            print(data)
-            print("^^^")
+            data = connection.recv(4096)#65535
 
             if counter % 2 == 0:
                 og = data
-                data = request_handler(data)
+                data = request_fuzz(data)
                 write_to_file_c(og, data)
             else:
                 write_to_file(data)
 
             counter += 1
 
-            #data = connection.recvmsg(4096)[0]#65535
             if not data:
                 break
 
@@ -69,17 +64,18 @@ def receive_from(connection):
     return buffer
 
 
-def request_handler(buffer):
-    test = buffer
-    case = rad.fuzz(test)#.encode("UTF-8"))
-    #decodedCase = case.decode("UTF-8", "ignore")
-    print("***")
-    print(case)
-    print("<|>")
+def request_fuzz(buffer):
+    # test = buffer
+    # # print("---")
+    # # print(test)
+    # # print("^^^")
+    # case = rad.fuzz(test)#.encode("UTF-8"))
+    # # print("***")
+    # # print(case)
+    # # print("<|>")
+    return rad.fuzz(buffer)
 
-    return buffer
-
-def response_handler(buffer):
+def response_fuzz(buffer):
     # perform packet modifications
     return buffer
 
@@ -94,7 +90,7 @@ def proxy_handler(client_socket, remote_host, remote_port):
         local_buffer = receive_from(client_socket)
         if len(local_buffer):
             print("[<==] Received %d bytes from local." % len(local_buffer))
-            hexdump(local_buffer)
+            #hexdump(local_buffer)
 
             # if counter % 2 == 0:
             #     og = local_buffer
@@ -111,17 +107,17 @@ def proxy_handler(client_socket, remote_host, remote_port):
         remote_buffer = receive_from(remote_socket)
         if len(remote_buffer):
             print("[<==] Received %d bytes from remote." % len(remote_buffer))
-            hexdump(remote_buffer)
+            #hexdump(remote_buffer)
 
-            remote_buffer = response_handler(remote_buffer)
+            #remote_buffer = response_fuzz(remote_buffer)
             client_socket.send(remote_buffer)
             print("[==>] Sent to local.")
 
-        # if not len(local_buffer) or not len(remote_buffer):
-        #     client_socket.close()
-        #     remote_socket.close()
-        #     print("[*] No more data. Closing connections.")
-        #     break
+        if not len(local_buffer) or not len(remote_buffer):
+            client_socket.close()
+            remote_socket.close()
+            print("[*] No more data. Closing connections.")
+            break
 
 
 def server_loop(local_host, local_port, remote_host, remote_port):
