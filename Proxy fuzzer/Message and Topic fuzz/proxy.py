@@ -18,6 +18,10 @@ def write_to_file_c(original, case):
     with open("publisher_log_proxy.csv", 'a', encoding="utf-8", newline="") as csvfile:
         csvwriter = csv.writer(csvfile)
         csvwriter.writerow([datetime.datetime.now(), original, case])
+def write_to_file_full_buffer(buffer):
+    with open("buffer_log_proxy.csv", 'a', encoding="utf-8", newline="") as csvfile:
+        csvwriter = csv.writer(csvfile)
+        csvwriter.writerow([datetime.datetime.now(), buffer])
 
 def hexdump(src, length=16, show=True):
     if isinstance(src, bytes):
@@ -84,25 +88,16 @@ def proxy_handler(client_socket, remote_host, remote_port):
     remote_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     remote_socket.connect((remote_host, remote_port))
 
-    # counter = 1
-
     while True:
         local_buffer = receive_from(client_socket)
         if len(local_buffer):
             print("[<==] Received %d bytes from local." % len(local_buffer))
-            #hexdump(local_buffer)
+            hexdump(local_buffer)
 
-            # if counter % 2 == 0:
-            #     og = local_buffer
-            #     local_buffer = request_handler(local_buffer)
-            #     write_to_file_c(og, local_buffer)
-            # else:
-            #     write_to_file(local_buffer)
+            write_to_file_full_buffer(local_buffer)
             
             remote_socket.send(local_buffer)
             print("[==>] Sent to remote.")
-
-            # counter += 1
 
         remote_buffer = receive_from(remote_socket)
         if len(remote_buffer):

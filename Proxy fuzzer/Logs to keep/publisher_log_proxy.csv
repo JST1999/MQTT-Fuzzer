@@ -1,0 +1,37 @@
+2021-07-01 22:45:45.254380,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-01 22:45:45.274251,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testS/testSening message number'
+2021-07-01 22:45:45.274450,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-01 22:45:45.277708,b'0 \x00\x08dev/testSending message number',b' \x00\x08dev/testS\xf0\x9f\x92\xa9ending message number'
+2021-07-01 22:45:45.278421,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-01 22:45:45.286455,b'\xe0\x00',b'\x00'
+2021-07-01 22:45:45.286538,b'',MESSAGE NOT FUZZED
+2021-07-01 22:45:45.296936,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-01 22:45:45.298264,b'0\x0e\x00\x08dev/testMQTT',b'0\xf0\x9d\x85\xa0\x0e\x0b\xc0\x80\x08dev/testMQTT'
+2021-07-01 22:45:45.298811,b'0\x0e\x00\x08dev/testMQTT',MESSAGE NOT FUZZED
+2021-07-01 22:45:45.304376,b'0\x0e\x00\x08dev/testMQTT',b'\x8e\xca\xb7\xb6MQTT'
+2021-07-01 22:45:45.305975,b'0\x0e\x00\x08dev/testMQTT0\x0e\x00\x08dev/testMQTT',MESSAGE NOT FUZZED
+2021-07-01 22:45:45.307324,b'0\x0e\x00\x08dev/testMQTT',b'-1\x0e\x00\x08dev/testMQTT'
+2021-07-01 22:45:45.308581,b'0\x0e\x00\x08dev/testMQTT',MESSAGE NOT FUZZED
+2021-07-01 22:45:45.310989,b'0\x0e\x00\x08dev/testMQTT',b'0\x0e\x00\x08dev/t\xe2\x81\xa9estMQTT'
+2021-07-01 22:45:45.313338,b'0\x0e\x00\x08dev/testMQTT',MESSAGE NOT FUZZED
+2021-07-01 22:45:45.315572,b'0\x0e\x00\x08dev/testMQTT',b'0\x0e\x00\x08d\xe2\x80\xabev/testMQTT'
+2021-07-01 22:45:45.316535,b'0\x0e\x00\x08dev/testMQTT',MESSAGE NOT FUZZED
+2021-07-01 22:45:45.319660,b'0\x0e\x00\x08dev/testMQTT',b'65535\x0e\x08dev/testMQTT'
+2021-07-01 22:45:45.320369,b'0\x0e\x00\x08dev/testMQTT',MESSAGE NOT FUZZED
+2021-07-01 22:45:45.322730,b'0\x0e\x00\x08dev/testMQTT',b'8\x0e\x00\x08dev/testMQTT'
+2021-07-01 22:45:45.324166,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-01 22:45:45.324641,b'',b'0'
+2021-07-01 22:45:45.324794,b'',MESSAGE NOT FUZZED
+2021-07-01 22:45:45.347506,"b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password0(\x00\x08dev/testsocket.sendall(bytes[, flags])0(\x00\x08dev/testsocket.sendall(bytes[, flags])0(\x00\x08dev/testsocket.sendall(bytes[, flags])0(\x00\x08dev/testsocket.sendall(bytes[, flags])0(\x00\x08dev/testsocket.sendall(bytes[, flags])0(\x00\x08dev/testsocket.sendall(bytes[, flags])'",MESSAGE NOT FUZZED
+2021-07-01 22:45:45.353035,"b'0(\x00\x08dev/testsocket.sendall(bytes[, flags])'","b'9223372036854775808(\x00\x08d\x00\xcb\x91\x08de/testsocket.sendall(bytes[, flags])'"
+2021-07-01 22:45:45.354161,"b'0(\x00\x08dev/testsocket.sendall(bytes[, flags])0(\x00\x08dev/testsocket.sendall(bytes[, flags])'",MESSAGE NOT FUZZED
+2021-07-01 22:45:45.355424,"b'0(\x00\x08dev/testsocket.sendall(bytes[, flags])'","b'1(\x00\x08dev/testsocket.sendall(bytes[, flags])'"
+2021-07-01 22:45:45.356443,"b'0(\x00\x08dev/testsocket.sendall(bytes[, flags])'",MESSAGE NOT FUZZED
+2021-07-01 22:45:45.370041,"b'0(\x00\x08dev/testsocket.sendall(bytes[, flags])'",b'--0(lag\xf3\xa0\x81\xbas])'
+2021-07-01 22:45:45.376935,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-01 22:45:45.379394,b'0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password',b'0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x65536\\x08password'
+2021-07-01 22:45:45.379475,b'0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password',MESSAGE NOT FUZZED
+2021-07-01 22:45:45.389395,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-01 22:45:45.391015,b'0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password',b'0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password0P\x00\x08dev/test\\x10 \\x0\xf3\xa0\x81\xbe0\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password'
+2021-07-01 22:45:45.391162,b'0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password',MESSAGE NOT FUZZED
+2021-07-01 22:45:45.392323,"b'0(\x00\x08dev/testsocket.sendall(bytes[, flags])0(\x00\x08dev/testsocket.sendall(bytes[, flags])\xe0\x00'",MESSAGE NOT FUZZED
