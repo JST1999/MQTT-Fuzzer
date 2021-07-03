@@ -4,6 +4,7 @@ import csv
 import datetime
 
 topic = "dev/test"
+m = "testing"
 
 def on_connect(client, userdata, flags, rc):
     print(f"Connected with result code {rc}")
@@ -11,11 +12,11 @@ def on_connect(client, userdata, flags, rc):
 client = mqtt.Client()
 client.username_pw_set(username="username",password="password")
 client.on_connect = on_connect
-client.connect("192.168.0.24", 1883, 60)#127.0.0.1 9998 for the proxy setup i think
+client.connect("192.168.0.25", 1883, 60)#127.0.0.1 9998 for the proxy setup i think
 
 for i in range(1):
-    client.publish(topic, payload=i, qos=0, retain=False)
-    print(f"sent {i} to {topic}")
+    client.publish(topic, payload=m, qos=0, retain=False)
+    print(f"sent {m} to {topic}")
 
     # with open("sent_log.csv", 'a', encoding="utf-8", newline="") as csvfile:
     #     csvwriter = csv.writer(csvfile)

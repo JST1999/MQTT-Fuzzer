@@ -25,16 +25,17 @@ with open("messages-to-mutate.txt") as f:
         cases.append(ele.rstrip())#they have a \n so I removed it
 
 for ele in cases:
-    for connection in range(1000):
+    for connection in range(100):
+        write_to_file(topic, ele)
         for i in range(14):
             message = ele# + str(i)
 
             client.publish(topic, payload=message, qos=0, retain=False)
-            write_to_file(topic, message)
 
             time.sleep(0.001)
 
         client.disconnect()
+        time.sleep(0.1)#seperate out each 'block'
         client.reconnect()
 
 print("Done")
