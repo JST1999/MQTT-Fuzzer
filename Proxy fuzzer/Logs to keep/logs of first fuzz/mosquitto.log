@@ -1,0 +1,335 @@
+1625269907: mosquitto version 2.0.11 starting
+1625269907: Config loaded from /etc/mosquitto/mosquitto.conf.
+1625269907: Opening ipv4 listen socket on port 1883.
+1625269907: Opening ipv6 listen socket on port 1883.
+1625269907: mosquitto version 2.0.11 running
+1625269917: New connection from 192.168.0.7:64418 on port 1883.
+1625269918: New client connected from 192.168.0.7:64418 as auto-A5DF5C22-9759-4EF3-0092-0155E67078B9 (p2, c1, k60, u'username').
+1625270097: New connection from 192.168.0.25:53088 on port 1883.
+1625270097: New client connected from 192.168.0.25:53088 as auto-F75BD8AD-612B-5A06-7084-B21BE752458F (p2, c1, k60, u'username').
+1625270097: Client auto-F75BD8AD-612B-5A06-7084-B21BE752458F disconnected due to malformed packet.
+1625270097: New connection from 192.168.0.25:53090 on port 1883.
+1625270097: New client connected from 192.168.0.25:53090 as auto-2A88A268-0385-6073-DC27-D33A0896683E (p2, c1, k60, u'username').
+1625270097: Warning: Received PUBREC from auto-2A88A268-0385-6073-DC27-D33A0896683E for an unknown packet identifier 3584.
+1625270097: Invalid QoS in PUBLISH from auto-2A88A268-0385-6073-DC27-D33A0896683E, disconnecting.
+1625270097: Client auto-2A88A268-0385-6073-DC27-D33A0896683E disconnected due to malformed packet.
+1625270097: New connection from 192.168.0.25:53092 on port 1883.
+1625270097: New client connected from 192.168.0.25:53092 as auto-AFE22E7D-1E74-A08A-AC8D-1F7A1700DF16 (p2, c1, k60, u'username').
+1625270097: Bad socket read/write on client auto-AFE22E7D-1E74-A08A-AC8D-1F7A1700DF16: Invalid function arguments provided.
+1625270097: New connection from 192.168.0.25:53094 on port 1883.
+1625270097: New client connected from 192.168.0.25:53094 as auto-37787F58-F7F7-626E-1954-9848F8693756 (p2, c1, k60, u'username').
+1625270097: Warning: Received PUBREC from auto-37787F58-F7F7-626E-1954-9848F8693756 for an unknown packet identifier 23672.
+1625270097: Client auto-37787F58-F7F7-626E-1954-9848F8693756 disconnected due to malformed packet.
+1625270097: New connection from 192.168.0.25:53096 on port 1883.
+1625270097: New client connected from 192.168.0.25:53096 as auto-9AF451D2-492D-DDBE-0560-D69574036945 (p2, c1, k60, u'username').
+1625270097: Client auto-9AF451D2-492D-DDBE-0560-D69574036945 disconnected.
+1625270097: New connection from 192.168.0.25:53098 on port 1883.
+1625270098: New client connected from 192.168.0.25:53098 as auto-89D45FCB-4174-6FEF-7B5E-55C079D0CD37 (p2, c1, k60, u'username').
+1625270116: Client auto-89D45FCB-4174-6FEF-7B5E-55C079D0CD37 closed its connection.
+1625270144: New connection from 192.168.0.25:53100 on port 1883.
+1625270144: New client connected from 192.168.0.25:53100 as auto-43C5B761-19D8-33DC-2310-3560483D5653 (p2, c1, k60, u'username').
+1625270144: Client auto-43C5B761-19D8-33DC-2310-3560483D5653 disconnected due to malformed packet.
+1625270144: New connection from 192.168.0.25:53102 on port 1883.
+1625270144: New client connected from 192.168.0.25:53102 as auto-97FC8406-CE8B-A088-CA5D-84071B452434 (p2, c1, k60, u'username').
+1625270144: Bad socket read/write on client auto-97FC8406-CE8B-A088-CA5D-84071B452434: Invalid function arguments provided.
+1625270145: New connection from 192.168.0.25:53104 on port 1883.
+1625270145: New client connected from 192.168.0.25:53104 as auto-332E767C-653F-71C6-5173-F37DB8D925BC (p2, c1, k60, u'username').
+1625270145: Client auto-332E767C-653F-71C6-5173-F37DB8D925BC disconnected due to protocol error.
+1625270145: New connection from 192.168.0.25:53106 on port 1883.
+1625270145: New client connected from 192.168.0.25:53106 as auto-7BCE2D81-30C3-2F3B-49B2-E03B92C0D391 (p2, c1, k60, u'username').
+1625270145: Client auto-7BCE2D81-30C3-2F3B-49B2-E03B92C0D391 disconnected due to protocol error.
+1625270145: New connection from 192.168.0.25:53108 on port 1883.
+1625270145: New client connected from 192.168.0.25:53108 as auto-2D31C9C9-55A8-625E-BF2A-9441690B4B9C (p2, c1, k60, u'username').
+1625270145: Invalid QoS in PUBLISH from auto-2D31C9C9-55A8-625E-BF2A-9441690B4B9C, disconnecting.
+1625270145: Client auto-2D31C9C9-55A8-625E-BF2A-9441690B4B9C disconnected due to malformed packet.
+1625270145: New connection from 192.168.0.25:53110 on port 1883.
+1625270145: New client connected from 192.168.0.25:53110 as auto-D57A0320-0FEB-9D00-6B64-6DA4F0C6EFDD (p2, c1, k60, u'username').
+1625270145: Client auto-D57A0320-0FEB-9D00-6B64-6DA4F0C6EFDD disconnected due to malformed packet.
+1625270145: New connection from 192.168.0.25:53112 on port 1883.
+1625270145: New client connected from 192.168.0.25:53112 as auto-E57AF563-1B65-2BD7-3535-880CE43A7029 (p2, c1, k60, u'username').
+1625270145: Client auto-E57AF563-1B65-2BD7-3535-880CE43A7029 disconnected due to malformed packet.
+1625270145: New connection from 192.168.0.25:53114 on port 1883.
+1625270145: New client connected from 192.168.0.25:53114 as auto-06067827-6184-9DAD-A531-0F352EC2A2EC (p2, c1, k60, u'username').
+1625270145: Client auto-06067827-6184-9DAD-A531-0F352EC2A2EC disconnected due to malformed packet.
+1625270145: New connection from 192.168.0.25:53116 on port 1883.
+1625270145: New client connected from 192.168.0.25:53116 as auto-30165E47-E9F3-20A9-0F36-658C11E77E96 (p2, c1, k60, u'username').
+1625270145: Bad socket read/write on client auto-30165E47-E9F3-20A9-0F36-658C11E77E96: Invalid function arguments provided.
+1625270146: New connection from 192.168.0.25:53118 on port 1883.
+1625270146: New client connected from 192.168.0.25:53118 as auto-75360290-14FD-C6A2-8049-F6235C97A79B (p2, c1, k60, u'username').
+1625270146: Client auto-75360290-14FD-C6A2-8049-F6235C97A79B disconnected due to malformed packet.
+1625270146: New connection from 192.168.0.25:53120 on port 1883.
+1625270146: New client connected from 192.168.0.25:53120 as auto-149F0BA6-2667-F004-589D-1778DDDEE335 (p2, c1, k60, u'username').
+1625270146: Bad socket read/write on client auto-149F0BA6-2667-F004-589D-1778DDDEE335: Invalid function arguments provided.
+1625270146: New connection from 192.168.0.25:53122 on port 1883.
+1625270146: New client connected from 192.168.0.25:53122 as auto-C1F4E503-20B4-C6F0-6F99-BA834E88242B (p2, c1, k60, u'username').
+1625270146: Client auto-C1F4E503-20B4-C6F0-6F99-BA834E88242B disconnected due to protocol error.
+1625270146: New connection from 192.168.0.25:53124 on port 1883.
+1625270146: New client connected from 192.168.0.25:53124 as auto-D90C8E0A-1146-41F9-085E-3AD888C46042 (p2, c1, k60, u'username').
+1625270146: Client auto-D90C8E0A-1146-41F9-085E-3AD888C46042 disconnected due to protocol error.
+1625270146: New connection from 192.168.0.25:53126 on port 1883.
+1625270146: New client connected from 192.168.0.25:53126 as auto-7A81D732-2BF4-5CC8-6BE3-677CD391D62A (p2, c1, k60, u'username').
+1625270146: Client auto-7A81D732-2BF4-5CC8-6BE3-677CD391D62A disconnected due to protocol error.
+1625270146: New connection from 192.168.0.25:53128 on port 1883.
+1625270146: New client connected from 192.168.0.25:53128 as auto-02374CB5-E5AF-57DE-87B3-486AC9DAAFFA (p2, c1, k60, u'username').
+1625270146: Client auto-02374CB5-E5AF-57DE-87B3-486AC9DAAFFA disconnected due to malformed packet.
+1625270146: New connection from 192.168.0.25:53130 on port 1883.
+1625270146: New client connected from 192.168.0.25:53130 as auto-5A994442-ABCB-8809-7CA8-2D84EF1ECC6E (p2, c1, k60, u'username').
+1625270146: Client auto-5A994442-ABCB-8809-7CA8-2D84EF1ECC6E disconnected due to protocol error.
+1625270146: New connection from 192.168.0.25:53132 on port 1883.
+1625270147: New client connected from 192.168.0.25:53132 as auto-055B04BC-C1F3-3C47-BEAA-EFE2696895D0 (p2, c1, k60, u'username').
+1625270147: New connection from 192.168.0.25:53134 on port 1883.
+1625270147: New client connected from 192.168.0.25:53134 as auto-BAB21967-BB2F-1F39-65E2-4337C8304835 (p2, c1, k60, u'username').
+1625270147: Client auto-BAB21967-BB2F-1F39-65E2-4337C8304835 disconnected due to malformed packet.
+1625270147: New connection from 192.168.0.25:53136 on port 1883.
+1625270147: New client connected from 192.168.0.25:53136 as auto-0E07C49E-2FC0-A138-0AE0-F2FDA273DB24 (p2, c1, k60, u'username').
+1625270147: Client auto-0E07C49E-2FC0-A138-0AE0-F2FDA273DB24 disconnected due to malformed packet.
+1625270147: New connection from 192.168.0.25:53138 on port 1883.
+1625270147: New client connected from 192.168.0.25:53138 as auto-87B38ABC-076B-C460-191E-9C3B0A03131F (p2, c1, k60, u'username').
+1625270147: Client auto-87B38ABC-076B-C460-191E-9C3B0A03131F disconnected due to protocol error.
+1625270147: New connection from 192.168.0.25:53140 on port 1883.
+1625270147: New client connected from 192.168.0.25:53140 as auto-835295EA-CD7E-41B3-9E68-9D61DD811DF8 (p2, c1, k60, u'username').
+1625270147: Client auto-835295EA-CD7E-41B3-9E68-9D61DD811DF8 disconnected due to malformed packet.
+1625270147: New connection from 192.168.0.25:53142 on port 1883.
+1625270147: New client connected from 192.168.0.25:53142 as auto-1DDCFAE7-562C-A338-9C21-ED81BFED2C0E (p2, c1, k60, u'username').
+1625270147: Invalid QoS in PUBLISH from auto-1DDCFAE7-562C-A338-9C21-ED81BFED2C0E, disconnecting.
+1625270147: Client auto-1DDCFAE7-562C-A338-9C21-ED81BFED2C0E disconnected due to malformed packet.
+1625270147: New connection from 192.168.0.25:53144 on port 1883.
+1625270147: New client connected from 192.168.0.25:53144 as auto-19884901-D1C6-105E-21E8-0652ADEC7F04 (p2, c1, k60, u'username').
+1625270147: Bad socket read/write on client auto-19884901-D1C6-105E-21E8-0652ADEC7F04: Invalid function arguments provided.
+1625270147: New connection from 192.168.0.25:53146 on port 1883.
+1625270147: New client connected from 192.168.0.25:53146 as auto-AE078EBD-5122-7F5A-10FF-EB7D2FFCC8B0 (p2, c1, k60, u'username').
+1625270147: Client auto-AE078EBD-5122-7F5A-10FF-EB7D2FFCC8B0 disconnected due to protocol error.
+1625270148: New connection from 192.168.0.25:53148 on port 1883.
+1625270148: New client connected from 192.168.0.25:53148 as auto-DDEBFCF0-37D5-6858-B869-39805864DC0F (p2, c1, k60, u'username').
+1625270148: Client auto-DDEBFCF0-37D5-6858-B869-39805864DC0F disconnected due to protocol error.
+1625270148: New connection from 192.168.0.25:53150 on port 1883.
+1625270148: New client connected from 192.168.0.25:53150 as auto-D0144AE8-0024-654D-F32F-30146C3A22D0 (p2, c1, k60, u'username').
+1625270148: Client auto-D0144AE8-0024-654D-F32F-30146C3A22D0 disconnected due to protocol error.
+1625270148: New connection from 192.168.0.25:53152 on port 1883.
+1625270148: New client connected from 192.168.0.25:53152 as auto-84095815-97B6-18F1-5841-BF84BEC77274 (p2, c1, k60, u'username').
+1625270148: Client auto-84095815-97B6-18F1-5841-BF84BEC77274 disconnected due to malformed packet.
+1625270148: New connection from 192.168.0.25:53154 on port 1883.
+1625270148: New client connected from 192.168.0.25:53154 as auto-08FEA1DC-93B5-A214-6248-3EA62CB70829 (p2, c1, k60, u'username').
+1625270148: Client auto-08FEA1DC-93B5-A214-6248-3EA62CB70829 disconnected due to malformed packet.
+1625270148: New connection from 192.168.0.25:53156 on port 1883.
+1625270148: New client connected from 192.168.0.25:53156 as auto-C90D1EEB-9EA8-01F8-6903-A692C05CEF5F (p2, c1, k60, u'username').
+1625270148: Client auto-C90D1EEB-9EA8-01F8-6903-A692C05CEF5F disconnected due to malformed packet.
+1625270148: New connection from 192.168.0.25:53158 on port 1883.
+1625270148: New client connected from 192.168.0.25:53158 as auto-AD56F6DF-96E5-6ED7-1013-2B5EBF0514D7 (p2, c1, k60, u'username').
+1625270148: Client auto-AD56F6DF-96E5-6ED7-1013-2B5EBF0514D7 disconnected due to malformed packet.
+1625270148: New connection from 192.168.0.25:53160 on port 1883.
+1625270148: New client connected from 192.168.0.25:53160 as auto-54E6AF8E-07C8-AEF3-B71B-228F08BA2812 (p2, c1, k60, u'username').
+1625270148: Client auto-54E6AF8E-07C8-AEF3-B71B-228F08BA2812 disconnected due to malformed packet.
+1625270149: New connection from 192.168.0.25:53162 on port 1883.
+1625270149: New client connected from 192.168.0.25:53162 as auto-BBD344E5-1DD2-DCFF-29D2-A0DDE77A41EB (p2, c1, k60, u'username').
+1625270149: New connection from 192.168.0.25:53164 on port 1883.
+1625270149: New client connected from 192.168.0.25:53164 as auto-C9286CC1-493D-51E2-3392-C3A77D6B532E (p2, c1, k60, u'username').
+1625270149: Bad socket read/write on client auto-C9286CC1-493D-51E2-3392-C3A77D6B532E: Invalid function arguments provided.
+1625270149: New connection from 192.168.0.25:53166 on port 1883.
+1625270149: New client connected from 192.168.0.25:53166 as auto-F5B91081-6997-8249-783F-FA00B61DD249 (p2, c1, k60, u'username').
+1625270149: Client auto-F5B91081-6997-8249-783F-FA00B61DD249 disconnected due to protocol error.
+1625270149: New connection from 192.168.0.25:53168 on port 1883.
+1625270149: New client connected from 192.168.0.25:53168 as auto-ADC101FA-9BBD-9A33-8D84-81699E71868F (p2, c1, k60, u'username').
+1625270149: Client auto-ADC101FA-9BBD-9A33-8D84-81699E71868F disconnected due to malformed packet.
+1625270149: New connection from 192.168.0.25:53170 on port 1883.
+1625270149: New client connected from 192.168.0.25:53170 as auto-DBFDFD8C-68BB-EA0D-5751-AE6607EEC5E2 (p2, c1, k60, u'username').
+1625270149: Client auto-DBFDFD8C-68BB-EA0D-5751-AE6607EEC5E2 disconnected due to protocol error.
+1625270149: New connection from 192.168.0.25:53172 on port 1883.
+1625270149: New client connected from 192.168.0.25:53172 as auto-DAD83F78-22F2-1AF5-34D6-302166114637 (p2, c1, k60, u'username').
+1625270149: Client auto-DAD83F78-22F2-1AF5-34D6-302166114637 disconnected due to malformed packet.
+1625270149: New connection from 192.168.0.25:53174 on port 1883.
+1625270149: New client connected from 192.168.0.25:53174 as auto-7530AF0B-1850-2EB2-9CB6-F187090E7570 (p2, c1, k60, u'username').
+1625270149: Client auto-7530AF0B-1850-2EB2-9CB6-F187090E7570 disconnected due to malformed packet.
+1625270150: New connection from 192.168.0.25:53176 on port 1883.
+1625270150: New client connected from 192.168.0.25:53176 as auto-9BE7E855-04C6-788A-ED2E-27E13290B0F6 (p2, c1, k60, u'username').
+1625270150: Invalid QoS in PUBLISH from auto-9BE7E855-04C6-788A-ED2E-27E13290B0F6, disconnecting.
+1625270150: Client auto-9BE7E855-04C6-788A-ED2E-27E13290B0F6 disconnected due to malformed packet.
+1625270150: New connection from 192.168.0.25:53178 on port 1883.
+1625270150: New client connected from 192.168.0.25:53178 as auto-525544D8-DA77-94D9-D1C3-ABAB357A492A (p2, c1, k60, u'username').
+1625270150: Client auto-525544D8-DA77-94D9-D1C3-ABAB357A492A disconnected due to protocol error.
+1625270150: New connection from 192.168.0.25:53180 on port 1883.
+1625270150: New client connected from 192.168.0.25:53180 as auto-AC60BFA4-32C0-93F1-0AC1-ACFEAEC0671C (p2, c1, k60, u'username').
+1625270150: Client auto-AC60BFA4-32C0-93F1-0AC1-ACFEAEC0671C disconnected due to malformed packet.
+1625270150: New connection from 192.168.0.25:53182 on port 1883.
+1625270150: New client connected from 192.168.0.25:53182 as auto-36C8E516-9D0B-BE32-D545-72DB802C8E1D (p2, c1, k60, u'username').
+1625270150: Bad socket read/write on client auto-36C8E516-9D0B-BE32-D545-72DB802C8E1D: Invalid function arguments provided.
+1625270150: New connection from 192.168.0.25:53184 on port 1883.
+1625270150: New client connected from 192.168.0.25:53184 as auto-2F8009F8-EDF8-33D5-03EC-14D87991580E (p2, c1, k60, u'username').
+1625270150: Client auto-2F8009F8-EDF8-33D5-03EC-14D87991580E disconnected due to protocol error.
+1625270150: New connection from 192.168.0.25:53186 on port 1883.
+1625270150: New client connected from 192.168.0.25:53186 as auto-FC82804C-F5A1-1AC6-2DD8-063A6B79F67E (p2, c1, k60, u'username').
+1625270150: Bad socket read/write on client auto-FC82804C-F5A1-1AC6-2DD8-063A6B79F67E: Invalid function arguments provided.
+1625270150: New connection from 192.168.0.25:53188 on port 1883.
+1625270150: New client connected from 192.168.0.25:53188 as auto-ED091187-9FB0-F0A7-0936-EF5A9915DEC7 (p2, c1, k60, u'username').
+1625270150: Client auto-ED091187-9FB0-F0A7-0936-EF5A9915DEC7 disconnected due to protocol error.
+1625270151: New connection from 192.168.0.25:53190 on port 1883.
+1625270151: New client connected from 192.168.0.25:53190 as auto-41F64683-1D0A-F8A5-35F6-CA51312C247A (p2, c1, k60, u'username').
+1625270151: Client auto-41F64683-1D0A-F8A5-35F6-CA51312C247A disconnected due to malformed packet.
+1625270151: New connection from 192.168.0.25:53192 on port 1883.
+1625270151: New client connected from 192.168.0.25:53192 as auto-0444EFD4-6242-6645-8EA7-8EC6505CEE47 (p2, c1, k60, u'username').
+1625270151: New connection from 192.168.0.25:53194 on port 1883.
+1625270151: New client connected from 192.168.0.25:53194 as auto-603DEB9A-62FA-A88A-E40B-CFE7D9885CF5 (p2, c1, k60, u'username').
+1625270151: Client auto-603DEB9A-62FA-A88A-E40B-CFE7D9885CF5 disconnected due to malformed packet.
+1625270151: New connection from 192.168.0.25:53196 on port 1883.
+1625270151: New client connected from 192.168.0.25:53196 as auto-CC3A2787-DF9E-BB5F-5091-02A050998D85 (p2, c1, k60, u'username').
+1625270151: Client auto-CC3A2787-DF9E-BB5F-5091-02A050998D85 disconnected due to protocol error.
+1625270151: New connection from 192.168.0.25:53198 on port 1883.
+1625270151: New client connected from 192.168.0.25:53198 as auto-A4271E81-29B9-5AED-8519-4C9ECD4B0C96 (p2, c1, k60, u'username').
+1625270151: Client auto-A4271E81-29B9-5AED-8519-4C9ECD4B0C96 disconnected due to malformed packet.
+1625270151: New connection from 192.168.0.25:53200 on port 1883.
+1625270151: New client connected from 192.168.0.25:53200 as auto-B13655F1-9FA7-F221-9B97-307275248597 (p2, c1, k60, u'username').
+1625270151: Client auto-B13655F1-9FA7-F221-9B97-307275248597 disconnected due to protocol error.
+1625270151: New connection from 192.168.0.25:53202 on port 1883.
+1625270151: New client connected from 192.168.0.25:53202 as auto-603016AD-2862-D9E6-4CF7-ABB31CDC6BA1 (p2, c1, k60, u'username').
+1625270151: Client auto-603016AD-2862-D9E6-4CF7-ABB31CDC6BA1 disconnected due to malformed packet.
+1625270151: New connection from 192.168.0.25:53204 on port 1883.
+1625270152: New client connected from 192.168.0.25:53204 as auto-C2B940D2-8032-2D09-B50B-D642909ABE6E (p2, c1, k60, u'username').
+1625270152: Client auto-C2B940D2-8032-2D09-B50B-D642909ABE6E disconnected due to malformed packet.
+1625270152: New connection from 192.168.0.25:53206 on port 1883.
+1625270152: New client connected from 192.168.0.25:53206 as auto-4CA1A397-76BA-AFAE-D8D1-792B0DB7C6EB (p2, c1, k60, u'username').
+1625270152: Bad socket read/write on client auto-4CA1A397-76BA-AFAE-D8D1-792B0DB7C6EB: Invalid function arguments provided.
+1625270152: New connection from 192.168.0.25:53208 on port 1883.
+1625270152: New client connected from 192.168.0.25:53208 as auto-77C37431-CAA9-E902-BE36-9A66A8E7F4CA (p2, c1, k60, u'username').
+1625270152: Client auto-77C37431-CAA9-E902-BE36-9A66A8E7F4CA disconnected due to malformed packet.
+1625270152: New connection from 192.168.0.25:53210 on port 1883.
+1625270152: New client connected from 192.168.0.25:53210 as auto-95A141E5-97C2-A17E-5777-624214205FCA (p2, c1, k60, u'username').
+1625270152: Bad socket read/write on client auto-95A141E5-97C2-A17E-5777-624214205FCA: Invalid function arguments provided.
+1625270152: New connection from 192.168.0.25:53212 on port 1883.
+1625270152: New client connected from 192.168.0.25:53212 as auto-0DCACE02-8524-61AA-D4EA-41D75C6B3CD9 (p2, c1, k60, u'username').
+1625270152: Invalid QoS in PUBLISH from auto-0DCACE02-8524-61AA-D4EA-41D75C6B3CD9, disconnecting.
+1625270152: Client auto-0DCACE02-8524-61AA-D4EA-41D75C6B3CD9 disconnected due to malformed packet.
+1625270152: New connection from 192.168.0.25:53214 on port 1883.
+1625270152: New client connected from 192.168.0.25:53214 as auto-7970F8DC-9FBD-9B24-2E29-9BFBA605033C (p2, c1, k60, u'username').
+1625270152: Bad socket read/write on client auto-7970F8DC-9FBD-9B24-2E29-9BFBA605033C: Invalid function arguments provided.
+1625270152: New connection from 192.168.0.25:53216 on port 1883.
+1625270152: New client connected from 192.168.0.25:53216 as auto-F340661C-CBE3-A0A8-AD5C-5A63294CBD94 (p2, c1, k60, u'username').
+1625270152: Warning: Received PUBREC from auto-F340661C-CBE3-A0A8-AD5C-5A63294CBD94 for an unknown packet identifier 28260.
+1625270152: Client auto-F340661C-CBE3-A0A8-AD5C-5A63294CBD94 disconnected due to protocol error.
+1625270152: New connection from 192.168.0.25:53218 on port 1883.
+1625270153: New client connected from 192.168.0.25:53218 as auto-9E2D1ADE-9F35-CBFC-A737-0169B3AC427A (p2, c1, k60, u'username').
+1625270153: Client auto-9E2D1ADE-9F35-CBFC-A737-0169B3AC427A disconnected due to malformed packet.
+1625270153: New connection from 192.168.0.25:53220 on port 1883.
+1625270153: New client connected from 192.168.0.25:53220 as auto-124B776B-FE5A-474E-F9BC-E305F79F633E (p2, c1, k60, u'username').
+1625270153: Bad socket read/write on client auto-124B776B-FE5A-474E-F9BC-E305F79F633E: Invalid function arguments provided.
+1625270153: New connection from 192.168.0.25:53222 on port 1883.
+1625270153: New client connected from 192.168.0.25:53222 as auto-4CBFE98D-DC1B-EC4B-A023-437CE6E6EB74 (p2, c1, k60, u'username').
+1625270153: Bad socket read/write on client auto-4CBFE98D-DC1B-EC4B-A023-437CE6E6EB74: Invalid function arguments provided.
+1625270153: New connection from 192.168.0.25:53224 on port 1883.
+1625270153: New client connected from 192.168.0.25:53224 as auto-90658586-C11F-C8D4-9583-246E9C3B10A0 (p2, c1, k60, u'username').
+1625270153: Client auto-90658586-C11F-C8D4-9583-246E9C3B10A0 disconnected due to malformed packet.
+1625270153: New connection from 192.168.0.25:53226 on port 1883.
+1625270153: New client connected from 192.168.0.25:53226 as auto-E02F0417-D1BF-39D2-C47C-C4CFACD342DC (p2, c1, k60, u'username').
+1625270153: Client auto-E02F0417-D1BF-39D2-C47C-C4CFACD342DC disconnected due to protocol error.
+1625270153: New connection from 192.168.0.25:53228 on port 1883.
+1625270153: New client connected from 192.168.0.25:53228 as auto-069FFB42-D5A3-3B95-083A-47D9007AB181 (p2, c1, k60, u'username').
+1625270153: New connection from 192.168.0.25:53230 on port 1883.
+1625270153: New client connected from 192.168.0.25:53230 as auto-205FA1D7-A677-45AD-330D-0D716913AFA6 (p2, c1, k60, u'username').
+1625270153: Client auto-205FA1D7-A677-45AD-330D-0D716913AFA6 disconnected due to protocol error.
+1625270153: New connection from 192.168.0.25:53232 on port 1883.
+1625270154: New client connected from 192.168.0.25:53232 as auto-334CA778-D017-6AE5-E511-E684BF85EBF6 (p2, c1, k60, u'username').
+1625270154: Client auto-334CA778-D017-6AE5-E511-E684BF85EBF6 disconnected due to malformed packet.
+1625270154: New connection from 192.168.0.25:53234 on port 1883.
+1625270154: New client connected from 192.168.0.25:53234 as auto-D7E60850-E87B-7CE6-530C-514650361719 (p2, c1, k60, u'username').
+1625270154: Client auto-D7E60850-E87B-7CE6-530C-514650361719 disconnected due to protocol error.
+1625270154: New connection from 192.168.0.25:53236 on port 1883.
+1625270154: New client connected from 192.168.0.25:53236 as auto-6D38B936-5BE3-A20A-2303-2D9F3D7A730C (p2, c1, k60, u'username').
+1625270154: Client auto-6D38B936-5BE3-A20A-2303-2D9F3D7A730C disconnected due to malformed packet.
+1625270154: New connection from 192.168.0.25:53238 on port 1883.
+1625270154: New client connected from 192.168.0.25:53238 as auto-0B26A9DD-F316-C405-9264-2FE792CD9DE2 (p2, c1, k60, u'username').
+1625270154: Client auto-0B26A9DD-F316-C405-9264-2FE792CD9DE2 disconnected due to protocol error.
+1625270154: New connection from 192.168.0.25:53240 on port 1883.
+1625270154: New client connected from 192.168.0.25:53240 as auto-CAC31D9E-D4E9-F5A1-415F-BBC3AED0C5E7 (p2, c1, k60, u'username').
+1625270154: New connection from 192.168.0.25:53242 on port 1883.
+1625270154: New client connected from 192.168.0.25:53242 as auto-7C479946-F186-2972-44C1-CA9999102512 (p2, c1, k60, u'username').
+1625270154: Bad socket read/write on client auto-7C479946-F186-2972-44C1-CA9999102512: Invalid function arguments provided.
+1625270154: New connection from 192.168.0.25:53244 on port 1883.
+1625270154: New client connected from 192.168.0.25:53244 as auto-5E9FDB74-22A6-BA55-982B-334A3906DAD2 (p2, c1, k60, u'username').
+1625270154: Bad socket read/write on client auto-5E9FDB74-22A6-BA55-982B-334A3906DAD2: Invalid function arguments provided.
+1625270154: New connection from 192.168.0.25:53246 on port 1883.
+1625270154: New client connected from 192.168.0.25:53246 as auto-172024D0-7057-B477-BEBB-D2F8CCFEAC9F (p2, c1, k60, u'username').
+1625270155: New connection from 192.168.0.25:53248 on port 1883.
+1625270155: New client connected from 192.168.0.25:53248 as auto-45A01F9B-F4AF-5A0F-9978-19E8E8097D19 (p2, c1, k60, u'username').
+1625270155: Bad socket read/write on client auto-45A01F9B-F4AF-5A0F-9978-19E8E8097D19: Invalid function arguments provided.
+1625270155: New connection from 192.168.0.25:53250 on port 1883.
+1625270155: New client connected from 192.168.0.25:53250 as auto-4FE61C1B-3AA5-7A21-55B3-A59717B2663A (p2, c1, k60, u'username').
+1625270155: Bad socket read/write on client auto-4FE61C1B-3AA5-7A21-55B3-A59717B2663A: Invalid function arguments provided.
+1625270155: New connection from 192.168.0.25:53252 on port 1883.
+1625270155: New client connected from 192.168.0.25:53252 as auto-5B99F830-BC56-76A7-5526-9AA84B48FEC0 (p2, c1, k60, u'username').
+1625270155: Client auto-5B99F830-BC56-76A7-5526-9AA84B48FEC0 disconnected due to protocol error.
+1625270155: New connection from 192.168.0.25:53254 on port 1883.
+1625270155: New client connected from 192.168.0.25:53254 as auto-B148F86E-BB45-C3E8-B5E0-D40190971B6A (p2, c1, k60, u'username').
+1625270155: Bad socket read/write on client auto-B148F86E-BB45-C3E8-B5E0-D40190971B6A: Invalid function arguments provided.
+1625270155: New connection from 192.168.0.25:53256 on port 1883.
+1625270155: New client connected from 192.168.0.25:53256 as auto-E097934A-4698-DFA1-E6C2-AF37FE18F49D (p2, c1, k60, u'username').
+1625270155: Bad socket read/write on client auto-E097934A-4698-DFA1-E6C2-AF37FE18F49D: Invalid function arguments provided.
+1625270155: New connection from 192.168.0.25:53258 on port 1883.
+1625270155: New client connected from 192.168.0.25:53258 as auto-7D485C0A-F7F5-B8CF-AB94-B5099CE03EB8 (p2, c1, k60, u'username').
+1625270155: Client auto-7D485C0A-F7F5-B8CF-AB94-B5099CE03EB8 disconnected due to malformed packet.
+1625270155: New connection from 192.168.0.25:53260 on port 1883.
+1625270155: New client connected from 192.168.0.25:53260 as auto-F5DB73EE-B38E-2ED3-054E-C49BBF34D18C (p2, c1, k60, u'username').
+1625270155: Client auto-F5DB73EE-B38E-2ED3-054E-C49BBF34D18C disconnected due to malformed packet.
+1625270156: New connection from 192.168.0.25:53262 on port 1883.
+1625270156: New client connected from 192.168.0.25:53262 as auto-F1861AFA-5AF8-4C3F-68D7-BD6BC0FFDAD3 (p2, c1, k60, u'username').
+1625270156: New connection from 192.168.0.25:53264 on port 1883.
+1625270156: New client connected from 192.168.0.25:53264 as auto-A7534F54-5649-DEAD-CC23-9927F532D9CF (p2, c1, k60, u'username').
+1625270156: New connection from 192.168.0.25:53266 on port 1883.
+1625270156: New client connected from 192.168.0.25:53266 as auto-849AC357-1857-8163-AC2B-F1BADCAEC5BA (p2, c1, k60, u'username').
+1625270156: Client auto-849AC357-1857-8163-AC2B-F1BADCAEC5BA disconnected due to malformed packet.
+1625270156: New connection from 192.168.0.25:53268 on port 1883.
+1625270156: New client connected from 192.168.0.25:53268 as auto-DD053045-7BC9-8602-E3CB-E1157EAB8FF5 (p2, c1, k60, u'username').
+1625270156: Bad socket read/write on client auto-DD053045-7BC9-8602-E3CB-E1157EAB8FF5: Invalid function arguments provided.
+1625270156: New connection from 192.168.0.25:53270 on port 1883.
+1625270156: New client connected from 192.168.0.25:53270 as auto-311025BD-EE54-3008-2FB9-9C9801DCC938 (p2, c1, k60, u'username').
+1625270156: New connection from 192.168.0.25:53272 on port 1883.
+1625270156: New client connected from 192.168.0.25:53272 as auto-40501994-AC03-50F1-C016-9635D9F81349 (p2, c1, k60, u'username').
+1625270156: Bad socket read/write on client auto-40501994-AC03-50F1-C016-9635D9F81349: Invalid function arguments provided.
+1625270156: New connection from 192.168.0.25:53274 on port 1883.
+1625270156: New client connected from 192.168.0.25:53274 as auto-29D9A4BD-BA08-4785-CCE3-50C09C0BCD61 (p2, c1, k60, u'username').
+1625270156: Bad socket read/write on client auto-29D9A4BD-BA08-4785-CCE3-50C09C0BCD61: Invalid function arguments provided.
+1625270157: New connection from 192.168.0.25:53276 on port 1883.
+1625270157: New client connected from 192.168.0.25:53276 as auto-6FFEE452-F4F8-B381-BBD9-2928C30FB30C (p2, c1, k60, u'username').
+1625270157: New connection from 192.168.0.25:53278 on port 1883.
+1625270157: New client connected from 192.168.0.25:53278 as auto-FA6C0181-7D60-2C32-45C6-A714A65C8D96 (p2, c1, k60, u'username').
+1625270157: Bad socket read/write on client auto-FA6C0181-7D60-2C32-45C6-A714A65C8D96: Invalid function arguments provided.
+1625270157: New connection from 192.168.0.25:53280 on port 1883.
+1625270157: New client connected from 192.168.0.25:53280 as auto-319256D2-EE87-6108-4A51-D89139A5C2A9 (p2, c1, k60, u'username').
+1625270157: Bad socket read/write on client auto-319256D2-EE87-6108-4A51-D89139A5C2A9: Invalid function arguments provided.
+1625270157: New connection from 192.168.0.25:53282 on port 1883.
+1625270157: New client connected from 192.168.0.25:53282 as auto-A45EA826-EB91-472C-8937-CB0C8EA8B06D (p2, c1, k60, u'username').
+1625270157: Client auto-A45EA826-EB91-472C-8937-CB0C8EA8B06D disconnected due to malformed packet.
+1625270157: New connection from 192.168.0.25:53284 on port 1883.
+1625270157: New client connected from 192.168.0.25:53284 as auto-BA34FE12-3917-ECE3-9728-0E260177C31E (p2, c1, k60, u'username').
+1625270157: Client auto-BA34FE12-3917-ECE3-9728-0E260177C31E disconnected due to malformed packet.
+1625270157: New connection from 192.168.0.25:53286 on port 1883.
+1625270157: New client connected from 192.168.0.25:53286 as auto-B8F3E5E9-DEE6-1C09-74EF-932E3AD03979 (p2, c1, k60, u'username').
+1625270157: Client auto-B8F3E5E9-DEE6-1C09-74EF-932E3AD03979 disconnected due to malformed packet.
+1625270157: New connection from 192.168.0.25:53288 on port 1883.
+1625270157: New client connected from 192.168.0.25:53288 as auto-D9944950-4AC4-650E-D3DF-881E165BA451 (p2, c1, k60, u'username').
+1625270157: Warning: Received PUBREC from auto-D9944950-4AC4-650E-D3DF-881E165BA451 for an unknown packet identifier 28260.
+1625270157: Client auto-D9944950-4AC4-650E-D3DF-881E165BA451 disconnected due to protocol error.
+1625270158: New connection from 192.168.0.25:53290 on port 1883.
+1625270158: Client <unknown> closed its connection.
+1625270158: Client auto-6FFEE452-F4F8-B381-BBD9-2928C30FB30C disconnected: Success.
+1625270158: Client auto-311025BD-EE54-3008-2FB9-9C9801DCC938 disconnected: Success.
+1625270158: Client auto-A7534F54-5649-DEAD-CC23-9927F532D9CF disconnected: Success.
+1625270158: Client auto-F1861AFA-5AF8-4C3F-68D7-BD6BC0FFDAD3 disconnected: Success.
+1625270158: Client auto-172024D0-7057-B477-BEBB-D2F8CCFEAC9F disconnected: Success.
+1625270158: Client auto-CAC31D9E-D4E9-F5A1-415F-BBC3AED0C5E7 disconnected: Success.
+1625270158: Client auto-069FFB42-D5A3-3B95-083A-47D9007AB181 closed its connection.
+1625270158: Client auto-BBD344E5-1DD2-DCFF-29D2-A0DDE77A41EB disconnected: Success.
+1625270158: Client auto-0444EFD4-6242-6645-8EA7-8EC6505CEE47 closed its connection.
+1625270158: Client auto-055B04BC-C1F3-3C47-BEAA-EFE2696895D0 disconnected: Success.
+1625271708: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1625271708: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1625271708: Error: No such file or directory.
+1625273509: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1625273509: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1625273509: Error: No such file or directory.
+1625273556: New connection from 192.168.0.7:58521 on port 1883.
+1625273556: New client connected from 192.168.0.7:58521 as auto-15D1CD59-A111-9720-085D-551027351F04 (p2, c1, k60, u'username').
+1625273556: Client auto-15D1CD59-A111-9720-085D-551027351F04 closed its connection.
+1625273591: Client auto-A5DF5C22-9759-4EF3-0092-0155E67078B9 closed its connection.
+1625273640: mosquitto version 2.0.11 terminating
+1625273640: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1625273640: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1625273640: Error: No such file or directory.

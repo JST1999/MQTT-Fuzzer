@@ -1,0 +1,502 @@
+1624729188: mosquitto version 2.0.11 starting
+1624729188: Config loaded from /etc/mosquitto/mosquitto.conf.
+1624729188: Opening ipv4 listen socket on port 1883.
+1624729188: Opening ipv6 listen socket on port 1883.
+1624729188: mosquitto version 2.0.11 running
+1624729232: New connection from 127.0.0.1:45568 on port 1883.
+1624729232: New client connected from 127.0.0.1:45568 as auto-47AC65B6-0647-7E09-0568-6E348C295C7A (p2, c1, k60, u'username').
+1624729335: New connection from 192.168.0.7:49527 on port 1883.
+1624729335: New client connected from 192.168.0.7:49527 as auto-D73A979C-6C3A-C0D5-6455-0FB401A95322 (p2, c1, k60, u'username').
+1624729335: Client auto-D73A979C-6C3A-C0D5-6455-0FB401A95322 closed its connection.
+1624729363: Client auto-47AC65B6-0647-7E09-0568-6E348C295C7A disconnected.
+1624729367: mosquitto version 2.0.11 terminating
+1624729367: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1624729367: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1624729367: Error: No such file or directory.
+1624980195: mosquitto version 2.0.11 starting
+1624980195: Config loaded from /etc/mosquitto/mosquitto.conf.
+1624980195: Opening ipv4 listen socket on port 1883.
+1624980195: Error: Address already in use
+1624980246: mosquitto version 2.0.11 starting
+1624980246: Config loaded from /etc/mosquitto/mosquitto.conf.
+1624980246: Opening ipv4 listen socket on port 1883.
+1624980246: Error: Address already in use
+1624980260: mosquitto version 2.0.11 starting
+1624980260: Config loaded from /etc/mosquitto/mosquitto.conf.
+1624980260: Opening ipv4 listen socket on port 1883.
+1624980260: Opening ipv6 listen socket on port 1883.
+1624980260: mosquitto version 2.0.11 running
+1624984645: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1624984645: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1624984645: Error: No such file or directory.
+1624984668: New connection from 127.0.0.1:51060 on port 1883.
+1624984668: New client connected from 127.0.0.1:51060 as auto-D4B21743-CC4D-0E7C-867F-5BC1AD0BE131 (p2, c1, k60, u'username').
+1624984696: New connection from 192.168.0.25:47574 on port 1883.
+1624984788: Client <unknown> has exceeded timeout, disconnecting.
+1624985133: New connection from 192.168.0.25:47590 on port 1883.
+1624985226: Client <unknown> has exceeded timeout, disconnecting.
+1624986446: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1624986446: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1624986446: Error: No such file or directory.
+1624988247: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1624988247: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1624988247: Error: No such file or directory.
+1624990048: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1624990048: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1624990048: Error: No such file or directory.
+1624991198: Client auto-D4B21743-CC4D-0E7C-867F-5BC1AD0BE131 disconnected.
+1624991200: New connection from 127.0.0.1:51250 on port 1883.
+1624991200: New client connected from 127.0.0.1:51250 as auto-E20F799D-5128-20F7-99A6-FA24490D1690 (p2, c1, k60, u'username').
+1624991215: New connection from 192.168.0.25:47764 on port 1883.
+1624991243: New client connected from 192.168.0.25:47764 as auto-C421221C-600A-2188-7B22-8C416A2B4330 (p2, c1, k60, u'username').
+1624991263: Client auto-C421221C-600A-2188-7B22-8C416A2B4330 closed its connection.
+1624991315: New connection from 192.168.0.25:47768 on port 1883.
+1624991317: New client connected from 192.168.0.25:47768 as auto-93C7EEFD-AB99-475F-F1A0-55CFE0753B48 (p2, c1, k60, u'username').
+1624991327: Client auto-93C7EEFD-AB99-475F-F1A0-55CFE0753B48 closed its connection.
+1624991849: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1624991849: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1624991849: Error: No such file or directory.
+1624993650: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1624993650: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1624993650: Error: No such file or directory.
+1624993892: New connection from 192.168.0.7:54663 on port 1883.
+1624993905: New client connected from 192.168.0.7:54663 as auto-9005B088-E14E-FF9C-6A3B-E6434583FE0D (p2, c1, k60, u'username').
+1624993915: Client auto-9005B088-E14E-FF9C-6A3B-E6434583FE0D closed its connection.
+1624993931: New connection from 192.168.0.7:54682 on port 1883.
+1624993941: New client connected from 192.168.0.7:54682 as auto-342927DF-ABEC-9DE4-D4E1-F0D6C954816F (p2, c1, k60, u'username').
+1624993961: Client auto-E20F799D-5128-20F7-99A6-FA24490D1690 disconnected.
+1624993961: Client auto-342927DF-ABEC-9DE4-D4E1-F0D6C954816F closed its connection.
+1624993964: mosquitto version 2.0.11 terminating
+1624993964: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1624993964: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1624993964: Error: No such file or directory.
+1624995452: mosquitto version 2.0.11 starting
+1624995452: Config loaded from /etc/mosquitto/mosquitto.conf.
+1624995452: Opening ipv4 listen socket on port 1883.
+1624995452: Opening ipv6 listen socket on port 1883.
+1624995452: mosquitto version 2.0.11 running
+1624995455: New connection from 127.0.0.1:51320 on port 1883.
+1624995455: New client connected from 127.0.0.1:51320 as auto-C63F1004-C84E-79FC-2318-9C12133E417D (p2, c1, k60, u'username').
+1624995469: New connection from 192.168.0.7:61268 on port 1883.
+1624995479: New client connected from 192.168.0.7:61268 as auto-A758D551-C6B8-A14C-5525-ADF3E46CADDF (p2, c1, k60, u'username').
+1624995499: Client auto-A758D551-C6B8-A14C-5525-ADF3E46CADDF closed its connection.
+1624995504: Client auto-C63F1004-C84E-79FC-2318-9C12133E417D disconnected.
+1624995506: mosquitto version 2.0.11 terminating
+1624995506: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1624995506: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1624995506: Error: No such file or directory.
+1624995770: mosquitto version 2.0.11 starting
+1624995770: Config loaded from /etc/mosquitto/mosquitto.conf.
+1624995770: Opening ipv4 listen socket on port 1883.
+1624995770: Opening ipv6 listen socket on port 1883.
+1624995770: mosquitto version 2.0.11 running
+1624995772: New connection from 127.0.0.1:51340 on port 1883.
+1624995772: New client connected from 127.0.0.1:51340 as auto-C43549CB-3DE5-8FC4-C882-1632095C39C2 (p2, c1, k60, u'username').
+1624995867: New connection from 192.168.0.7:59509 on port 1883.
+1624995877: New client connected from 192.168.0.7:59509 as auto-C8FD85EE-7959-773D-9081-187DB8CDF1D6 (p2, c1, k60, u'username').
+1624995897: Client auto-C8FD85EE-7959-773D-9081-187DB8CDF1D6 closed its connection.
+1624995991: New connection from 192.168.0.7:58260 on port 1883.
+1624996001: New client connected from 192.168.0.7:58260 as auto-61E92C52-A6D6-7AB6-7D6A-5C1C0CE56A4F (p2, c1, k60, u'username').
+1624996021: Client auto-61E92C52-A6D6-7AB6-7D6A-5C1C0CE56A4F closed its connection.
+1624996157: New connection from 192.168.0.7:64162 on port 1883.
+1624996167: New client connected from 192.168.0.7:64162 as auto-9D30C18E-791B-EFAB-04F7-318F99C83B52 (p2, c1, k60, u'username').
+1624996187: Client auto-9D30C18E-791B-EFAB-04F7-318F99C83B52 closed its connection.
+1624996320: New connection from 192.168.0.7:63066 on port 1883.
+1624996330: New client connected from 192.168.0.7:63066 as auto-311E70A3-36E0-F9E1-CAA1-D1168DB32C1D (p2, c1, k60, u'username').
+1624996350: Client auto-311E70A3-36E0-F9E1-CAA1-D1168DB32C1D closed its connection.
+1624997570: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1624997570: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1624997570: Error: No such file or directory.
+1624998335: New connection from 192.168.0.7:57666 on port 1883.
+1624998345: New client connected from 192.168.0.7:57666 as auto-35CF48B8-ED96-EE76-B3AF-EF21702F00D2 (p2, c1, k60, u'username').
+1624998365: Client auto-35CF48B8-ED96-EE76-B3AF-EF21702F00D2 closed its connection.
+1624998426: New connection from 192.168.0.7:55124 on port 1883.
+1624998436: New client connected from 192.168.0.7:55124 as auto-670DFC4A-B377-0598-266E-423EE6897CD2 (p2, c1, k60, u'username').
+1624998456: Client auto-670DFC4A-B377-0598-266E-423EE6897CD2 closed its connection.
+1624998465: New connection from 192.168.0.25:47938 on port 1883.
+1624998466: New client connected from 192.168.0.25:47938 as auto-20D967BB-1585-77B9-E5F4-37816DB60985 (p2, c1, k60, u'username').
+1624998468: Client auto-20D967BB-1585-77B9-E5F4-37816DB60985 closed its connection.
+1624998555: New connection from 192.168.0.25:47950 on port 1883.
+1624998556: Client <unknown> closed its connection.
+1624998691: New connection from 192.168.0.25:47956 on port 1883.
+1624998692: New client connected from 192.168.0.25:47956 as auto-F8501D4E-DB37-ED39-03DC-BA1152C04585 (p2, c1, k60, u'username').
+1624998694: Client auto-F8501D4E-DB37-ED39-03DC-BA1152C04585 closed its connection.
+1624999371: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1624999371: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1624999371: Error: No such file or directory.
+1625001562: Client auto-C43549CB-3DE5-8FC4-C882-1632095C39C2 disconnected.
+1625001564: mosquitto version 2.0.11 terminating
+1625001564: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1625001564: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1625001564: Error: No such file or directory.
+1625001567: mosquitto version 2.0.11 starting
+1625001567: Config loaded from /etc/mosquitto/mosquitto.conf.
+1625001567: Opening ipv4 listen socket on port 1883.
+1625001567: Opening ipv6 listen socket on port 1883.
+1625001567: mosquitto version 2.0.11 running
+1625001570: New connection from 127.0.0.1:51504 on port 1883.
+1625001570: New client connected from 127.0.0.1:51504 as auto-67CBAFFC-8B90-BBA6-8858-92D0DF38F666 (p2, c1, k60, u'username').
+1625001578: New connection from 192.168.0.25:48018 on port 1883.
+1625001579: New client connected from 192.168.0.25:48018 as auto-E098CE65-4889-2517-C3F1-80FAF9790F95 (p2, c1, k60, u'username').
+1625001582: Client auto-E098CE65-4889-2517-C3F1-80FAF9790F95 closed its connection.
+1625001698: New connection from 192.168.0.25:48026 on port 1883.
+1625001699: New client connected from 192.168.0.25:48026 as auto-88C627B0-1929-88ED-94C9-90501CC0C051 (p2, c1, k60, u'username').
+1625001702: Client auto-88C627B0-1929-88ED-94C9-90501CC0C051 closed its connection.
+1625001808: New connection from 192.168.0.25:48034 on port 1883.
+1625001829: New client connected from 192.168.0.25:48034 as auto-B4F28AB0-47DE-DC71-4FAF-24B623A8FBD1 (p2, c1, k60, u'username').
+1625001849: Client auto-B4F28AB0-47DE-DC71-4FAF-24B623A8FBD1 closed its connection.
+1625001882: New connection from 192.168.0.25:48040 on port 1883.
+1625001903: New client connected from 192.168.0.25:48040 as auto-9975A73C-43A5-D15F-76F6-2F98358A228B (p2, c1, k60, u'username').
+1625001911: Client auto-9975A73C-43A5-D15F-76F6-2F98358A228B closed its connection.
+1625002071: New connection from 192.168.0.25:48064 on port 1883.
+1625002071: New client connected from 192.168.0.25:48064 as auto-69558C07-D9B8-6D6A-092F-5DC1F1798FC5 (p2, c1, k60, u'username').
+1625002073: Client auto-69558C07-D9B8-6D6A-092F-5DC1F1798FC5 closed its connection.
+1625002112: New connection from 192.168.0.25:48066 on port 1883.
+1625002112: New client connected from 192.168.0.25:48066 as auto-7EF7C88E-85DA-07FC-34AB-C1F50191D75B (p2, c1, k60, u'username').
+1625002122: Client auto-7EF7C88E-85DA-07FC-34AB-C1F50191D75B closed its connection.
+1625002212: New connection from 192.168.0.25:48076 on port 1883.
+1625002212: New client connected from 192.168.0.25:48076 as auto-4F29AA78-2D79-03D7-E656-8873E700777C (p2, c1, k60, u'username').
+1625002222: Client auto-4F29AA78-2D79-03D7-E656-8873E700777C closed its connection.
+1625002821: New connection from 192.168.0.25:48116 on port 1883.
+1625002821: New client connected from 192.168.0.25:48116 as auto-72352104-E59D-6355-0EDB-7E67F703F05B (p2, c1, k60, u'username').
+1625002831: Client auto-72352104-E59D-6355-0EDB-7E67F703F05B closed its connection.
+1625002920: New connection from 192.168.0.7:65280 on port 1883.
+1625002940: New client connected from 192.168.0.7:65280 as auto-F3D3DDB1-9665-1871-21BF-900C6DFC30F1 (p2, c1, k60, u'username').
+1625002960: Client auto-F3D3DDB1-9665-1871-21BF-900C6DFC30F1 closed its connection.
+1625003070: New connection from 192.168.0.25:48120 on port 1883.
+1625003070: New client connected from 192.168.0.25:48120 as auto-AFE162DB-DDEB-5069-850A-78A8A431030F (p2, c1, k60, u'username').
+1625003080: Client auto-AFE162DB-DDEB-5069-850A-78A8A431030F closed its connection.
+1625003123: New connection from 192.168.0.25:48128 on port 1883.
+1625003123: New client connected from 192.168.0.25:48128 as auto-5A3E16AE-FA24-F67F-BBEC-A400B790C6DD (p2, c1, k60, u'username').
+1625003135: Client auto-5A3E16AE-FA24-F67F-BBEC-A400B790C6DD closed its connection.
+1625003161: New connection from 192.168.0.25:48134 on port 1883.
+1625003161: New client connected from 192.168.0.25:48134 as auto-C197B3F8-3041-A3CE-0F51-0AABE60D03E9 (p2, c1, k60, u'username').
+1625003171: Client auto-C197B3F8-3041-A3CE-0F51-0AABE60D03E9 closed its connection.
+1625003233: New connection from 192.168.0.7:60801 on port 1883.
+1625003254: New client connected from 192.168.0.7:60801 as auto-F1781613-1B5E-7F25-1FE6-0620C963D7B0 (p2, c1, k60, u'username').
+1625003274: Client auto-F1781613-1B5E-7F25-1FE6-0620C963D7B0 closed its connection.
+1625003368: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1625003368: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1625003368: Error: No such file or directory.
+1625003408: New connection from 192.168.0.7:60852 on port 1883.
+1625003408: Client <unknown> closed its connection.
+1625003558: New connection from 192.168.0.7:60901 on port 1883.
+1625003558: Client <unknown> closed its connection.
+1625003681: New connection from 192.168.0.7:60939 on port 1883.
+1625003681: New client connected from 192.168.0.7:60939 as auto-A2F545B7-3A79-F9CE-5C31-0583238F6885 (p2, c1, k60, u'username').
+1625003691: Client auto-A2F545B7-3A79-F9CE-5C31-0583238F6885 closed its connection.
+1625003713: mosquitto version 2.0.11 terminating
+1625003713: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1625003713: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1625003713: Error: No such file or directory.
+1625069777: mosquitto version 2.0.11 starting
+1625069777: Config loaded from /etc/mosquitto/mosquitto.conf.
+1625069777: Opening ipv4 listen socket on port 1883.
+1625069777: Opening ipv6 listen socket on port 1883.
+1625069777: mosquitto version 2.0.11 running
+1625069780: New connection from 127.0.0.1:35102 on port 1883.
+1625069780: New client connected from 127.0.0.1:35102 as auto-CDACFB8B-C203-5AE1-6899-699B4556D381 (p2, c1, k60, u'username').
+1625069806: New connection from 192.168.0.25:51736 on port 1883.
+1625069806: New client connected from 192.168.0.25:51736 as auto-9D9C6877-08D4-6D2F-2AD0-8C67B0857C23 (p2, c1, k60, u'username').
+1625069816: Client auto-9D9C6877-08D4-6D2F-2AD0-8C67B0857C23 closed its connection.
+1625070069: New connection from 192.168.0.25:51748 on port 1883.
+1625070069: New client connected from 192.168.0.25:51748 as auto-6014AD3B-2134-8830-425C-31D045A0FABC (p2, c1, k60, u'username').
+1625070134: Client auto-6014AD3B-2134-8830-425C-31D045A0FABC closed its connection.
+1625070419: New connection from 192.168.0.25:51762 on port 1883.
+1625070432: Client <unknown> closed its connection.
+1625070480: New connection from 192.168.0.25:51768 on port 1883.
+1625070575: Client <unknown> has exceeded timeout, disconnecting.
+1625070954: New connection from 192.168.0.25:51786 on port 1883.
+1625070954: New client connected from 192.168.0.25:51786 as auto-27A708CC-F589-2BD6-D326-F90DD1CCBC6D (p2, c1, k60, u'username').
+1625070994: Client auto-27A708CC-F589-2BD6-D326-F90DD1CCBC6D closed its connection.
+1625071053: New connection from 192.168.0.25:51798 on port 1883.
+1625071053: New client connected from 192.168.0.25:51798 as auto-26F0EB54-2A03-D680-B4F2-0E02FE12EEEF (p2, c1, k60, u'username').
+1625071112: Client auto-26F0EB54-2A03-D680-B4F2-0E02FE12EEEF closed its connection.
+1625071194: New connection from 192.168.0.25:51812 on port 1883.
+1625071194: New client connected from 192.168.0.25:51812 as auto-CADE3CF6-1DC6-6E9B-5B16-C2E68E4F1296 (p2, c1, k60, u'username').
+1625071222: New connection from 192.168.0.25:51814 on port 1883.
+1625071222: New client connected from 192.168.0.25:51814 as auto-83A8C5DD-6A37-4ABA-1E78-8AC82463F53E (p2, c1, k60, u'username').
+1625071236: Client auto-83A8C5DD-6A37-4ABA-1E78-8AC82463F53E closed its connection.
+1625071236: Client auto-CADE3CF6-1DC6-6E9B-5B16-C2E68E4F1296 closed its connection.
+1625071244: New connection from 192.168.0.25:51816 on port 1883.
+1625071244: New client connected from 192.168.0.25:51816 as auto-573CA7DA-4893-1479-3749-5B0935D6C749 (p2, c1, k60, u'username').
+1625071281: Client auto-573CA7DA-4893-1479-3749-5B0935D6C749 closed its connection.
+1625071330: New connection from 192.168.0.25:51822 on port 1883.
+1625071330: New client connected from 192.168.0.25:51822 as auto-AEC6E5FC-E018-4EB4-148B-3998831EF67B (p2, c1, k60, u'username').
+1625071345: Client auto-AEC6E5FC-E018-4EB4-148B-3998831EF67B closed its connection.
+1625071578: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1625071578: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1625071578: Error: No such file or directory.
+1625072693: New connection from 192.168.0.25:51862 on port 1883.
+1625072693: New client connected from 192.168.0.25:51862 as auto-C767C3EE-C379-C4DE-7728-252F5446CC84 (p2, c1, k60, u'username').
+1625072755: Client auto-C767C3EE-C379-C4DE-7728-252F5446CC84 closed its connection.
+1625072765: Client auto-CDACFB8B-C203-5AE1-6899-699B4556D381 disconnected.
+1625072767: mosquitto version 2.0.11 terminating
+1625072767: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1625072767: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1625072767: Error: No such file or directory.
+1625087480: mosquitto version 2.0.11 starting
+1625087480: Config loaded from /etc/mosquitto/mosquitto.conf.
+1625087480: Opening ipv4 listen socket on port 1883.
+1625087480: Opening ipv6 listen socket on port 1883.
+1625087480: mosquitto version 2.0.11 running
+1625087482: New connection from 127.0.0.1:35260 on port 1883.
+1625087482: New client connected from 127.0.0.1:35260 as auto-1FE21A10-7174-2A3C-111F-F6C6F4B6BC13 (p2, c1, k60, u'username').
+1625087522: New connection from 192.168.0.25:51894 on port 1883.
+1625087522: New client connected from 192.168.0.25:51894 as auto-D67DE23A-84FA-EA02-9EE4-3150C2DC3FB8 (p2, c1, k60, u'username').
+1625087568: Client auto-D67DE23A-84FA-EA02-9EE4-3150C2DC3FB8 closed its connection.
+1625087889: New connection from 192.168.0.25:51904 on port 1883.
+1625087889: New client connected from 192.168.0.25:51904 as auto-300B3AE9-F74A-4B99-C04A-BACC00018643 (p2, c1, k60, u'username').
+1625087928: Client auto-300B3AE9-F74A-4B99-C04A-BACC00018643 closed its connection.
+1625088417: New connection from 192.168.0.25:51922 on port 1883.
+1625088417: New client connected from 192.168.0.25:51922 as auto-D6ABADF9-F029-B521-A55E-D0B7F8E6C308 (p2, c1, k60, u'username').
+1625088443: New connection from 192.168.0.25:51926 on port 1883.
+1625088444: New client connected from 192.168.0.25:51926 as auto-9958DE4C-37C1-DEDC-F526-AA308719AA77 (p2, c1, k60, u'username').
+1625088511: Client auto-D6ABADF9-F029-B521-A55E-D0B7F8E6C308 has exceeded timeout, disconnecting.
+1625088526: Client auto-9958DE4C-37C1-DEDC-F526-AA308719AA77 closed its connection.
+1625088553: New connection from 192.168.0.25:51934 on port 1883.
+1625088554: New client connected from 192.168.0.25:51934 as auto-C7AD92C0-7C07-B1EE-4FA9-28649D769735 (p2, c1, k60, u'username').
+1625088578: Client auto-C7AD92C0-7C07-B1EE-4FA9-28649D769735 closed its connection.
+1625089257: New connection from 192.168.0.25:51944 on port 1883.
+1625089280: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1625089280: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1625089280: Error: No such file or directory.
+1625089288: New client connected from 192.168.0.25:51944 as auto-ABFEBE1A-27FA-1DBA-29A5-ECAC764CCDE2 (p2, c1, k60, u'username').
+1625089318: Client auto-ABFEBE1A-27FA-1DBA-29A5-ECAC764CCDE2 closed its connection.
+1625089446: New connection from 192.168.0.25:51948 on port 1883.
+1625089460: New client connected from 192.168.0.25:51948 as auto-BE0958A5-9FF3-CE4C-462D-54F5927EB6E7 (p2, c1, k60, u'username').
+1625089485: Client auto-BE0958A5-9FF3-CE4C-462D-54F5927EB6E7 closed its connection.
+1625089545: New connection from 192.168.0.25:51950 on port 1883.
+1625089553: New client connected from 192.168.0.25:51950 as auto-A145F776-C788-0596-CBF4-1D51BF9A1351 (p2, c1, k60, u'username').
+1625089586: Client auto-A145F776-C788-0596-CBF4-1D51BF9A1351 closed its connection.
+1625089796: Client auto-1FE21A10-7174-2A3C-111F-F6C6F4B6BC13 disconnected.
+1625089798: mosquitto version 2.0.11 terminating
+1625089798: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1625089798: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1625089798: Error: No such file or directory.
+1625093882: mosquitto version 2.0.11 starting
+1625093882: Config loaded from /etc/mosquitto/mosquitto.conf.
+1625093882: Opening ipv4 listen socket on port 1883.
+1625093882: Opening ipv6 listen socket on port 1883.
+1625093882: mosquitto version 2.0.11 running
+1625093884: New connection from 127.0.0.1:35478 on port 1883.
+1625093884: New client connected from 127.0.0.1:35478 as auto-E105E96F-2DB8-7687-9127-CE7B466A13F0 (p2, c1, k60, u'username').
+1625093903: New connection from 192.168.0.25:52112 on port 1883.
+1625093904: New client connected from 192.168.0.25:52112 as auto-9084E702-ADF0-0626-3F3E-3163AB99A39C (p2, c1, k60, u'username').
+1625093915: Client auto-9084E702-ADF0-0626-3F3E-3163AB99A39C closed its connection.
+1625094366: New connection from 192.168.0.25:52138 on port 1883.
+1625094367: New client connected from 192.168.0.25:52138 as auto-8BDA2698-6B6A-B8C5-AF00-39D53116A5BE (p2, c1, k60, u'username').
+1625094381: Client auto-8BDA2698-6B6A-B8C5-AF00-39D53116A5BE closed its connection.
+1625094512: New connection from 192.168.0.25:52142 on port 1883.
+1625094513: New client connected from 192.168.0.25:52142 as auto-F49035D5-3BBF-FCD5-C15C-4B8913E9A945 (p2, c1, k60, u'username').
+1625094572: Client auto-F49035D5-3BBF-FCD5-C15C-4B8913E9A945 closed its connection.
+1625094586: Client auto-E105E96F-2DB8-7687-9127-CE7B466A13F0 disconnected.
+1625094587: mosquitto version 2.0.11 terminating
+1625094587: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1625094587: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1625094587: Error: No such file or directory.
+1625159944: mosquitto version 2.0.11 starting
+1625159944: Config loaded from /etc/mosquitto/mosquitto.conf.
+1625159944: Opening ipv4 listen socket on port 1883.
+1625159944: Opening ipv6 listen socket on port 1883.
+1625159944: mosquitto version 2.0.11 running
+1625159946: New connection from 127.0.0.1:35586 on port 1883.
+1625159946: New client connected from 127.0.0.1:35586 as auto-DA8090E3-039B-2C19-5182-D328A160E741 (p2, c1, k60, u'username').
+1625159998: New connection from 192.168.0.25:52220 on port 1883.
+1625159999: New client connected from 192.168.0.25:52220 as auto-048F8D72-962E-4B1D-8D9C-A90FB61CB1F8 (p2, c1, k60, u'username').
+1625160037: Client auto-048F8D72-962E-4B1D-8D9C-A90FB61CB1F8 closed its connection.
+1625160170: Client auto-DA8090E3-039B-2C19-5182-D328A160E741 disconnected.
+1625160171: mosquitto version 2.0.11 terminating
+1625160171: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1625160171: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1625160171: Error: No such file or directory.
+1625163947: mosquitto version 2.0.11 starting
+1625163947: Config loaded from /etc/mosquitto/mosquitto.conf.
+1625163947: Opening ipv4 listen socket on port 1883.
+1625163947: Opening ipv6 listen socket on port 1883.
+1625163947: mosquitto version 2.0.11 running
+1625163951: New connection from 127.0.0.1:35624 on port 1883.
+1625163951: New client connected from 127.0.0.1:35624 as auto-46C8E1EF-0E98-6ED0-28E8-88809B65CBBD (p2, c1, k60, u'username').
+1625163967: New connection from 192.168.0.25:52258 on port 1883.
+1625163967: New client connected from 192.168.0.25:52258 as auto-9274CDB4-AE4F-46DC-749E-BA8E46DCEBE7 (p2, c1, k60, u'username').
+1625163973: Client auto-9274CDB4-AE4F-46DC-749E-BA8E46DCEBE7 closed its connection.
+1625164083: New connection from 192.168.0.25:52260 on port 1883.
+1625164083: New client connected from 192.168.0.25:52260 as auto-FB822F1F-2EAF-B0A9-72C0-4F4C8086935A (p2, c1, k60, u'username').
+1625164089: Client auto-FB822F1F-2EAF-B0A9-72C0-4F4C8086935A closed its connection.
+1625164166: Client auto-46C8E1EF-0E98-6ED0-28E8-88809B65CBBD disconnected.
+1625164170: mosquitto version 2.0.11 terminating
+1625164170: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1625164170: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1625164170: Error: No such file or directory.
+1625165219: mosquitto version 2.0.11 starting
+1625165219: Config loaded from /etc/mosquitto/mosquitto.conf.
+1625165219: Opening ipv4 listen socket on port 1883.
+1625165219: Opening ipv6 listen socket on port 1883.
+1625165219: mosquitto version 2.0.11 running
+1625165220: New connection from 127.0.0.1:35638 on port 1883.
+1625165220: New client connected from 127.0.0.1:35638 as auto-9BB60D0F-9FF8-0984-F5B0-899869A004F2 (p2, c1, k60, u'username').
+1625165229: New connection from 192.168.0.25:52272 on port 1883.
+1625165229: New connection from 192.168.0.25:52274 on port 1883.
+1625165229: New client connected from 192.168.0.25:52272 as auto-86042379-1D3E-C2D3-C62E-ECCE4163C288 (p2, c1, k60, u'username').
+1625165229: Client auto-86042379-1D3E-C2D3-C62E-ECCE4163C288 disconnected.
+1625165229: New connection from 192.168.0.25:52276 on port 1883.
+1625165229: New client connected from 192.168.0.25:52274 as auto-4559997B-9D17-E5A8-8ECF-B39BA2A8FCFA (p2, c1, k60, u'username').
+1625165229: Client auto-4559997B-9D17-E5A8-8ECF-B39BA2A8FCFA disconnected.
+1625165230: New client connected from 192.168.0.25:52276 as auto-76DE259E-3254-471A-CA25-C1CB5E97EA18 (p2, c1, k60, u'username').
+1625165236: Client auto-76DE259E-3254-471A-CA25-C1CB5E97EA18 closed its connection.
+1625165280: New connection from 192.168.0.25:52278 on port 1883.
+1625165280: New client connected from 192.168.0.25:52278 as auto-AC7AB913-16D1-E9EA-B35E-90FC60241B12 (p2, c1, k60, u'username').
+1625165280: Client auto-AC7AB913-16D1-E9EA-B35E-90FC60241B12 disconnected.
+1625165280: New connection from 192.168.0.25:52280 on port 1883.
+1625165280: New connection from 192.168.0.25:52282 on port 1883.
+1625165280: New client connected from 192.168.0.25:52280 as auto-F526A5DF-5520-E950-8DF8-D6C69AE8E8DB (p2, c1, k60, u'username').
+1625165280: Client auto-F526A5DF-5520-E950-8DF8-D6C69AE8E8DB disconnected.
+1625165280: New client connected from 192.168.0.25:52282 as auto-C6A08F32-56F0-E89A-4CBB-805A160DA73B (p2, c1, k60, u'username').
+1625165283: Client auto-C6A08F32-56F0-E89A-4CBB-805A160DA73B closed its connection.
+1625165363: New connection from 192.168.0.25:52286 on port 1883.
+1625165363: New client connected from 192.168.0.25:52286 as auto-E70C7362-7F85-A46D-C1A7-489756F3760C (p2, c1, k60, u'username').
+1625165363: Client auto-E70C7362-7F85-A46D-C1A7-489756F3760C disconnected.
+1625165476: New connection from 192.168.0.25:52330 on port 1883.
+1625165476: New client connected from 192.168.0.25:52330 as auto-5E23310F-A252-50B2-68C0-953E0FC4F4BA (p2, c1, k60, u'username').
+1625165476: Client auto-5E23310F-A252-50B2-68C0-953E0FC4F4BA disconnected.
+1625165698: New connection from 192.168.0.25:52356 on port 1883.
+1625165698: New client connected from 192.168.0.25:52356 as auto-7BB904E1-3425-A317-FFB9-7080C3146107 (p2, c1, k60, u'username').
+1625165698: Client auto-7BB904E1-3425-A317-FFB9-7080C3146107 disconnected.
+1625165805: Client auto-9BB60D0F-9FF8-0984-F5B0-899869A004F2 disconnected.
+1625165846: mosquitto version 2.0.11 terminating
+1625165846: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1625165846: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1625165846: Error: No such file or directory.
+1625166921: mosquitto version 2.0.11 starting
+1625166921: Config loaded from /etc/mosquitto/mosquitto.conf.
+1625166921: Opening ipv4 listen socket on port 1883.
+1625166921: Opening ipv6 listen socket on port 1883.
+1625166921: mosquitto version 2.0.11 running
+1625166929: New connection from 127.0.0.1:35744 on port 1883.
+1625166929: New client connected from 127.0.0.1:35744 as auto-C0965733-2FC1-EE11-F2D5-AF06F1277BA8 (p2, c1, k60, u'username').
+1625166960: New connection from 192.168.0.25:52378 on port 1883.
+1625166960: New connection from 192.168.0.25:52380 on port 1883.
+1625166960: New client connected from 192.168.0.25:52378 as auto-90A3D879-BD86-6F4D-0655-BAB2ABE6CF7E (p2, c1, k60, u'username').
+1625166960: New connection from 192.168.0.25:52382 on port 1883.
+1625166960: New client connected from 192.168.0.25:52380 as auto-1CD0AAFE-B2B8-AAB3-3CFC-2EB7221EAC48 (p2, c1, k60, u'username').
+1625166960: Client auto-90A3D879-BD86-6F4D-0655-BAB2ABE6CF7E disconnected.
+1625166960: Client auto-1CD0AAFE-B2B8-AAB3-3CFC-2EB7221EAC48 disconnected.
+1625166961: New client connected from 192.168.0.25:52382 as auto-FE44C0E7-55C9-5713-6751-1ED82AE60437 (p2, c1, k60, u'username').
+1625166971: Client auto-FE44C0E7-55C9-5713-6751-1ED82AE60437 closed its connection.
+1625167195: New connection from 192.168.0.25:52390 on port 1883.
+1625167195: New client connected from 192.168.0.25:52390 as auto-E594664D-3C0E-532D-0A2D-97482123D0FE (p2, c1, k60, u'username').
+1625167195: Client auto-E594664D-3C0E-532D-0A2D-97482123D0FE disconnected.
+1625167195: New connection from 192.168.0.25:52392 on port 1883.
+1625167196: New connection from 192.168.0.25:52394 on port 1883.
+1625167196: New client connected from 192.168.0.25:52392 as auto-23031916-7D2B-CEF6-D6D5-CDD09B887720 (p2, c1, k60, u'username').
+1625167196: Client auto-23031916-7D2B-CEF6-D6D5-CDD09B887720 disconnected.
+1625167196: New client connected from 192.168.0.25:52394 as auto-F5538B67-A2DB-2F41-31D3-F3327F0D5684 (p2, c1, k60, u'username').
+1625167226: Client auto-F5538B67-A2DB-2F41-31D3-F3327F0D5684 closed its connection.
+1625167943: New connection from 192.168.0.25:52418 on port 1883.
+1625167943: New client connected from 192.168.0.25:52418 as auto-47D4A6BF-4E91-3A8F-FF12-CCAE38626B79 (p2, c1, k60, u'username').
+1625167949: Client auto-47D4A6BF-4E91-3A8F-FF12-CCAE38626B79 closed its connection.
+1625168722: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1625168722: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1625168722: Error: No such file or directory.
+1625169000: Client auto-C0965733-2FC1-EE11-F2D5-AF06F1277BA8 disconnected.
+1625169002: mosquitto version 2.0.11 terminating
+1625169002: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1625169002: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1625169002: Error: No such file or directory.
+1625171795: mosquitto version 2.0.11 starting
+1625171795: Config loaded from /etc/mosquitto/mosquitto.conf.
+1625171795: Opening ipv4 listen socket on port 1883.
+1625171795: Opening ipv6 listen socket on port 1883.
+1625171795: mosquitto version 2.0.11 running
+1625171797: New connection from 127.0.0.1:35844 on port 1883.
+1625171797: New client connected from 127.0.0.1:35844 as auto-F7425D19-38F0-916D-CD1F-43D5CF441521 (p2, c1, k60, u'username').
+1625171997: New connection from 192.168.0.25:52480 on port 1883.
+1625171997: New client connected from 192.168.0.25:52480 as auto-85F0D90D-60CA-0A6B-A38D-ACD63CE4FC62 (p2, c1, k60, u'username').
+1625171997: New connection from 192.168.0.25:52482 on port 1883.
+1625171997: New connection from 192.168.0.25:52484 on port 1883.
+1625171997: Client auto-85F0D90D-60CA-0A6B-A38D-ACD63CE4FC62 disconnected.
+1625171997: New client connected from 192.168.0.25:52482 as auto-FF307841-1A7D-7607-CF7A-EDDF580A3722 (p2, c1, k60, u'username').
+1625171997: New connection from 192.168.0.25:52486 on port 1883.
+1625171997: New client connected from 192.168.0.25:52484 as auto-9498E09A-AC9F-031F-113D-DAB7495683E3 (p2, c1, k60, u'username').
+1625171997: Client auto-FF307841-1A7D-7607-CF7A-EDDF580A3722 disconnected.
+1625171997: Client auto-9498E09A-AC9F-031F-113D-DAB7495683E3 disconnected.
+1625171997: New client connected from 192.168.0.25:52486 as auto-1C4D11DA-A326-BB7D-235F-D7C06B41C5C2 (p2, c1, k60, u'username').
+1625171997: Client auto-1C4D11DA-A326-BB7D-235F-D7C06B41C5C2 disconnected.
+1625171997: New connection from 192.168.0.25:52488 on port 1883.
+1625171997: New connection from 192.168.0.25:52490 on port 1883.
+1625171997: New client connected from 192.168.0.25:52488 as auto-22F1534D-74A6-F439-12C4-7052A609C903 (p2, c1, k60, u'username').
+1625171997: Client auto-22F1534D-74A6-F439-12C4-7052A609C903 disconnected.
+1625171997: New client connected from 192.168.0.25:52490 as auto-DFE35128-B7DE-6366-A7C4-F5C396D0C71B (p2, c1, k60, u'username').
+1625172013: Client auto-DFE35128-B7DE-6366-A7C4-F5C396D0C71B closed its connection.
+1625172478: Client auto-F7425D19-38F0-916D-CD1F-43D5CF441521 disconnected.
+1625172480: mosquitto version 2.0.11 terminating
+1625172480: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1625172480: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1625172480: Error: No such file or directory.
+1625175935: mosquitto version 2.0.11 starting
+1625175935: Config loaded from /etc/mosquitto/mosquitto.conf.
+1625175935: Opening ipv4 listen socket on port 1883.
+1625175935: Opening ipv6 listen socket on port 1883.
+1625175935: mosquitto version 2.0.11 running
+1625175945: New connection from 192.168.0.25:52720 on port 1883.
+1625175945: New client connected from 192.168.0.25:52720 as auto-DBDF0D9C-F0CA-0782-90A6-3F3AC742638E (p2, c1, k60, u'username').
+1625175945: New connection from 192.168.0.25:52722 on port 1883.
+1625175945: New connection from 192.168.0.25:52724 on port 1883.
+1625175945: New connection from 192.168.0.25:52726 on port 1883.
+1625175945: New client connected from 192.168.0.25:52722 as auto-179CA4CE-443E-7696-6898-70050BF281CB (p2, c1, k60, u'username').
+1625175945: Client auto-DBDF0D9C-F0CA-0782-90A6-3F3AC742638E disconnected due to protocol error.
+1625175945: Client auto-179CA4CE-443E-7696-6898-70050BF281CB disconnected due to protocol error.
+1625175945: Client <unknown> closed its connection.
+1625175945: Client <unknown> closed its connection.
+1625176092: mosquitto version 2.0.11 terminating
+1625176092: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1625176092: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1625176092: Error: No such file or directory.
+1625264236: mosquitto version 2.0.11 starting
+1625264236: Config loaded from /etc/mosquitto/mosquitto.conf.
+1625264236: Opening ipv4 listen socket on port 1883.
+1625264236: Opening ipv6 listen socket on port 1883.
+1625264236: mosquitto version 2.0.11 running
+1625264295: New connection from 192.168.0.7:56135 on port 1883.
+1625264295: New client connected from 192.168.0.7:56135 as auto-F8B83679-3C28-D8A0-9D80-76148808739C (p2, c1, k60, u'username').
+1625264350: New connection from 127.0.0.1:36352 on port 1883.
+1625264350: New client connected from 127.0.0.1:36352 as auto-159C8356-3FDA-53BC-0C1B-D63AA5CDEC77 (p2, c1, k60, u'username').
+1625264350: Client auto-159C8356-3FDA-53BC-0C1B-D63AA5CDEC77 disconnected.
+1625264388: Client auto-F8B83679-3C28-D8A0-9D80-76148808739C closed its connection.
+1625264427: New connection from 192.168.0.7:60877 on port 1883.
+1625264427: New client connected from 192.168.0.7:60877 as auto-1505F5C8-5337-066F-9A81-95D2CD8602C0 (p2, c1, k60, u'username').
+1625264502: New connection from 192.168.0.25:52986 on port 1883.
+1625264502: New client connected from 192.168.0.25:52986 as auto-C2D93340-F4A6-8196-90C4-D4A5E569108E (p2, c1, k60, u'username').
+1625264502: Client auto-C2D93340-F4A6-8196-90C4-D4A5E569108E disconnected due to malformed packet.
+1625264503: New connection from 192.168.0.25:52988 on port 1883.
+1625264503: New client connected from 192.168.0.25:52988 as auto-90113914-E70A-8ED1-6FA4-5E32D7B0500A (p2, c1, k60, u'username').
+1625264503: Client auto-90113914-E70A-8ED1-6FA4-5E32D7B0500A disconnected due to protocol error.
+1625264504: New connection from 192.168.0.25:52992 on port 1883.
+1625264504: New client connected from 192.168.0.25:52992 as auto-C89CE067-9424-EE00-6601-C2A9DA319D54 (p2, c1, k60, u'username').
+1625264504: Bad socket read/write on client auto-C89CE067-9424-EE00-6601-C2A9DA319D54: Invalid function arguments provided.
+1625264505: New connection from 192.168.0.25:52994 on port 1883.
+1625264505: New client connected from 192.168.0.25:52994 as auto-CEF874A0-C600-22CF-A941-10E6D7E2D552 (p2, c1, k60, u'username').
+1625264505: Client auto-CEF874A0-C600-22CF-A941-10E6D7E2D552 disconnected due to malformed packet.
+1625264506: New connection from 192.168.0.25:52996 on port 1883.
+1625264506: New client connected from 192.168.0.25:52996 as auto-3DB2067A-D578-C04C-718C-3B7A08A90FAD (p2, c1, k60, u'username').
+1625264506: Bad socket read/write on client auto-3DB2067A-D578-C04C-718C-3B7A08A90FAD: Invalid function arguments provided.
+1625264507: New connection from 192.168.0.25:52998 on port 1883.
+1625264508: New client connected from 192.168.0.25:52998 as auto-A8D09D49-38E3-0B2E-44A3-E43D2BAF8403 (p2, c1, k60, u'username').
+1625264516: Client auto-A8D09D49-38E3-0B2E-44A3-E43D2BAF8403 closed its connection.
+1625264650: New connection from 192.168.0.7:60945 on port 1883.
+1625264650: New client connected from 192.168.0.7:60945 as auto-4C453F2E-3F2D-4E8A-328D-8FB1FD1519B6 (p2, c1, k60, u'username').
+1625264651: Client auto-4C453F2E-3F2D-4E8A-328D-8FB1FD1519B6 closed its connection.
+1625264669: Client auto-1505F5C8-5337-066F-9A81-95D2CD8602C0 closed its connection.
+1625264673: mosquitto version 2.0.11 terminating
+1625264673: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1625264673: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1625264673: Error: No such file or directory.
+1625269592: mosquitto version 2.0.11 starting
+1625269592: Config loaded from /etc/mosquitto/mosquitto.conf.
+1625269592: Opening ipv4 listen socket on port 1883.
+1625269592: Opening ipv6 listen socket on port 1883.
+1625269592: mosquitto version 2.0.11 running
+1625269735: mosquitto version 2.0.11 terminating
+1625269735: Saving in-memory database to /var/lib/mosquitto//mosquitto.db.
+1625269735: Error saving in-memory database, unable to open /var/lib/mosquitto//mosquitto.db.new for writing.
+1625269735: Error: No such file or directory.

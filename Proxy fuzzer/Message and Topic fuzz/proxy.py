@@ -92,7 +92,7 @@ def proxy_handler(client_socket, remote_host, remote_port):
         local_buffer = receive_from(client_socket)
         if len(local_buffer):
             print("[<==] Received %d bytes from local." % len(local_buffer))
-            hexdump(local_buffer)
+            #hexdump(local_buffer)
 
             write_to_file_full_buffer(local_buffer)
             

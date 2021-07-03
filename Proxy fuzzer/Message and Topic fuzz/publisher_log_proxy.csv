@@ -1,0 +1,1630 @@
+2021-07-02 23:21:42.702286,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-02 23:21:42.727018,b'0 \x00\x08dev/testSending message number',b'0\x00\x08dev/testSending message num\xf3\xa0\x80\xa3/testSendinendinestSending message num/testSendinestSending message number'
+2021-07-02 23:21:42.727123,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-02 23:21:42.728281,b'0 \x00\x08dev/testSending message number',b'65536 \x00\x08dev/testSending message number'
+2021-07-02 23:21:42.729339,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-02 23:21:42.732026,b'\xe0\x00',b'\xe0\x80'
+2021-07-02 23:21:42.732128,b'',MESSAGE NOT FUZZED
+2021-07-02 23:21:42.733713,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-02 23:21:42.734833,b'',MESSAGE NOT FUZZED
+2021-07-02 23:21:42.734884,b'',MESSAGE NOT FUZZED
+2021-07-02 23:21:43.767145,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-02 23:21:43.768509,b'0\x0e\x00\x08dev/testMQTT0\x0e\x00\x08dev/testMQTT0\x0e\x00\x08dev/testMQTT0\x0e\x00\x08dev/testMQTT0\x0e\x00\x08dev/testMQTT0\x0e\x00\x08dev/testMQTT0\x0e\x00\x08dev/testMQTT',b'0\x0e\x00\x08dev/testMQTT0\x0e\x00\x08dev/testMQT0\x0e\x00\x08dev/testMQTT'
+2021-07-02 23:21:43.769248,b'0\x0e\x00\x08dev/testMQTT',MESSAGE NOT FUZZED
+2021-07-02 23:21:43.773499,b'0\x0e\x00\x08dev/testMQTT',b'0\xf3\xa0\x80\xac\xf3\xa0\x81\xe2\x81\xa8\xac21\x0e\x00\x08\xf3\xa0\x81\xa0dtMQTT'
+2021-07-02 23:21:43.773559,b'0\x0e\x00\x08dev/testMQTT',MESSAGE NOT FUZZED
+2021-07-02 23:21:43.776018,b'0\x0e\x00\x08dev/testMQTT',b'-128\xc0\xb5\x0e\xb5\xe1\x9a\x80\x0e\x00\x08devT'
+2021-07-02 23:21:43.776077,b'0\x0e\x00\x08dev/testMQTT',MESSAGE NOT FUZZED
+2021-07-02 23:21:43.785335,b'0\x0e\x00\x08dev/testMQTT',b'0\x00\x08dev/tesQ\xb0\xa0T\x81\xe2\xca'
+2021-07-02 23:21:43.785434,b'0\x0e\x00\x08dev/testMQTT\xe0\x00',MESSAGE NOT FUZZED
+2021-07-02 23:21:43.785764,b'',b'5'
+2021-07-02 23:21:43.785873,b'',MESSAGE NOT FUZZED
+2021-07-02 23:21:43.788243,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-02 23:21:43.788492,b'',MESSAGE NOT FUZZED
+2021-07-02 23:21:43.788543,b'',MESSAGE NOT FUZZED
+2021-07-02 23:21:44.804023,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-02 23:21:44.813149,"b'0(\x00\x08dev/testsocket.sendall(bytes[, flags])'","b'1(\x00\x08de\xf3\xa0\x80\xbfv/testsocket.sendall(bytes[\xf3\xa0\x81\x8a, flags])'"
+2021-07-02 23:21:44.813472,"b'0(\x00\x08dev/testsocket.sendall(bytes[, flags])0(\x00\x08dev/testsocket.sendall(bytes[, flags])0(\x00\x08dev/testsocket.sendall(bytes[, flags])0(\x00\x08dev/testsocket.sendall(bytes[, flags])'",MESSAGE NOT FUZZED
+2021-07-02 23:21:44.819315,"b'0(\x00\x08dev/testsocket.sendall(bytes[, flags])'","b'0(\x00\x08dev/testsocketsendall(bytes[, flags])'"
+2021-07-02 23:21:44.820206,"b'0(\x00\x08dev/testsocket.sendall(bytes[, flags])0(\x00\x08dev/testsocket.sendall(bytes[, flags])'",MESSAGE NOT FUZZED
+2021-07-02 23:21:44.826890,"b'0(\x00\x08dev/testsocket.sendall(bytes[, flags])'","b'1(\x00\x08dev/testsocket.sen\xcd\x8fdalm(ytes[, flags])'"
+2021-07-02 23:21:44.827539,"b'0(\x00\x08dev/testsocket.sendall(bytes[, flags])0(\x00\x08dev/testsocket.sendall(bytes[, flags])0(\x00\x08dev/testsocket.sendall(bytes[, flags])'",MESSAGE NOT FUZZED
+2021-07-02 23:21:44.830991,"b'0(\x00\x08dev/testsocket.sendall(bytes[, flags])'","b'0(\x00\x08dev/testsocket.sendall(bytes[, flags\xf3\xa0\x81\x85\xf3\xa0\x81\xbc])'"
+2021-07-02 23:21:44.831155,"b'0(\x00\x08dev/testsocket.sendall(bytes[, flags])'",MESSAGE NOT FUZZED
+2021-07-02 23:21:44.833289,b'\xe0\x00',b'\xf3\xa0\x81\xbc\xe0\xc0\x80'
+2021-07-02 23:21:44.833936,b'',MESSAGE NOT FUZZED
+2021-07-02 23:21:44.843884,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-02 23:21:44.844042,b'',MESSAGE NOT FUZZED
+2021-07-02 23:21:44.844090,b'',MESSAGE NOT FUZZED
+2021-07-02 23:21:45.854298,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-02 23:21:45.861055,b'0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password',b'0P\x00\x08dev/dev/test\\x10 \xa0\x81\x9708password'
+2021-07-02 23:21:45.861493,b'0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password',MESSAGE NOT FUZZED
+2021-07-02 23:21:45.864640,b'0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password',b'0P\x00\x08dev/test\\x10 \\x00\\x\xe2\x80\x8e04MQTT\\x04\\xc2\\x00<\\x00\\x08passworname\\x00\\x08password'
+2021-07-02 23:21:45.865023,b'0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password',MESSAGE NOT FUZZED
+2021-07-02 23:21:45.871903,b'0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password',b'0P\x00\x08dev/test\\x\xc2\xa010 \\x00\\x08userna\xf3\xa0\x81\x8f\xf3\xa0\x81\xadme\\x00\\x08password'
+2021-07-02 23:21:45.872432,b'0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password',MESSAGE NOT FUZZED
+2021-07-02 23:21:45.876076,b'0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password',b'0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x0password'
+2021-07-02 23:21:45.876427,b'0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password',MESSAGE NOT FUZZED
+2021-07-02 23:21:45.878118,b'0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password',b'0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x\xc0\xb08password'
+2021-07-02 23:21:45.879241,b'0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password',MESSAGE NOT FUZZED
+2021-07-02 23:21:45.884685,b'\xe0\x00',b'\xf4\x8f\xbf\xf4\x8f\xbf\xe2\x80\x89\xf3\xa0\x80\xa9\xf3\xe3\x80\x80\xa0\x80\xa8\xbe\xf3\xa0\x81\x8f\xf3\xa0\x81\x9e\xf3\xa0\xef\xbc\x8f\xa0\x80\xb4\xc0\x80'
+2021-07-02 23:21:45.884753,b'',MESSAGE NOT FUZZED
+2021-07-02 23:21:45.888812,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-02 23:21:45.888950,b'',MESSAGE NOT FUZZED
+2021-07-02 23:21:45.889004,b'',MESSAGE NOT FUZZED
+2021-07-02 23:21:46.903107,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-02 23:21:46.907630,b'0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.',b'0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data (up to bufsize bytes) and ancillary data from the socket.'
+2021-07-02 23:21:46.907839,b'0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.',MESSAGE NOT FUZZED
+2021-07-02 23:21:46.911114,b'0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.',b'0W\x00\x08dev/testReceive normal data (up to bufsize bytes) an\xf3\xa0\x81\x84d ancillary data from the socket.'
+2021-07-02 23:21:46.911473,b'0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.',MESSAGE NOT FUZZED
+2021-07-02 23:21:46.926078,b'0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.',b'0W\x00\x08devnd ancillary data (up to bufs\xe2\x81\x9fize bytes) and ancillary data from tie socket.'
+2021-07-02 23:21:46.926196,b'0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.',MESSAGE NOT FUZZED
+2021-07-02 23:21:46.928635,b'0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.',b'0W\x00\x08dev/testReceivfsize btes) and ancillar ancillary data from the socket.'
+2021-07-02 23:21:46.928723,b'0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.',MESSAGE NOT FUZZED
+2021-07-02 23:21:46.930612,b'\xe0\x00',b'\xef\xbb\xbf\xe0\xf3\xa0\x81\x87\x00'
+2021-07-02 23:21:46.930666,b'',MESSAGE NOT FUZZED
+2021-07-02 23:21:46.938437,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-02 23:21:46.939241,b'',MESSAGE NOT FUZZED
+2021-07-02 23:21:46.940010,b'',MESSAGE NOT FUZZED
+2021-07-02 23:21:47.947850,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-02 23:21:48.467329,b'',b'('
+2021-07-02 23:21:48.467427,b'',MESSAGE NOT FUZZED
+2021-07-02 23:21:48.468485,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.113134,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.120988,b'0 \x00\x08dev/testSending message number',b'29 \x00\x08dev/testSending me\xf3\xa0\x81\xb5ssage num\xf3\xa0\x81\x83numb\xf3\xa0\x81\x83er'
+2021-07-03 00:54:57.121060,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.124056,b'0 \x00\x08dev/testSending message number',b'18446744073709551615 \x00\x08devsbge number'
+2021-07-03 00:54:57.124112,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.126711,b'0 \x00\x08dev/testSending message number',b'-6483011355922290 \x00\x08dev/testSending message number'
+2021-07-03 00:54:57.127682,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.136600,b'0 \x00\x08dev/testSending message number',b'0 \xf3\xa0\x81\xa8\x00\x08\xf3\xa0\x81\xa3\r\xef\xbd\xb0d\xe0\xb9\xf3\xa0\x80\xa2\xf3\xa0\x81\xa8\x00\x08num\xf3\xa0\x80\xa9ber'
+2021-07-03 00:54:57.136681,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.138161,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message \x00\x08dev/testSending message number'
+2021-07-03 00:54:57.139562,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.143483,b'0 \x00\x08dev/testSending message number',b't\x081/dv \x00e\xf3\xa0\x81\x9e\xfb\xee(esage number'
+2021-07-03 00:54:57.143543,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.143873,b'',b'\xa3'
+2021-07-03 00:54:57.143924,b'',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.152144,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.156145,b'',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.156291,b'',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.266008,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.280035,b'0\x0e\x00\x08dev/testMQTT',b'0\x0e\x00\x08dev\xf3\xa0\x80\xa4/testMQTT'
+2021-07-03 00:54:57.280821,b'0\x0e\x00\x08dev/testMQTT0\x0e\x00\x08dev/testMQTT0\x0e\x00\x08dev/testMQTT0\x0e\x00\x08dev/testMQTT0\x0e\x00\x08dev/testMQTT0\x0e\x00\x08dev/testMQTT0\x0e\x00\x08dev/testMQTT',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.285418,b'0\x0e\x00\x08dev/testMQTT',b'18446744073709551613\x0e\x00\x08d\xf3\xa0\x80\xb8ev/testMQTT'
+2021-07-03 00:54:57.285538,b'0\x0e\x00\x08dev/testMQTT0\x0e\x00\x08dev/testMQTT',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.287043,b'0\x0e\x00\x08dev/testMQTT',b'0\x0e\x00\xf3\xa0\x81\x92\x08dev/testMQTT'
+2021-07-03 00:54:57.288686,b'0\x0e\x00\x08dev/testMQTT',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.291033,b'0\x0e\x00\x08dev/testMQTT',b'0\x0e0\x0e\x00\x08dev/testMQTTT'
+2021-07-03 00:54:57.292552,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.292884,b'',b'('
+2021-07-03 00:54:57.292928,b'',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.297948,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.343009,b'b\x02\x0e\x00',b'b\x02\xc0\x8e\x01'
+2021-07-03 00:54:57.344439,b'',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.344480,b'',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.410293,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.416204,"b'0(\x00\x08dev/testsocket.sendall(bytes[, flags])'","b'0(\x00\x08dev/testsocket.sendall(bytes[, lags])'"
+2021-07-03 00:54:57.428066,"b'0(\x00\x08dev/testsocket.sendall(bytes[, flags])'",MESSAGE NOT FUZZED
+2021-07-03 00:54:57.443367,"b'0(\x00\x08dev/testsocket.sendall(bytes[, flags])0(\x00\x08dev/testsocket.sendall(bytes[, flags])0(\x00\x08dev/testsocket.sendall(bytes[, flags])0(\x00\x08dev/testsocket.sendall(bytes[, flags])0(\x00\x08dev/testsocket.sendall(bytes[, flags])0(\x00\x08dev/testsocket.sendall(bytes[, flags])0(\x00\x08dev/testsocket.sendall(bytes[, flags])'","b'0(\x00\x08dev/testsocket.sendall(ball(bytes[, flags])0(\x00\x08dev/testsocket.sendall(bytes[, flags])'"
+2021-07-03 00:54:57.443497,"b'0(\x00\x08dev/testsocket.sendall(bytes[, flags])0(\x00\x08dev/testsocket.sendall(bytes[, flags])0(\x00\x08dev/testsocket.sendall(bytes[, flags])0(\x00\x08dev/testsocket.sendall(bytes[, flags])0(\x00\x08dev/testsocket.sendall(bytes[, flags])\xe0\x00'",MESSAGE NOT FUZZED
+2021-07-03 00:54:57.443857,b'',b'L'
+2021-07-03 00:54:57.443908,b'',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.444734,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.447732,b'',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.447811,b'',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.561499,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.587373,b'0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password',b'0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\\xf3\xa0\x81\x86x08password'
+2021-07-03 00:54:57.587477,b'0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password0P\x00\x08dev/test\\x10 \\x00\\x04MQTT\\x04\\xc2\\x00<\\x00\\x00\\x00\\x08username\\x00\\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.590072,b'\xe0\x00',b'\x00'
+2021-07-03 00:54:57.590147,b'',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.593764,b' \x02\x00\x00b\x02\\x',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.594184,b'',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.594234,b'',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.708889,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.738555,b'0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.',b'0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.'
+2021-07-03 00:54:57.738667,b'0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.0W\x00\x08dev/testReceive normal data (up to bufsize bytes) and ancillary data from the socket.\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.739158,b'',b'A'
+2021-07-03 00:54:57.739226,b'',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.740249,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.748691,b'',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.748774,b'',MESSAGE NOT FUZZED
+2021-07-03 00:54:57.843004,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:54:58.353648,b'',b'\xf0'
+2021-07-03 00:54:58.353716,b'',MESSAGE NOT FUZZED
+2021-07-03 00:54:58.354745,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:13.369230,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:44.734606,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:44.736888,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev\xe1\x9a\x80/\xe2\x80\x85testSending message numb\xe2\x81\xa5er'
+2021-07-03 00:55:44.737291,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:44.738948,b'0 \x00\x08dev/testSending message number',b'170141183460469231731687303715884105727 \x00\x08dev/testSending message number'
+2021-07-03 00:55:44.740287,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:44.748800,b'0 \x00\x08dev/testSending message number',b'-510423550\xf3\xa0\x81\x96381407695195061911147652317184 \x00\x08dev/testSending message number'
+2021-07-03 00:55:44.748861,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:44.770074,b'0 \x00\x08dev/testSending message number',b'\xf3\xa0\x81\xbf\xc0\xb124 \x00\x08\xcb\x90d+/v+ev\xf3\xa0\x80\xb2/test\xe2\xf3\xa0\x81\x90\x80\xf3\xa0\x81\xf3\x80\xac\xb1\x8c\xf3\xa0\x81\x82S\xf3\xa0\x81\xb9enu\xef\xbe\xa0mber'
+2021-07-03 00:55:44.770152,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:44.770478,b'',b'\x08'
+2021-07-03 00:55:44.770527,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:44.772376,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:44.772498,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:44.772534,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:44.884017,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:44.892193,b'0 \x00\x08dev/testSending message number',b'.1 \x00\x08dev/testestSend\xf3\xa0\x80\xb5ing message number'
+2021-07-03 00:55:44.892260,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:44.898843,b'0 \x00\x08dev/testSending message number',b'\x84\xe2\x80\xac-454ng\xe2\x80\x86 message numer'
+2021-07-03 00:55:44.898912,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:44.908989,b'0 \x00\x08dev/testSending message number',b'-\xf3\xa0\x81\x9d1\x00\xf3\xf3\xa0\x81\x93\xa0\xf3\xa0\x80\xbd\x81\xa0\x81\x93\xa0\x81\xabdevm\xf3\xa0\x80\xb4bevm\xf3\xa0\x80\xb4ber'
+2021-07-03 00:55:44.909099,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:44.915092,b'0 \x00\x08dev/testSending message number',b'-1388 \x00\xf3\xa0\x81\x98\xef\xbd\xb0\x08\xf3\xa0\xb6dev/tSeagenumber'
+2021-07-03 00:55:44.915168,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:44.915411,b'',b'\x97'
+2021-07-03 00:55:44.915446,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:44.916485,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:44.916709,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:44.916766,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.031151,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.037343,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending me\xf3\xa0\x80\xb5ssage number'
+2021-07-03 00:55:45.037415,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.039056,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08de\xf3\xa0\x80\xa0v/te\x00\x00\xff\xffstSending message number'
+2021-07-03 00:55:45.039992,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.045734,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending mef\xfe\xffs\xe2\x80\xa8sag\te number'
+2021-07-03 00:55:45.045856,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.048538,b'0 \x00\x08dev/testSending message number',b'\xcb\xb1r'
+2021-07-03 00:55:45.048920,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.055178,b'0 \x00\x08dev/testSending message number',b'S\xe3\x80\x80endindinumber'
+2021-07-03 00:55:45.055268,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.057033,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending m\xf3\xa0\x80\xbeessage number'
+2021-07-03 00:55:45.058411,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.061356,b'\xe0\x00',b'\xf3\x81\xa5\xe0\x01'
+2021-07-03 00:55:45.061401,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.063673,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.063852,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.063890,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.173292,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.175573,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08de\xe2\x80\x80v/testSending message number'
+2021-07-03 00:55:45.176051,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.211629,b'0 \x00\x08dev/testSending message number',b'170141183460469231731687303715884105727 \x00\x08dev/t\xca\xb5estSending message number170141183460469231e number170141183460469231731687303715884105727 \x00\x08dev/t\xca\xb5estSending message number170141183460469231731687303715884105727 \x00\x08dev/t\xca\xb5estSending message number'
+2021-07-03 00:55:45.220313,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.220662,b'',b'/'
+2021-07-03 00:55:45.220703,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.221469,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.228284,b'p\x02r0',b'p\xe2\x80\xf3\xa0\x80\xb9\xab\xe2\x81\xf3\xa0\x81\x82\xa6\x02\xff\xff\x00\x00r0'
+2021-07-03 00:55:45.228592,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.228704,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.315370,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.317753,b'0 \x00\x08dev/testSending message number',b'65535 \x00\x08dev/tessage number'
+2021-07-03 00:55:45.317858,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.320802,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08dev/testSending message num\xe2\x80\xadber'
+2021-07-03 00:55:45.321041,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.325036,b'0 \x00\x08dev/testSending message number',b'-2 \x00\x08dev/testnding mes message numage number'
+2021-07-03 00:55:45.326327,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.326970,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/tending message number'
+2021-07-03 00:55:45.327910,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.330917,b'0 \x00\x08dev/testSending message number',b'8064044618296646992265402 \x00\x08\xf3\xa0\x81\xb1dev/testSending message \xf3\xa0\x81\x9cnumber'
+2021-07-03 00:55:45.331837,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.335216,b'0 \x00\x08dev/testSending message number',b'827 \x00\x08dev/testSending message numer'
+2021-07-03 00:55:45.335720,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.339524,b'0 \x00\x08dev/testSending message number',b'-2 \x00\x08dev/testSending message\xf3\xa0\x81\xa0 number'
+2021-07-03 00:55:45.339592,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.342312,b'\xe0\x00',b'\xf3\xa0\x81\xbd\xe0\x01'
+2021-07-03 00:55:45.342367,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.343340,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.343457,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.343495,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.455422,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.458043,b'0 \x00\x08dev/testSending message number',b'4294967295 \x00\x08dev/testSending message number'
+2021-07-03 00:55:45.458248,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.465152,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08d\xf3\xa0\x80\xbee\xf3\xa0\x81\xb1v/tfstSending messag\xef\xbb\xbee numbe\xf3\xa0\xc2\xb7\x80\xa1be\xf3\xa0\x80\xa1r'
+2021-07-03 00:55:45.465276,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.469388,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/ter'
+2021-07-03 00:55:45.469527,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.472040,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending e number'
+2021-07-03 00:55:45.473991,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.481879,b'0 \x00\x08dev/testSending message number',b'message numb\xf3\xa0\x81\x92er'
+2021-07-03 00:55:45.481981,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.483377,b'\xe0\x00',b'\xe0\xc2\xb7\x00'
+2021-07-03 00:55:45.483445,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.484552,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.484695,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.484747,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.595650,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.600684,b'0 \x00\x08dev/testSending message number',b'9223372036854775808 \x00\x08dev/\xf3\xa0\x81\x84testSe\xf3\xa0\x81\x83ndinng\xf3\xa0\x80\xb9 mes\xf3\xa0\x81\x80sage number'
+2021-07-03 00:55:45.600759,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.602923,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08dev/testSending message number'
+2021-07-03 00:55:45.603383,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.615357,b'0 \x00\x08dev/testSending message number',b'170141183460469231731687303720179073024 \x00\x08dev/testSending message nu\xef\xbf\xbfmb\xe2\x81\xa6er32767 \x00\x08dev/testSending message nu\xef\xbf\xbfmb\xe2\x81\xa6er'
+2021-07-03 00:55:45.615448,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.620701,b'0 \x00\x08dev/testSending message number',b'0 \x00\xf3\xa0\x80\xb9\x08dev/testSend\xca\xb7ng message nu\xf3\xa0\x81\x9dmreb'
+2021-07-03 00:55:45.620785,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.622566,b'\xe0\x00',b''
+2021-07-03 00:55:45.623777,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.623899,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.623937,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.735860,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.737732,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSendi\xe0\xb9\x84ng message n\xe1\x85\xa0umber'
+2021-07-03 00:55:45.737834,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.741693,b'0 \x00\x08dev/testSending message number',b'9812 \x00\x08eumber'
+2021-07-03 00:55:45.741741,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.744027,b'0 \x00\x08dev/testSending message number',b'229 \x00\x08dev/testSending message number'
+2021-07-03 00:55:45.745502,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.773542,b'0 \x00\x08dev/testSending message number',b'2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testS\nending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483649 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483647 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number2147483648 \x00\x08dev/testSending essage number'
+2021-07-03 00:55:45.773689,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.774413,b'',b'\x02'
+2021-07-03 00:55:45.774491,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.777095,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.777266,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.777317,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.876502,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.901262,b'0 \x00\x08dev/testSending message number',b'-128 \x00\x08dev/testSending message \xf3\xa0\x80\xa4numsag\xf3\xa0\x81\x9ae numsagenumsage numsagenumbe\xf3\xa0\x80\xa0r'
+2021-07-03 00:55:45.901480,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.906948,b'0 \x00\x08dev/testSending message number',b'-170141183460469231731687303715884380681 \x00\x08dev/tesagenumber'
+2021-07-03 00:55:45.907077,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.907599,b'',b'E'
+2021-07-03 00:55:45.907671,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.909713,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.910863,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:45.910934,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.017624,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.019111,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08d\xef\xbf\xbfev/testending m\xf3\xa0\x81\x8aessage number'
+2021-07-03 00:55:46.020678,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.032692,b'0 \x00\x08dev/testSending message number',b'-61065753325180932368656741 er'
+2021-07-03 00:55:46.032763,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.039044,b'0 \x00\x08dev/testSending message number',b'-4294967299 \x00\x08dev/te\x00\x00\xff\xffstSending message number'
+2021-07-03 00:55:46.039122,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.043080,b'0 \x00\x08dev/testSending message number',b'-1 \x00\x08dev/tesSending messa\xf3\xa0\x81\xa3ge n\xf3\xa0\x81\xb5umber'
+2021-07-03 00:55:46.043151,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.044962,b'\xe0\x00',b'\xf3\xa0\x80\xba\xe0\x00'
+2021-07-03 00:55:46.045014,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.045722,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.046552,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.046600,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.148350,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.149716,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08ev/testSending message number'
+2021-07-03 00:55:46.150266,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.158603,b'0 \x00\x08dev/testSending message number',b'1664296037918159502 er'
+2021-07-03 00:55:46.158673,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.160954,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/\xf3\xa0\x81\x95testSending message number'
+2021-07-03 00:55:46.161913,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.165417,b'0 \x00\x08dev/testSending message number',b'di\xe1\xbe\x82ng message number'
+2021-07-03 00:55:46.165803,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.168349,b'0 \x00\x08dev/testSending message number',b'340282366920938463463374607431768211455 \x00\x08dev/testSending message number'
+2021-07-03 00:55:46.169766,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.173656,b'0 \x00\x08dev/testSending message number',b'126 \x00\x08de/testSending message number'
+2021-07-03 00:55:46.173704,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.177585,b'\xe0\x00',b'\x80\x85\xa4\x00'
+2021-07-03 00:55:46.177637,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.179049,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.179555,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.179634,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.288639,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.294530,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08dev/tstSending mes\xca\xb8sage number'
+2021-07-03 00:55:46.294673,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.303010,b'0 \x00\x08dev/testSending message number',b'18446744078004518911 \x00\x08dev/\xf3\xa0\x80\xa3testSending message number'
+2021-07-03 00:55:46.303357,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.319493,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSenumber'
+2021-07-03 00:55:46.319596,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.319959,b'',b'*'
+2021-07-03 00:55:46.320006,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.327667,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.327796,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.327833,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.428949,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.430503,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending messag+/v8e number'
+2021-07-03 00:55:46.431838,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.443632,b'0 \x00\x08dev/testSending message number',b'-1 message nnumber'
+2021-07-03 00:55:46.443716,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.448087,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08devstSending message number'
+2021-07-03 00:55:46.448182,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.453374,b'0 \x00\x08dev/testSending message number',b'137 \x00nding \xe2\x80\x82message number'
+2021-07-03 00:55:46.453469,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.455562,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending mestSending message number'
+2021-07-03 00:55:46.456154,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.456573,b'',b'\xfe'
+2021-07-03 00:55:46.456624,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.458022,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.458160,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.458212,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.569571,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.570627,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending m\xf3\xa0\x80\xaeessage number'
+2021-07-03 00:55:46.571330,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.573787,b'0 \x00\x08dev/testSending message number',b'-1 \x00\xf3\xa0\x80\xa3\x08de\xf3\xa0\x80\xb9v/testSend\xf3\xa0\x81\xa0ing message nu\xf3\xa0\x81\xbember'
+2021-07-03 00:55:46.583941,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.587104,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number'
+2021-07-03 00:55:46.587173,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.588435,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSestSending message number'
+2021-07-03 00:55:46.589920,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.592085,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending mmber'
+2021-07-03 00:55:46.593842,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.596146,b'\xe0\x00',b'\xe0\xf0\x90\x80\x80\x00'
+2021-07-03 00:55:46.596199,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.597718,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.598052,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.598108,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.710063,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.712566,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message number'
+2021-07-03 00:55:46.712885,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.717002,b'0 \x00\x08dev/testSending message number',b'0er'
+2021-07-03 00:55:46.717103,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.718818,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08ge number'
+2021-07-03 00:55:46.719767,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.723692,b'0 \x00\x08dev/testSending message number',b'-1 \x00\x08dev/testSending message nuber'
+2021-07-03 00:55:46.723897,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.736388,b'0 \x00\x08dev/testSending message number',b'170141183460469231731687395949604474272\xe2\x80\x8175810 \xe2\x80\x88\x00\x08dev/testSendi\xf3\xa0\x80\xa4ng message number'
+2021-07-03 00:55:46.736520,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.740333,b'\xe0\x00',b'\xf3\xf3\xe2\x80\xaf\xca\xb2\xf3\xa0\x81\x84\xc3\x9f\x80\xa5\xa0\x80\xaa\xf3\xa0\x81\x96\xca\xb3\x00'
+2021-07-03 00:55:46.740403,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.741040,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.741646,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.741763,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.850515,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.851598,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending mestSending message number'
+2021-07-03 00:55:46.852269,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.854818,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending \xf3\xa0\x81\xb2message number'
+2021-07-03 00:55:46.855166,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.860208,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSend\xf3\xa0\x80\xb4ing \xf3\xa0\x80\xb4ing \xf3\xa0\x80\xb4ing \xf3\xa0\xf3\xa0\x80\xbe\x80\xafmessage number'
+2021-07-03 00:55:46.860276,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.864377,b'0 \x00\x08dev/testSending message number',b'1 \x00\xe2\x80\x8e\x08dev/testSending message nu\xfb\xee(\xffmber'
+2021-07-03 00:55:46.864445,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.866811,b'0 \x00\x08dev/testSending message number',b'er'
+2021-07-03 00:55:46.866919,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.869981,b'0 \x00\x08dev/testSending message number',b'0 +/v/\x00\x08dfv/testge number'
+2021-07-03 00:55:46.870804,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.874213,b'0 \x00\x08dev/testSending message number',b'4294967295 \x00\x08\xe2\x81\xa0dev/testSending message numbe\xf3\xa0\x81\xb9r'
+2021-07-03 00:55:46.874727,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.875001,b'',b'c'
+2021-07-03 00:55:46.875041,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.875722,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.876263,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.876382,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.987690,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.990199,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testS\xf3\xa0\x81\xef\xbf\xbf\x95ending messag\xf3\xa0\x81\x96e number'
+2021-07-03 00:55:46.990279,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:46.992211,b'0 \x00\x08dev/testSending message number',b'e number'
+2021-07-03 00:55:46.993432,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.001992,b'0 \x00\x08dev/testSending message number',b'1 \x00\xe2\x80\x82\x08//testSending me\xf3\x80\xf3\xa0\x80\xaa\xf3\xa0\x81\xb3\xaassage numb\xb9\x83er'
+2021-07-03 00:55:47.002067,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.006992,b'0 \x00\x08dev/testSending message number',b'1006483285 \x00\x08dev/testSending messae number'
+2021-07-03 00:55:47.007121,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.019213,b'0 \x00\x08dev/testSending message number',b'0 \xf3\xa0\x80\xb5dev/tev/tev/tev/tetSeningmessage number'
+2021-07-03 00:55:47.019305,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.019639,b'',b'\xd0'
+2021-07-03 00:55:47.019689,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.020414,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.128767,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.131033,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08dev/testSending message number'
+2021-07-03 00:55:47.131644,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.133023,b'0 \x00\x08dev/testSending message number',b'18446744073709551615 \x00\x08dev/testSending message number'
+2021-07-03 00:55:47.134633,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.138256,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending mes\xf3\xa0\x80\xafsage number'
+2021-07-03 00:55:47.138454,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.140047,b'0 \x00\x08dev/testSending message number',b'3435265053 \x00\x08dev\xe2\x81\xa6/testSending message number'
+2021-07-03 00:55:47.141413,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.145751,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/te\xe3\xf3\xa0\x81\xb1\x80\x80stSen\xf3\xa0\x80\xbading\xb1\x80\x80stSen\xf3\xa0\x80\xbading message number'
+2021-07-03 00:55:47.145890,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.152462,b'0 \x00\x08dev/testSending message number',b'922\xc0\xb3372036854775808 \x00\x08dev/testSending \xf7dmessage nuber'
+2021-07-03 00:55:47.152559,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.153663,b'0 \x00\x08dev/testSending message number',b'-65535 \x00\x08dev/testSending message number'
+2021-07-03 00:55:47.154976,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.155297,b'',b'\x96'
+2021-07-03 00:55:47.155343,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.157284,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.157440,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.157493,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.267820,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.270466,b'0 \x00\x08dev/testSending message number',b'255 \x00\x08dev/testSending mess\xf3\xa0\x80\xa6age numbe\xa6a255 \x00\x08dev/testSending mess\xf3\xa0\x80\xa6age numbe\xa6age numbe\xa6age number'
+2021-07-03 00:55:47.270536,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.272348,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending messbge number'
+2021-07-03 00:55:47.272521,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.275082,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message \x00\x08dev/testSending message number'
+2021-07-03 00:55:47.276374,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.280630,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dinge nvbe\xe2\x80\x83r'
+2021-07-03 00:55:47.280710,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.282931,b'0 \x00\x08dev/testSending message number',b'32769 \x00\x08dev/testSending message number'
+2021-07-03 00:55:47.284267,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.286549,b'0 \x00\x08dev/testSending message number',b'4294967295 \x00\x08dev/t\xf3\xa0\x81\xa7estSending message number'
+2021-07-03 00:55:47.288120,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.290362,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message numbe\xe2\x81\xa6r'
+2021-07-03 00:55:47.292471,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.294638,b'\xe0\x00',b'\xf3\xa0\x81\xe2\x81\xa7\x89\xe0\x00'
+2021-07-03 00:55:47.294706,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.295546,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.295671,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.295710,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.408221,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.409898,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending mes\xe1\x9a\x80sage number'
+2021-07-03 00:55:47.411022,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.414063,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending\xf3\xa0\x81\x8c message number'
+2021-07-03 00:55:47.414951,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.430804,b'0 \x00\x08dev/testSending message number',b'0 \x00\xed\xba\xad+/v+\x08d\xca\xb3ev/\xf3\xa0\x80\xa1\xe2\x80\xab/v+\x08d\xca\xb3ev/\xf3\xa0\x80\xa1\xe2\x80\xab\xf3\xa0\x80\xa5ev\xe2\x80\xae/teer'
+2021-07-03 00:55:47.430916,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.433475,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/teng message number'
+2021-07-03 00:55:47.434389,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.436846,b'\xe0\x00',b'\xe0\x01'
+2021-07-03 00:55:47.436892,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.437497,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.438862,b'p\x02r0',b'\xf3\xa0\x80\xa2p\xc0\x82r\r0'
+2021-07-03 00:55:47.439193,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.439307,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.539677,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.546134,b'0 \x00\x08dev/testSending message number',b'0!\x00\x08dew/te\x00\x08dev\xf3\xa0\x80\xbe/testSending message num\xfe\xffer'
+2021-07-03 00:55:47.546274,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.548032,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSen \x00\x08dev/testSending message number'
+2021-07-03 00:55:47.549442,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.552300,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08dev/testSending message number'
+2021-07-03 00:55:47.552408,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.554487,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending messa\xf3\xa0\x81\x80ge number'
+2021-07-03 00:55:47.556197,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.566679,b'0 \x00\x08dev/testSending message number',b'2147483648\xc0\xa0\x00\x08d\xe2\x80\xaeev/testSending\xf3\xa0\x81\xb4 mestSending messagenumber'
+2021-07-03 00:55:47.568372,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.568662,b'',b'\xac'
+2021-07-03 00:55:47.568703,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.570138,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.570367,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.570510,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.679801,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.684603,b'0 \x00\x08dev/testSending message number',b'65537 \x00\x08\xe2\x80\x8e\xe2\x80\x8edev/test\xe2\x81\xa8Se\xed\xaa\xadndi\xf3\xf3\xa0\x80\xac\xa0\x81\x8bage numb\xe2\x80\x88er'
+2021-07-03 00:55:47.684691,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.686219,b'0 \x00\x08dev/testSending message number',b'32769 \x00\x08dev/testSending message number'
+2021-07-03 00:55:47.687519,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.696139,b'0 \x00\x08dev/testSending message number',b'9223372036854775808ev/testSending \xf3\xa0\x80\xacmessage \xf3\xa0\x81\x82number'
+2021-07-03 00:55:47.696247,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.699037,b'0 \x00\x08dev/testSending message number',b'0\xc0\xa0\x00\x08dev/testSending message number'
+2021-07-03 00:55:47.699325,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.703565,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08demerb'
+2021-07-03 00:55:47.703657,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.707758,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08dev/tg message number'
+2021-07-03 00:55:47.707821,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.708200,b'',b'\xa5'
+2021-07-03 00:55:47.708248,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.708934,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.709987,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.710112,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.821595,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.822425,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message nuber'
+2021-07-03 00:55:47.823318,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.825982,b'0 \x00\x08dev/testSending message number',b'127 \x00\x08d\xf3\xa0\x81\x99ev/testS\xf3\xa0\x81\x87ending message number'
+2021-07-03 00:55:47.827245,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.829105,b'0 \x00\x08dev/testSending message number',b'9223372036854775808 \x00\x08dev/testSending mesage number'
+2021-07-03 00:55:47.830125,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.832542,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08d\xf3\xa0\x81\xbdev/testSending message number'
+2021-07-03 00:55:47.834173,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.838489,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08de\xf3\xa0\x80\x81v/tes\xf3\xa0\xa0tSending mestSending message \xe0\xb9\x81\xf3\xa0\x80\xaenumber'
+2021-07-03 00:55:47.838548,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.840636,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testestSending message number'
+2021-07-03 00:55:47.841901,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.845089,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending umber'
+2021-07-03 00:55:47.845742,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.850124,b'\xe0\x00',b'\xf3\xa0\x81\xb9\xe0\xb9\x82\xca\xf3\xa0\x81\x8b\xb7\xe0+/v\x00'
+2021-07-03 00:55:47.850194,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.850800,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.851270,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.851354,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.963805,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.966101,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08dev/testSending message number'
+2021-07-03 00:55:47.967015,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.969409,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message n\xf3\xa0\x81\x87umber'
+2021-07-03 00:55:47.970455,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.990913,b'0 \x00\x08dev/testSending message number',b' \xf3\xa0\x80\xa5\x08e\xca\xb8\x80\xf3\xa0\x80\xb6\x00\x00\xff\xe2\x80\xae\xffv/te\xf3\xef\xb7\xba\xa0\x81\x86r'
+2021-07-03 00:55:47.990987,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.992577,b'\xe0\x00',b''
+2021-07-03 00:55:47.994181,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.994312,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:47.994418,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.105880,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.107531,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSeng messae number'
+2021-07-03 00:55:48.108475,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.120705,b'0 \x00\x08dev/testSending message number',b'\xf3\xa0m\xf3\xa0mb\xf3\xa0\x81\xa8e'
+2021-07-03 00:55:48.120825,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.123121,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message number'
+2021-07-03 00:55:48.124073,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.127998,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSening messge \xf3\xa0\x80\xb6nu\xf3\xa0\x81\x8fmber'
+2021-07-03 00:55:48.128065,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.130485,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08dev/testSending message number'
+2021-07-03 00:55:48.132023,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.134988,b'\xe0\x00',b'\xe0\xf3\xa0\x81\xb3\x00'
+2021-07-03 00:55:48.135068,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.135731,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.136303,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.136356,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.246657,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.247775,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message ner'
+2021-07-03 00:55:48.250243,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.251031,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08devv/tettSending messag\xcd\x85e number'
+2021-07-03 00:55:48.256087,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.262115,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08de\xef\xbb\xbev/test\xe2\x80\x86Sending message num\xf3\xa0\x80\xb3ber'
+2021-07-03 00:55:48.262188,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.264973,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending mestSending messag\xe2\x81\xa0e number'
+2021-07-03 00:55:48.266074,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.268305,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08de\xf3\xa0\x81\xb8v/testSending message number'
+2021-07-03 00:55:48.270004,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.273566,b'0 \x00\x08dev/testSending message number',b'0 \x00v/testSending message numer'
+2021-07-03 00:55:48.273639,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.273927,b'',b'\x98'
+2021-07-03 00:55:48.273968,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.275244,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.275486,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.275531,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.384907,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.390278,b'0 \x00\x08dev/testSending message number',b'34028236692093846346337460743168211456 \x00\x08dev\xf3\xa0\x80\xac/tesuSending messagenumber'
+2021-07-03 00:55:48.390344,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.391232,b'0 \x00\x08dev/testSending message number',b'20 \x00\x08dev/testSending message number'
+2021-07-03 00:55:48.392763,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.395024,b'0 \x00\x08dev/testSending message number',b'-65535 \x00\x08dev/testSending message number'
+2021-07-03 00:55:48.395737,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.399737,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08deber'
+2021-07-03 00:55:48.399813,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.401240,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/message number'
+2021-07-03 00:55:48.402720,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.405397,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/test\xf3\xa0\x81\x93Sending message number'
+2021-07-03 00:55:48.406403,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.409117,b'0 \x00\x08dev/testSending message number',b'6665930797887731 \x00\x08dev/testSending message number'
+2021-07-03 00:55:48.410303,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.410560,b'',b'\xee'
+2021-07-03 00:55:48.410635,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.411403,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.415135,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.415211,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.523060,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.524287,b'0 \x00\x08dev/testSending message number',b'9223372036854775809 \x00\x08dev/testSending message number'
+2021-07-03 00:55:48.524981,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.528193,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testS\xf3\xa0\x80\xabending mess\x841\x95\xcb\x913age number'
+2021-07-03 00:55:48.528247,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.530530,b'0 \x00\x08dev/testSending message number',b'0 \x00\xc0\x88er'
+2021-07-03 00:55:48.531800,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.534401,b'0 \x00\x08dev/testSending message number',b'127 \x00\x08dev/testSending message number'
+2021-07-03 00:55:48.535809,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.538531,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08\xf3\xa0\x81\x84dev/testSending message number'
+2021-07-03 00:55:48.539685,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.541157,b'0 \x00\x08dev/testSending message number',b'0\x00\x08dev/testSending message number'
+2021-07-03 00:55:48.542567,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.546171,b'0 \x00\x08dev/testSending message number',b'0 \xf0\x90\x80\x80\x00\x08dev/testS\xf3\xa0\x81\xa4ending message number'
+2021-07-03 00:55:48.546540,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.548944,b'\xe0\x00',b'\xe0'
+2021-07-03 00:55:48.549007,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.549655,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.550388,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.550434,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.660619,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.667583,b'0 \x00\x08dev/testSending message number',b'14339069887968642601242843331464\xc0\xb830555764791 \x00\x08dev/testSending m\xf3\xa0\x81\xa0essag messag message\xc0\xa0number'
+2021-07-03 00:55:48.667659,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.670456,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08\xf3\xa0\x80\xbddevtSe number'
+2021-07-03 00:55:48.670512,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.674398,b'0 \x00\x08dev/testSending message number',b'4\xc0\xb9 \x00\xf3\xa0\x81\x91\x08dev/testSend\xf3\xa0\xf3\xa0\x80\xa1\x81\xaaiog message number'
+2021-07-03 00:55:48.674453,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.676839,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/tes\xe2\x81\xa8tSending message number'
+2021-07-03 00:55:48.677191,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.683389,b'0 \x00\x08dev/testSending message number',b'340282366920938463463374607431768211456\x00\x08de\xed\xaa\xadr'
+2021-07-03 00:55:48.683467,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.690135,b'0 \x00\x08dev/testSending message number',b'-1 \xf3\xa0\x80\xb3\x00\x08dev\xf3\xa0\x80\xb9/\xf3\xa0\x80\xb2testS\nendi\xf3\xa0\x80\xb2testS\nendi\xf3\xa0\x80\xb2testS\nendi\xf3\xa0\x80\xb0ng mber'
+2021-07-03 00:55:48.690205,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.690442,b'',b'\xa4'
+2021-07-03 00:55:48.690501,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.691101,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.691381,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.691429,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.801053,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.803069,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSendin\xe2\x80\xadg messag\xca\xb8e number'
+2021-07-03 00:55:48.803135,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.804289,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending me\xe2\x81\xa6ssage number'
+2021-07-03 00:55:48.804846,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.810827,b'0 \x00\x08dev/testSending message number',b'18446744073709551615 \x00\x08dev/tstSending message ng message\xc0\xa0ng message \xf0\x9d\x9f\x96number'
+2021-07-03 00:55:48.810904,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.815399,b'0 \x00\x08dev/testSending message number',b'0 \xe2\x80\x8e\x00\x08ding messag number'
+2021-07-03 00:55:48.815472,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.819626,b'0 \x00\x08dev/testSending message number',b'+/v-340282366920938463463374607431768211456-1 \x00\x08\x85testSessage number'
+2021-07-03 00:55:48.819685,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.822360,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08devtestSending mber'
+2021-07-03 00:55:48.822428,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.825335,b'0 \x00\x08dev/testSending message number',b'18446744073709551617 \x00\x08dev/\xe2\x80\x88testSending message number'
+2021-07-03 00:55:48.826311,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.826620,b'',b'\xd3'
+2021-07-03 00:55:48.827067,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.829207,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.829653,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.829750,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.940012,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.942371,b'0 \x00\x08dev/testSending message number',b'1 \x00\xe2\x81\xa0\x08d\xf3\xa0\x80\xbdge number'
+2021-07-03 00:55:48.942486,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.944092,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08dev/testSending message number'
+2021-07-03 00:55:48.945698,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.948009,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/estSending message number'
+2021-07-03 00:55:48.949569,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.953271,b'0 \x00\x08dev/testSending message number',b' \x00+/v8\x08er'
+2021-07-03 00:55:48.953421,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.957115,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08destSendi'
+2021-07-03 00:55:48.957341,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.959594,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08devdev/tessage number'
+2021-07-03 00:55:48.960337,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.968255,b'0 \x00\x08dev/testSending message number',b'170141183460469231731687303715884105728\xc0\xb118 \x00\x08dev\xf3\xa0\x80\xb2\xf3\xa0\x81\x90/testSending\x842\x953 m/testSending\x842\x953 message number'
+2021-07-03 00:55:48.968327,b'0 \x00\x08dev/testSending message number\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.968577,b'',b'\xdc'
+2021-07-03 00:55:48.968613,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.969412,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.969530,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:48.969566,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.069182,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.071525,b'0 \x00\x08dev/testSending message number',b'\x0e\xfe\xff-257 \x00\x08dev/testSending message number'
+2021-07-03 00:55:49.071589,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.073661,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSendinge number'
+2021-07-03 00:55:49.075060,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.077395,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSendin\xe2\x80\x8eg message number'
+2021-07-03 00:55:49.078986,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.082629,b'0 \x00\x08dev/testSending message number',b'-2 \x00\x08dev/tes\xf3\xa0\x81\x91tSending message number'
+2021-07-03 00:55:49.083007,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.085578,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending mesage number'
+2021-07-03 00:55:49.086811,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.089728,b'0 \x00\x08dev/testSending message number',b'170141183\xf3\xa0\x80\xb9460469231731687303715884105728 \x00\x08dev/testSending message \xe2\x80\xaenumber'
+2021-07-03 00:55:49.090695,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.093494,b'0 \x00\x08dev/testSending message number',b'\xc0\xb0 message number'
+2021-07-03 00:55:49.095037,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.097731,b'\xe0\x00',b'\xe0\xf3\xa0\x80\xa0\x00'
+2021-07-03 00:55:49.097848,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.101911,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.216451,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.221321,b'0 \x00\x08dev/testSending message number',b'-3 \x00\x08dev/te\xed\xaa\xadst\xe2\x80\xadTe\xf3\xa0\x81\xbfndin\xf3\xa0\x81\xbfndin\xf3\xa0\x81\x83g message number'
+2021-07-03 00:55:49.221407,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.224789,b'0 \x00\x08dev/testSending message number',b''
+2021-07-03 00:55:49.230289,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.241942,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.244123,b'\xe0\x00',b'\xe0\xf3\xa0\x81\x00'
+2021-07-03 00:55:49.356603,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.381007,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending mesag\xf3\xa0\x80\xb8e number'
+2021-07-03 00:55:49.381086,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.382358,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message numb\xf3\xa0\x81\x8fer'
+2021-07-03 00:55:49.383795,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.384023,b'',b'{'
+2021-07-03 00:55:49.384051,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.385194,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.385480,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.385523,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.496054,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.500117,b'0 \x00\x08dev/testSending message number',b'1343007 \x00\x08\xf3\xa0\x81\xb1dev\xef\xb7\x90/testSending message num\xf3\xf4\x8f\xbf\xbe\xa0\x80\xb1ber'
+2021-07-03 00:55:49.500183,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.503072,b'0 \x00\x08dev/testSending message number',b'32767 \x00\x08dev/testSending messaber'
+2021-07-03 00:55:49.503812,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.506326,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testestSending message number'
+2021-07-03 00:55:49.507695,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.510518,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message numb message number'
+2021-07-03 00:55:49.510695,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.556765,b'0 \x00\x08dev/testSending message number',b' es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es'
+2021-07-03 00:55:49.556868,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.557124,b'',b'\x93'
+2021-07-03 00:55:49.557160,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.557850,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.558114,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.558150,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.635155,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.636630,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSendiog message number'
+2021-07-03 00:55:49.645907,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.647474,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08de/testSendimber'
+2021-07-03 00:55:49.648735,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.660316,b'0 \x00\x08dev/testSending message number',b'170141183460469231731687303715884105729 \x00\x08dv/estSe29 \x00\x08dv/estSending message n\xe0\xb9\x83umber'
+2021-07-03 00:55:49.660433,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.662944,b'\xe0\x00',b'\xe0\xf3\xa0\x81\xb2\xca\xb6\x00'
+2021-07-03 00:55:49.662993,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.663719,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.665666,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.665737,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.766014,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.768699,b'0 \x00\x08dev/testSending message number',b'340282366920938463463374607431768211457 \x00\x08dev/testSendi\xf3\xa0\x80\xb6ng message number'
+2021-07-03 00:55:49.768818,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.770375,b'0 \x00\x08dev/testSending message number',b'-1 \x00\x08dev/testSending message number'
+2021-07-03 00:55:49.770881,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.773924,b'0 \x00\x08dev/testSending message number',b'4294967296 \x00\x08dev/tessage number'
+2021-07-03 00:55:49.774722,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.777128,b'0 \x00\x08dev/testSending message number',b'0 \x00er'
+2021-07-03 00:55:49.780481,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.783091,b'0 \x00\x08dev/testSending message number',b'4294967296 4294967296 \x00mber'
+2021-07-03 00:55:49.783154,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.787859,b'0 \x00\x08dev/testSending message number',b'65534 \x00\x08\xf3\xa0\x81\x91dev/testessag number'
+2021-07-03 00:55:49.787941,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.789175,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08de \x00\x08dev/te\xe1\xa0\x8estSending message number'
+2021-07-03 00:55:49.789318,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.790990,b'\xe0\x00',b'\xe2\x80\x81\x00'
+2021-07-03 00:55:49.791058,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.791674,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.792852,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.792896,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.904766,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.906955,b'0 \x00\x08dev/testSending message number',b'0 \xf0\x90\x80\x80\x00\x08dev/testSending message number'
+2021-07-03 00:55:49.907072,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.910162,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/te\x00\xff\xffstSumber'
+2021-07-03 00:55:49.910252,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.912447,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08dev/testSending message number'
+2021-07-03 00:55:49.914496,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.916669,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message\xe2\x81\xa0 num\xf3\xa0\x81\xaaber'
+2021-07-03 00:55:49.917252,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.919920,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending\xe2\x81\xa0 message number'
+2021-07-03 00:55:49.921702,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.926978,b'0 \x00\x08dev/testSending message number',b'--2 \x00\x08dev/testSending\xc0\xa0mes\xed\xaa\xadsage numbe'
+2021-07-03 00:55:49.927079,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.932706,b'0 \x00\x08dev/testSending message number',b'1\x00\x08dev\xf3\xa0\x81\xf3\xa0\x81\x89\x94\xe1\xa0\x8e/testS\xe2\x80\x88endi\xf3\xa0\x81\x9cng \xe0\xbf\xadm\xe2\x80\xaaessage number'
+2021-07-03 00:55:49.932784,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.933030,b'',b'\x03'
+2021-07-03 00:55:49.933065,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.933858,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.934640,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:49.934701,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.045906,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.053212,b'0 \x00\x08dev/testSending message number',b'65537 \x00\x08dev/test\xf3\xa0\x81\x81essage essage number'
+2021-07-03 00:55:50.053324,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.067183,b'0 \x00\x08dev/testSending message number',b'65535e number'
+2021-07-03 00:55:50.067298,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.068894,b'0 \x00\x08dev/testSending message number',b'0\xf3\xa0\x80\xaa \x00\x08dev/testSending message number'
+2021-07-03 00:55:50.070097,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.075720,b'0 \x00\x08dev/testSending message number',b'18446744073709551616 \x00\x08dev/testSendi\xf3\xa0\x81\xabng message number'
+2021-07-03 00:55:50.075848,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.076204,b'',b'\xfc'
+2021-07-03 00:55:50.076258,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.077122,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.077756,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.077893,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.186188,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.191745,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending m\xe2\x80\x82essage number'
+2021-07-03 00:55:50.191810,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.192471,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSening message number'
+2021-07-03 00:55:50.193931,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.197854,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08dev/testSending message number'
+2021-07-03 00:55:50.197938,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.200179,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08der'
+2021-07-03 00:55:50.201826,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.210282,b'0 \x00\x08dev/testSending message number',b'\xe2\x80\xae3276\xf3\xa0\x81\xbc9 \xf3\xa0\x80\xba\x80\xbanumbe\xca\xb2r'
+2021-07-03 00:55:50.210417,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.212799,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/age number'
+2021-07-03 00:55:50.212856,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.213095,b'',b'\xea'
+2021-07-03 00:55:50.213130,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.214588,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.214713,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.214751,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.325073,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.326331,b'0 \x00\x08dev/testSending message number',b'340282366920938463463374607431768211455 \x00\x08dev/testSending message number'
+2021-07-03 00:55:50.326907,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.329692,b'0 \x00\x08dev/testSending message number',b'170141183460469231731687303715884105727 \x00\x08dev/testSending message number'
+2021-07-03 00:55:50.330878,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.333257,b'0 \x00\x08dev/testSending message number',b'0\xf3\xa0\x81\x89 \x00\x08dev/testSending message number'
+2021-07-03 00:55:50.334766,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.341481,b'0 \x00\x08dev/testSending message number',b'340282366920938463463374607431768211455/testSendin\xe0\xbf\xadg +\xc0\xafv0mes\xf3\xa0\x81\xb4sage num\xe2\x80\x80ber'
+2021-07-03 00:55:50.341542,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.343774,b'0 \x00\x08dev/testSending message number',b'340282366920938463463374607431768211456 \x00\x08dev/testSending message number'
+2021-07-03 00:55:50.345405,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.349666,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08d\xfb\xee(e\xfb\xee(\xffv/te\xfb\xee(\xffv/testSending message number'
+2021-07-03 00:55:50.349764,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.351898,b'\xe0\x00',b'\xe0'
+2021-07-03 00:55:50.351949,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.353507,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.353759,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.353910,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.463985,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.529039,b'0 \x00\x08dev/testSending message number',b' numer numer numer numer numer numer numer numer numer numer numer numer numer numer numer numer numer numer numer n'
+2021-07-03 00:55:50.529118,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.529578,b'',b'#'
+2021-07-03 00:55:50.529617,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.530416,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.530504,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.530532,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.605822,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.615176,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev\xe3\x85\xa4/testSending message umber'
+2021-07-03 00:55:50.615243,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.615939,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message nmber'
+2021-07-03 00:55:50.620183,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.620820,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testestSending message number'
+2021-07-03 00:55:50.621257,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.622540,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending me\xf3\xa0\x80\xa4ssage number'
+2021-07-03 00:55:50.624238,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.629648,b'0 \x00\x08dev/testSending message number',b'--18446744073709551615 \x00\x08dev/testSending message number'
+2021-07-03 00:55:50.629699,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.631180,b'0 \x00\x08dev/testSending message number',b'83958237776972217471337748693 \x00\x08dev/testSending message estSending message number'
+2021-07-03 00:55:50.632015,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.632268,b'',b'a'
+2021-07-03 00:55:50.632305,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.633332,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.633435,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.633472,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.744350,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.752371,b'0 \x00\x08dev/testSending message number',b'--170141183460469231731687303713736622088 \x00\x08dev/testSending m\xf3\xa0\x81\xb2essage numb\xef\xb7r'
+2021-07-03 00:55:50.752444,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.754417,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message numb\xf3\xa0\x81\x82er'
+2021-07-03 00:55:50.754971,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.760127,b'0 \x00\x08dev/testSending message number',b'\xc0\xb2223372036\xc0\xb854876179\xf3\xa0\x81\x8e5 numbe'
+2021-07-03 00:55:50.760178,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.761447,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending messagf number'
+2021-07-03 00:55:50.761995,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.767529,b'0 \x00\x08dev/testSending message number',b'-429umbestS'
+2021-07-03 00:55:50.767626,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.768722,b'\xe0\x00',b'\xe0\xc2\xb8\xc0\x80'
+2021-07-03 00:55:50.768767,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.769578,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.769683,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.769720,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.881730,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.883271,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message nu\xf3\xa0\x81\xb9mber'
+2021-07-03 00:55:50.883438,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.886411,b'0 \x00\x08dev/testSending message number',b'\xf3\xa0\x81\xb30 \x00\x08dev/testSending m\xf3\xa0\x80\x81essage number'
+2021-07-03 00:55:50.887411,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.889911,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08dev/testSending message number'
+2021-07-03 00:55:50.891267,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.897550,b'0 \x00\x08dev/testSending message number',b'-2 \x00\x88dev/testSending message numb\xe2\x80\x80er'
+2021-07-03 00:55:50.897621,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.901412,b'0 \x00\x08dev/testSending message number',b' \x00\x08dev/testSending metsage ng\xc0\xa0m\xf3\xa0\x81\xb7etsage number'
+2021-07-03 00:55:50.901530,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.904159,b'0 \x00\x08dev/testSending message number',b'16744022 \x00\x08dev/testSending message message number'
+2021-07-03 00:55:50.904982,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.908511,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08dev/testSending messagge n\x00\x00\xff\xffumber'
+2021-07-03 00:55:50.908803,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.909074,b'',b'\xa1'
+2021-07-03 00:55:50.909224,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.911973,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.912654,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:50.912706,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.023185,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.028290,b'0 \x00\x08dev/testSending message number',b'256\xc0\xa0\x00\xe2\x80\x87\x08dev/teser'
+2021-07-03 00:55:51.028405,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.030111,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message \xf3\xa0\x80\xadnumber'
+2021-07-03 00:55:51.030968,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.036372,b'0 \x00\x08dev/testSending message number',b'-2046280922123 \x00\x08dev/testSen\xef\xa3\xbfding message number'
+2021-07-03 00:55:51.036479,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.041391,b'0 \x00\x08dev/testSending message number',b'4371799387926\xc0\xa0\x00\x08dev/testSending message number'
+2021-07-03 00:55:51.041733,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.047044,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending\xf3\xa0\x81\xba mess\xf3\xa0\x81\xba messag\xf3\xa0\x80\xb4e number'
+2021-07-03 00:55:51.047199,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.052169,b'0 \x00\x08dev/testSending message number',b'63228 \x00\x08dev/test\xf3\xa0\x81\xa8Sendin message number'
+2021-07-03 00:55:51.052278,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.052689,b'',b'p'
+2021-07-03 00:55:51.052748,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.054285,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.054458,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.054522,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.161520,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.164624,b'0 \x00\x08dev/testSending message number',b''
+2021-07-03 00:55:51.165621,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.309966,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.329474,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',b'1 \x00\tdevtetSe\xf3\xa0\x81\x97ndng\xc0\xa0message nub\xf3\xa0\x81\x8der'
+2021-07-03 00:55:51.329563,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.336446,b'0 \x00\x08dev/testSending message number',b'1 \x00dev/testSending message number'
+2021-07-03 00:55:51.336558,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.338043,b'\xe0\x00',b'\xe0\xc0\xf3\xa0\x81\xbc\x80'
+2021-07-03 00:55:51.338090,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.339427,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.339537,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.339575,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.449499,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.450677,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending messa\xf3\xa0\x80\xb7ge number'
+2021-07-03 00:55:51.451302,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.454107,b'0 \x00\x08dev/testSending message number',b'9223372036854775809 \x00\x08dev/testSending message number'
+2021-07-03 00:55:51.455250,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.458300,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message numbr'
+2021-07-03 00:55:51.459142,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.463724,b'0 \x00\x08dev/testSending message number',b'-6375524767599063686579692138037 \x00\x08dev\xf3\xa0\x80\xbf/testSending \xef\xa3\xbf\xc2\xa0message number'
+2021-07-03 00:55:51.463792,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.466031,b'0 \x00\x08dev/testSending message number',b'0\xe2\xf3\xa0\x80\xb1\x80\x8f \x00\x08dev/testSending message number'
+2021-07-03 00:55:51.466965,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.486152,b'0 \x00\x08dev/testSending message number',b'-18446744073709551619 \x00\x08dev/t\xf3\xa0\x80\xa1estTening message message number'
+2021-07-03 00:55:51.486230,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.486481,b'',b'\xf9'
+2021-07-03 00:55:51.486514,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.487158,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.487579,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.487633,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.590651,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.611675,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',b'10275 \x00\x08dev/testSending message numestSending message number\xc0\xb0 \x00\x08dev/testSenber\xc0\xb0 \x00\x08dev/testSending message numng message number\xc0\xb0 \x00\x08dev/testSenber\xc0\xb0 \x00\x08dev/testSending message numestSending message number\xc0\xb0 \x00\x08dev/testSenber\xc0\xb0 \x00\x08dev/testSending message number'
+2021-07-03 00:55:51.611770,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.614591,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08de\xf3\xa0\x81\xb4v/testSen\xf0\x9d\x85\xa0ding message nu\xe2\x80\x82mber'
+2021-07-03 00:55:51.615033,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.619715,b'0 \x00\x08dev/testSending message number',b'-484920204081 \x00\x08dev/tesS\xe1\xa0\x8eestS\xf3\xa0\x81\x95\xe1\xa0\x8eending message number'
+2021-07-03 00:55:51.619788,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.620061,b'',b'\xcf'
+2021-07-03 00:55:51.620100,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.622311,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.622424,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.622462,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.730772,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.735552,b'0 \x00\x08dev/testSending message number',b'sage number'
+2021-07-03 00:55:51.740242,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.744091,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message number256 \x00\x08dev/testSessage number0 \x00\x08dev/testSending message number256 \x00\x08dev/testSessage number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number'
+2021-07-03 00:55:51.744165,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.746899,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/\xe2\x80\x8atestSending message\xcd\x85 number'
+2021-07-03 00:55:51.748203,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.751087,b'0 \x00\x08dev/testSending message number',b'-9 \x00\x08dev/testSending message number'
+2021-07-03 00:55:51.752091,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.754667,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message num\xe2\x80\xacber'
+2021-07-03 00:55:51.755983,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.758836,b'\xe0\x00',b'\xe0\xe2\xe0\xb9\x80\x80\xac\xe0\xe2\x80\xac\x00'
+2021-07-03 00:55:51.758885,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.759487,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.759785,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.759881,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.872011,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.885512,b'0 \x00\x08dev/testSending message number',b'0 \x00\xf3\xa0\x81\x96\x08e\xe2\x80\x8av/test\xca\xb8Sending messsage number'
+2021-07-03 00:55:51.885616,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.895764,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending\xf3\xa0\x81\x84170141183460469231731687303715884105728\x953\xa1 message number'
+2021-07-03 00:55:51.895886,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.903843,b'0 \x00\x08dev/testSending message number',b'1866010752658853408 \x00\x08dev\xf3\xa0\x81\xb4/testSenmessage number'
+2021-07-03 00:55:51.903919,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.904184,b'',b'\xfb'
+2021-07-03 00:55:51.904223,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.904978,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.905315,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:51.905428,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.012118,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.015240,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08de\xf3\xa0\x80\xa2\xf3\xa0\x80\xa9v/testSending message\xc0\xa0\xca\xb2number'
+2021-07-03 00:55:52.015319,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.018165,b'0 \x00\x08dev/testSending message number',b'-6315 \x00\x08dev/teng me numb\xe2\x81\xa8er'
+2021-07-03 00:55:52.018219,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.020547,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08devtestSending message number'
+2021-07-03 00:55:52.021847,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.024230,b'0 \x00\x08dev/testSending message number',b'9223372036854775807 \x00\x08dev/testSending message number'
+2021-07-03 00:55:52.025734,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.027032,b'0 \x00\x08dev/testSending message number',b'0\xc0\xa0\x00\x08dev/testSending message number'
+2021-07-03 00:55:52.028728,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.031119,b'0 \x00\x08dev/testSending message number',b'ing mesage number'
+2021-07-03 00:55:52.032582,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.041784,b'0 \x00\x08dev/testSending message number',b'-11230516 \xf3\xa0\x80\xa5\x00\x08dev/\xc2\xb7+/v9testendin mess\xf3\xa0\x80\xb4ar'
+2021-07-03 00:55:52.041916,b'0 \x00\x08dev/testSending message number\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.042182,b'',b'\xdd'
+2021-07-03 00:55:52.042221,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.043156,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.043264,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.043300,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.152519,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.164283,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSeessage number'
+2021-07-03 00:55:52.164395,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.172166,b'0 \x00\x08dev/testSending message number',b'835 \x00\x08en\xef\xacnumber'
+2021-07-03 00:55:52.172263,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.177014,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08dev/testS\xf3\xa0\x80\xa9end\xca\xb5ing message\xe2\x80\x88 numbe\xf4\xbf\xber'
+2021-07-03 00:55:52.177098,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.185059,b'0 \x00\x08dev/testSending message number',b'257\xed\xaa\xad \x00\x08dev/tstSending\xc0\xa0message number'
+2021-07-03 00:55:52.185183,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.185877,b'',b' '
+2021-07-03 00:55:52.185930,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.186631,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.187220,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.187270,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.303940,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.311236,b'0 \x00\x08dev/testSending message number',b'20 \x00\x08dev/testSending message number'
+2021-07-03 00:55:52.311325,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.314569,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08dev/testSending message number'
+2021-07-03 00:55:52.314625,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.318600,b'0 \x00\x08dev/testSending message number',b'-3 \xe0\xbf\xad\x00\x08dev/testSending message number'
+2021-07-03 00:55:52.318664,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.329012,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08ding num\x841um\x841\x959\xc0\xb223um\x841\x959223372036854775812ber'
+2021-07-03 00:55:52.329205,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.331694,b'\xe0\x00',b'\xe0\xed\xba\xad\x00'
+2021-07-03 00:55:52.331757,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.332381,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.332612,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.332706,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.444509,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.446168,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message numer'
+2021-07-03 00:55:52.446256,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.451884,b'0 \x00\x08dev/testSending message number',b'1g message number'
+2021-07-03 00:55:52.451982,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.454671,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08er'
+2021-07-03 00:55:52.458728,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.466070,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',b'0 \x00\x08de\tv/ge number'
+2021-07-03 00:55:52.466164,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.468876,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08d\xca\xb0ev/testSending\xc0\xa0messa\xf3\xa0\x81\xb8ge number'
+2021-07-03 00:55:52.469779,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.472430,b'\xe0\x00',b'\xe0\xf3\xad\x00'
+2021-07-03 00:55:52.472482,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.473804,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.474171,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.474299,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.584434,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.603024,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',b'75883315860402523\xc0\xb67231308 \x00\x08dev/testSending message ng message number'
+2021-07-03 00:55:52.603100,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.605640,b'0 \x00\x08dev/testSending message number',b'\xca\xb10 \x00\x08dev/testSendin\xf3\xa0\x81\x8dg message number'
+2021-07-03 00:55:52.606608,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.609225,b'0 \x00\x08dev/testSending message number',b'0 \x01\x08dev/testSending message number'
+2021-07-03 00:55:52.610540,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.610831,b'',b'y'
+2021-07-03 00:55:52.610871,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.611584,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.614079,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.614171,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.724137,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.725824,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSendin message number'
+2021-07-03 00:55:52.726987,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.731949,b'0 \x00\x08dev/testSending message number',b'18446744073709551615 \x00\x08dev/tetSending mesage number'
+2021-07-03 00:55:52.732042,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.733569,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/tes\xe2\x80\x80tSending message number'
+2021-07-03 00:55:52.734664,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.737134,b'0 \x00\x08dev/testSending message number',b'-3 \x00\x08dev/testSen\xf3\xa0\x80\xadding message number'
+2021-07-03 00:55:52.738708,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.740020,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending messag\xe0\xb9\x82e number'
+2021-07-03 00:55:52.740735,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.742842,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending testSending message number'
+2021-07-03 00:55:52.744610,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.747906,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending mesage numer'
+2021-07-03 00:55:52.748493,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.751026,b'\xe0\x00',b'\xe0\xf3\xa0\x81\x86\x00'
+2021-07-03 00:55:52.751077,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.752863,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.752985,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.753023,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.864153,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.865392,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/tessage number'
+2021-07-03 00:55:52.866880,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.882339,b'0 \x00\x08dev/testSending message number',b'11 \xe2\x81\xa7\x00\x08dev/t\xe2\x80\xadestSding meber'
+2021-07-03 00:55:52.882446,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.884833,b'0 \x00\x08dev/testSending message number',b'2147483647 \x00\x08dev/testSenumber'
+2021-07-03 00:55:52.885412,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.890024,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08d\xe2\x80\xaeev\xf3\xa0\x81\xb1/testSeding message number'
+2021-07-03 00:55:52.890116,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.892442,b'\xe0\x00',b'\xf3\xa0\x80\xf3\xa0\x81\x91\xb5\x00'
+2021-07-03 00:55:52.892505,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.893276,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.895490,b'b\x02nd',b'bn\xf3\xa0\x81\xf3\xa0\xe2\x80\xae\x81\x86\xa5d'
+2021-07-03 00:55:52.895714,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:52.895776,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.015539,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.021516,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message num\xf3\xa0\x80\x81ber'
+2021-07-03 00:55:53.021720,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.029583,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08dev/testSending number'
+2021-07-03 00:55:53.029718,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.037248,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08eing message number'
+2021-07-03 00:55:53.037355,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.039237,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending messag message number'
+2021-07-03 00:55:53.042124,b'0 \x00\x08dev/testSending message number\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.042558,b'',b'\xc9'
+2021-07-03 00:55:53.042617,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.044210,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.044415,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.044479,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.154844,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.157991,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08ev/te\xe2\x80\xaestSending me message number'
+2021-07-03 00:55:53.158062,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.160573,b'0 \x00\x08dev/testSending message number',b'32766er'
+2021-07-03 00:55:53.160631,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.163017,b'0 \x00\x08dev/testSending message number',b'0 \xf3\xa0\x80\xa4\x00\x08dev/testSending message number'
+2021-07-03 00:55:53.164606,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.168250,b'0 \x00\x08dev/testSending message number',b'127 \x00\x08dev/te\xe1\x85\x9fstSending message number'
+2021-07-03 00:55:53.168316,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.171052,b'0 \x00\x08dev/testSending message number',b'0 \xc0\x80\x08dev/te\xf3\xa0\x81\x9dstSending message number'
+2021-07-03 00:55:53.171204,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.173588,b'0 \x00\x08dev/testSending message number',b'0\xca\xb2 \x00\x08dev/testSending message number'
+2021-07-03 00:55:53.175133,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.179332,b'0 \x00\x08dev/testSending message number',b'0 \xc0\x80\x08dev/testSending messag\xef\xb7\x90e number'
+2021-07-03 00:55:53.179410,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.182677,b'\xe0\x00',b'\xfb\xee(\xff\xe0'
+2021-07-03 00:55:53.182757,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.185115,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.185240,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.185277,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.292262,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.293369,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08dev/testSending message number'
+2021-07-03 00:55:53.294937,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.296498,b'0 \x00\x08dev/testSending message number',b'-1 \x00\x08dev/testSending message number'
+2021-07-03 00:55:53.297985,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.305801,b'0 \x00\x08dev/testSending message number',b'127 \xe2\x80\x84\x08d\xe1\xa0\x8eev/testSe1 \x00\x08ev/tes\xce\x90tending message number'
+2021-07-03 00:55:53.305870,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.308326,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSe\xc2\xa0nding messageng message number'
+2021-07-03 00:55:53.308688,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.311679,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08devestSending message\xe2\x81\xa0 number'
+2021-07-03 00:55:53.311739,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.314475,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message e number'
+2021-07-03 00:55:53.315648,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.318935,b'\xe0\x00',b'\xca\xef\xac\xac\xf3\xc5\xa0\x80\xa9\xb8\xe0'
+2021-07-03 00:55:53.318991,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.319744,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.324941,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.325024,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.430196,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.431372,b'0 \x00\x08dev/testSending message number',b'9223372036854775809 \x00\x08dev/testSending message number'
+2021-07-03 00:55:53.432050,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.435128,b'0 \x00\x08dev/testSending message number',b'\xf3\xa0\x81\xb03 \x00\x08dev/testSenumber'
+2021-07-03 00:55:53.435973,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.438583,b'0 \x00\x08dev/testSending message number',b'2147483648 \x00\x08dev/testSending message number'
+2021-07-03 00:55:53.439850,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.441385,b'0 \x00\x08dev/testSending message number',b'-699179187 \x00\x08dev/testSending message number'
+2021-07-03 00:55:53.442828,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.445381,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/te\xf3\xa0\x81\x98stSending message number'
+2021-07-03 00:55:53.446650,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.452165,b'0 \x00\x08dev/testSending message number',b'\xe2\x80\x8c-268431736116008058941061304317381393854\xc0\xa0\xc0\x80\x08ber'
+2021-07-03 00:55:53.452263,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.454270,b'0 \x00\x08dev/testSending message number',b'256 \x00\x08dev/testSending message number'
+2021-07-03 00:55:53.455452,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.455811,b'',b'\xdf'
+2021-07-03 00:55:53.455853,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.456501,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.456696,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.456798,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.573281,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.579018,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending \xf3\xa0\x81\x8emessage number0 \x00\x08dev/testSending message number'
+2021-07-03 00:55:53.579159,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.584882,b'0 \x00\x08dev/testSending message number',b'255 \x00\xe2\x80\x87\x08de\xfb\xee(v/t\xf3\xa0\x80\xb1estSending message numbs\xf3\xa0\x81\x9c\xe2\x80\xaeage number'
+2021-07-03 00:55:53.584996,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.590462,b'0 \x00\x08dev/testSending message number',b'773765094837960 \x00\x08dev/testSending messa\xf3\xa0\x81\xa0ge number'
+2021-07-03 00:55:53.590569,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.596622,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08de/testSending essage \xf0\x9d\x85\xa0number'
+2021-07-03 00:55:53.596693,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.602745,b'0 \x00\x08dev/testSending message number',b'170141183460469231731687303715454608432 \x00\x08ev/testending messag messag message\xc0\xa0number'
+2021-07-03 00:55:53.602820,b'0 \x00\x08dev/testSending message number\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.603065,b'',b'\xd7'
+2021-07-03 00:55:53.603100,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.604262,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.604486,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.604541,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.714480,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.721361,b'0 \x00\x08dev/testSending message number',b''
+2021-07-03 00:55:53.722459,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.857063,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.859334,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSendin\xed\xaa\xadg message number'
+2021-07-03 00:55:53.859863,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.873739,b'0 \x00\x08dev/testSending message number',b'-9223372032559775745\xe2\x80\xad \xe2\x80\x85\xf3\xa0\x81\xb6\x00\x08dev/testSendingmessage number'
+2021-07-03 00:55:53.873972,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.877627,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/tes number'
+2021-07-03 00:55:53.877692,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.879981,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending mesage number'
+2021-07-03 00:55:53.881211,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.884604,b'0 \x00\x08dev/testSending message number',b'32767 \x00\x08dev/testSending message number'
+2021-07-03 00:55:53.885480,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.885864,b'',b'%'
+2021-07-03 00:55:53.885917,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.886809,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.889585,b'p\x02r0',b'p\xcd\xcdp\xcd\xcd\x8f\xbf\x02r1'
+2021-07-03 00:55:53.889798,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.889854,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:53.998513,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.005466,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/es\xe1\xbe\x82tSending me\xe2\x80\xaes\xef\xa3\xbfsage\xc0\xa0number'
+2021-07-03 00:55:54.005549,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.008609,b'0 \x00\x08dev/testSending message number',b'4294967422 \x00\x08dev/testSending message number'
+2021-07-03 00:55:54.009098,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.011499,b'0 \x00\x08dev/testSending message number',b'0 \xc0\x80\x08der'
+2021-07-03 00:55:54.012005,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.014201,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending me\xca\xb2+/v9ssage number'
+2021-07-03 00:55:54.016031,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.023232,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08dev/testSending messagending message number'
+2021-07-03 00:55:54.023312,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.025110,b'\xe0\x00',b'\x00\xe0'
+2021-07-03 00:55:54.025161,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.026530,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.026629,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.026717,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.136865,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.138433,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message +/v9number'
+2021-07-03 00:55:54.139647,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.144447,b'0 \x00\x08dev/testSending message number',b'0 \x00\xef\xbb\xbf\x08dev\xc0\xaftestber'
+2021-07-03 00:55:54.144525,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.146946,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/tess\xf3\xa0\x81\x94age number'
+2021-07-03 00:55:54.147508,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.149192,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/\rtestSending message number'
+2021-07-03 00:55:54.151021,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.153393,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending messagestSending message number'
+2021-07-03 00:55:54.153513,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.156032,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message numbeending message number'
+2021-07-03 00:55:54.157277,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.159945,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending messag\xfe\xffe number'
+2021-07-03 00:55:54.161222,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.165205,b'\xe0\x00',b'\xac\xf3\xa0\x81\x9a\xac\xef\x90\xe0\x00'
+2021-07-03 00:55:54.165283,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.167034,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.167321,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.167458,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.277961,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.304358,b'0 \x00\x08dev/testSending message number',b'127 \x00\x08dev/testSening message number'
+2021-07-03 00:55:54.304492,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.306954,b'0 \x00\x08dev/testSending message number',b'3 \x00\x08dev/tSending message number'
+2021-07-03 00:55:54.307255,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.307676,b'',b'\xa8'
+2021-07-03 00:55:54.307737,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.309072,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.309256,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.309421,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.419888,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.421478,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSendstSending message number'
+2021-07-03 00:55:54.421674,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.424606,b'0 \x00\x08dev/testSending message number',b'16569552613775 \x00\x08dev/testSestSending message number'
+2021-07-03 00:55:54.425616,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.427864,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message nu\xf3\xa0\x81\xadmber'
+2021-07-03 00:55:54.429577,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.433197,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testTending message number'
+2021-07-03 00:55:54.433881,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.436308,b'0 \x00\x08dev/testSending message number',b'\xc0\xb0 \xc0\x80\x08dev/testSending message number'
+2021-07-03 00:55:54.437385,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.438733,b'0 \x00\x08dev/testSending message number',b'0 \xc0\x80\x08dev/testSending message number'
+2021-07-03 00:55:54.439424,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.442654,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message \x00\x08dev/testSending \xe0\xbf\xadmessage number'
+2021-07-03 00:55:54.443382,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.446292,b'\xe0\x00',b''
+2021-07-03 00:55:54.447618,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.448011,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.448077,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.548185,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.550554,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08dev/ber'
+2021-07-03 00:55:54.550614,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.552702,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08dev/testSending message number'
+2021-07-03 00:55:54.554183,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.559131,b'0 \x00\x08dev/testSending message number',b'3\r40\xe2\x80\xad \x00\x08dev/test\xf3\xa0\x80\xb2Sending messnding message numer'
+2021-07-03 00:55:54.559192,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.573125,b'0 \x00\x08dev/testSending message number',b'\xf3\xa0\x81\x8b922336854775\xf3\xa0\x81\xa8810\xa0\x80\xbdv/tes\xf3\xa0\x81\xbe\xf3\xa0\xf3\xa0\x80\xa6\xf3\xa0\x81\xbb\x81\x80age nu\xf3\xa0\x81\xa8mber'
+2021-07-03 00:55:54.573199,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.574856,b'\xe0\x00',b'\xe0'
+2021-07-03 00:55:54.574896,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.575777,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.689245,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.692011,b'0 \x00\x08dev/testSending message number',b'-18446744073709551617 \x00\x08dev/t\xe2\x80\xaeestSending me\xf0\x9d\x85\xa0ssage number'
+2021-07-03 00:55:54.692106,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.693880,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testS\xe3\x85\xa4ending message number'
+2021-07-03 00:55:54.694969,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.702526,b'0 \x00\x08dev/testSending message number',b'-340282366920938463463374607432098493086 \x00\x08d-68848 \x00\x08dev/testSending message number'
+2021-07-03 00:55:54.702641,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.705000,b'0 \x00\x08dev/testSending message number',b'\xf3\xa0num\xf3\xa0\x80\xbdber'
+2021-07-03 00:55:54.705065,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.707282,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending mesage number'
+2021-07-03 00:55:54.708638,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.715021,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSendi\xf3\xa0\x80\xb4ngmessa\xf3\xa0\x81\x8eg\xf3\xa0\x80\xb4ng messa\xf3\xa0\x81\x8eg\xf3\xa0\x80\xb7e n\xef\xbc\x8fumber'
+2021-07-03 00:55:54.715134,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.717526,b'\xe0\x00',b''
+2021-07-03 00:55:54.719095,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.719363,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.719406,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.832419,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.840796,b'0 \x00\x08dev/testSending message number',b'---9223372036854808191 \x00\x08dev/test\xef\xb7\xbaSendi\xc3\x9fnmessage number'
+2021-07-03 00:55:54.840930,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.847798,b'0 \x00\x08dev/testSending message number',b'65536 \x00\x08dev/testSending me\xf3\xa0\x81\x9cssage number'
+2021-07-03 00:55:54.847893,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.849691,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message umber'
+2021-07-03 00:55:54.852032,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.853638,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending messag message number'
+2021-07-03 00:55:54.855812,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.857418,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev\xf3\xa0\x81\x91/testSending message number'
+2021-07-03 00:55:54.858488,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.861119,b'\xe0\x00',b'\xe0'
+2021-07-03 00:55:54.861188,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.862232,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.862349,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.862393,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.974036,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.977469,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testending message \xf3\xa0\x81\xbfnu\xe2\x80\x8ember'
+2021-07-03 00:55:54.977545,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.978813,b'0 \x00\x08dev/testSending message number',b'\x00\x08dev/testSendingsage number'
+2021-07-03 00:55:54.979710,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.982563,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message \xc2\xb7number'
+2021-07-03 00:55:54.984079,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.988387,b'0 \x00\x08dev/testSending message number',b'129 \x00\x08deding mber'
+2021-07-03 00:55:54.988456,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.991524,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dv/testSending message number'
+2021-07-03 00:55:54.991616,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:54.999108,b'0 \x00\x08dev/testSending message number',b'-174266 \x00\x08dew/etSending\xf3\xa0\x80\xb6agenmber'
+2021-07-03 00:55:54.999193,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.000640,b'\xe0\x00',b'\xe0\xc0\x80'
+2021-07-03 00:55:55.000693,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.002011,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.114062,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.116317,b'0 \x00\x08dev/testSending message number',b'-4551550 \xff\xff\x00\x00\x00\x08dev/testSending message number'
+2021-07-03 00:55:55.117919,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.119965,b'0 \x00\x08dev/testSending message number',b'-1 \x00\x08dev/testSending message number'
+2021-07-03 00:55:55.120718,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.122518,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/te\xe0\xb9\x82stSending message number'
+2021-07-03 00:55:55.123702,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.126878,b'0 \x00\x08dev/testSending message number',b'23189952041199 \x00\x08dev/testSending message number'
+2021-07-03 00:55:55.127533,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.129278,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08dev/testSending message number'
+2021-07-03 00:55:55.130503,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.142215,b'0 \x00\x08dev/testSending message number',b'2 \x00\xf3\xa0\x81\xaa\xf3\xa0\x81\x81\xf3\xa0\x81\x9c\x08\xe1\x85\x9fd\xf3\xa0\x81\x88ev/\rt n\xf3\xef\xbf\xbf\xa0\x80\xa0umber'
+2021-07-03 00:55:55.142315,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.142662,b'',b'1'
+2021-07-03 00:55:55.142711,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.143361,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.144378,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.144416,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.252471,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.254568,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending messae number'
+2021-07-03 00:55:55.254629,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.256043,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message numer'
+2021-07-03 00:55:55.257206,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.259641,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/tesuSending message number'
+2021-07-03 00:55:55.261100,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.268155,b'0 \x00\x08dev/testSending message number',b'---340282366920938463463374607431768211456 \x00\x08dev/testSending message number'
+2021-07-03 00:55:55.268251,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.270875,b'0 \x00\x08dev/testSending message number',b'1188515001724918575270810 \x00\x08dev/testSending message number'
+2021-07-03 00:55:55.270964,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.274445,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev\xf3\xa0\x80\xa5er'
+2021-07-03 00:55:55.274545,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.276604,b'0 \x00\x08dev/testSending message number',b'255 \x00\x08dev/testSening message number'
+2021-07-03 00:55:55.277626,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.278050,b'',b'\x13'
+2021-07-03 00:55:55.278092,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.278788,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.282151,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.282295,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.390665,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.391889,b'0 \x00\x08dev/testSending message number',b'0\xf3\xa0\x81\xa3 \x00\x08dev/testSending message number'
+2021-07-03 00:55:55.393599,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.395162,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message numbr'
+2021-07-03 00:55:55.396362,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.399243,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/test\xe0\xb9\x81Sending \xe2\x80\xabmessage number'
+2021-07-03 00:55:55.400265,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.405508,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08dfv/testSending messag enumbg enumber'
+2021-07-03 00:55:55.405579,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.406629,b'0 \x00\x08dev/testSending message number',b'127 \x00\x08dev/testSending message number'
+2021-07-03 00:55:55.409963,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.413700,b'0 \x00\x08dev/testSending message number',b'-\xc0\xb26 \x00\x08dev/testS-26 \x00\x08dev/testSending message number'
+2021-07-03 00:55:55.414133,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.418511,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/te\xf3\xa0\x81\xbbstSe num\xef\xa3\xbfber'
+2021-07-03 00:55:55.418584,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.418838,b'',b'\xf9'
+2021-07-03 00:55:55.418874,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.421241,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.421541,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.421660,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.530954,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.536856,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSening message number'
+2021-07-03 00:55:55.536966,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.541709,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending messa\xf3\xa0\x81\x8cge number'
+2021-07-03 00:55:55.541831,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.546713,b'0 \x00\x08dev/testSending message number',b'340282366920938463463374607431768211456 \x00\x08dev/testSending message number'
+2021-07-03 00:55:55.546805,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.550061,b'0 \x00\x08dev/testSending message number',b'0 \x00dev/testSend\xf3\xa0\x81\x8ding message number'
+2021-07-03 00:55:55.552071,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.556563,b'0 \x00\x08dev/testSending message number',b'0\xe2\x80\xad \x00\x08dev/testSending mes\xca\xb4sage n\xf3\xa0\x80\xb7umb\x0cer'
+2021-07-03 00:55:55.556632,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.560897,b'\xe0\x00',b'\xf3\xa0\xa7\xcb\x90\xe0\x00'
+2021-07-03 00:55:55.560971,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.561759,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.564560,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.564709,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.671022,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.672371,b'0 \x00\x08dev/testSending message number',b'umber'
+2021-07-03 00:55:55.672893,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.675838,b'0 \x00\x08dev/testSending message number',b'2147483647 \x00\xca\xb6\x08dev/testSending message number'
+2021-07-03 00:55:55.676772,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.688114,b'0 \x00\x08dev/testSending message number',b'--6455179899014677990 \x00\x08de\xf3\xa0\x81\x98vtest\xf3\xa0\x81\x8aSending me numbf\xf3\xa0\x81\x8er--6455179899014677990 \x00\x08de\xf3\xa0\x81\x98v/test\xf3\xa0\x81\x8aSending me numbf\xf3\xa0\x81\x8er'
+2021-07-03 00:55:55.688191,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.693774,b'0 \x00\x08dev/testSending message number',b'-9811412 \x00\x08dev/testS\xe2\x80\x83es\xf3\xa0\x81\xb5tSending\xe2\x80\x85 message number'
+2021-07-03 00:55:55.693910,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.696268,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08dev/testSending message number'
+2021-07-03 00:55:55.697345,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.697705,b'',b'\xcb'
+2021-07-03 00:55:55.697749,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.698681,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.698960,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.699493,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.810942,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.812663,b'0 \x00\x08dev/testSending message number',b'18446744073709551617 \x00\x08dev/testSending message number'
+2021-07-03 00:55:55.813908,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.818876,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/tessage numb\xf0\x9e\x85\xa0er'
+2021-07-03 00:55:55.818979,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.823521,b'0 \x00\x08dev/testSending message number',b'0 numbes'
+2021-07-03 00:55:55.823604,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.832345,b'0 \x00\x08dev/testSending message number',b'98303 \x00\x08dev/\xe2\x80\xa9tstSendi\xf3\xa0\x81\x8dng messge number'
+2021-07-03 00:55:55.832442,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.835952,b'0 \x00\x08dev/testSending message number',b'65537 \x00\x08dev/testSending message number'
+2021-07-03 00:55:55.836032,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.839789,b'\xe0\x00',b'\xe0\xef\xa3\xbf\xe2\x80\xb7\x84'
+2021-07-03 00:55:55.839867,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.848160,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.848288,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.848326,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.949376,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.953933,b'0 \x00\x08dev/testSending message number',b'2147483648\xc0\xb7 \x00\x08dev/testSending message number'
+2021-07-03 00:55:55.954004,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.960053,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending\xf3\xa0\x80\xb9 \xf3\xa0\x81\x91mestSending\xf3\xa0\x80\xb9 \xf3\xa0\x81\x91message number'
+2021-07-03 00:55:55.960123,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.962890,b'0 \x00\x08dev/testSending message number',b'-457803583914829234\xc0\xa0\x00\x08dev/testSending message number'
+2021-07-03 00:55:55.963025,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.966819,b'0 \x00\x08dev/testSending message number',b'256 \x00\x08dev/testSending essage number'
+2021-07-03 00:55:55.966880,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.986859,b'0 \x00\x08dev/testSending message number',b'4940271602 \x00\x08dev/testSending m\xf3\xa0\x81\xb8essage number4940271602 \x00\x08dev/testSending m\xf3\xa0\x81\xb8essage number4940271602 \x00\x08dev/testSending m\xf3\xa0\x81\xb8essage number4940271602 \x00\x08dev/testSending m\xf3\xa0\x81\xb8essage number4940271602 \x00\x08dev/testSending m\xf3\xa0\x81\xb8essage number4940271602 \x00\x08dev/testSending m\xf3\xa0\x81\xb8essage number4940271602 \x00\x08dev/testSending m\xf3\xa0\x81\xb8essage number4940271602 \x00\x08dev/testSending m\xf3\xa0\x81\xb8essage number4940271602 \x00\x08dev/testSending m\xf3\xa0\x81\xb8essage number4940271602 \x00\x08dev/testSending m\xf3\xa0\x81\xb8essage number4940271602 \x00\x08dev/testSending m\xf3\xa0\x81\xb8essage number4940271602 \x00\x08dev/testSending m\xf3\xa0\x81\xb8essage number232005943537715 \x00\x08dev/testSending m\xf3\xa0\x81\xb8essage number4940271602 \x00\x08dev/testSending m\xf3\xa0\x81\xb8essage number4940271602 \x00\x08dev/testSending m\xf3\xa0\x81\xb8essage number4940271602 \x00\x08dev/testSending m\xf3\xa0\x81\xb8essage number4940271602 \x00\x08dev/testSending m\xf3\xa0\x81\xb8essage number-2208046477 \x00\x08dev/testSending m\xf3\xa0\x81\xb8essage number4940271602 \x00\x08dev/testSending m\xf3\xa0\x81\xb8essage number4940271602 \x00\x08dev/testSending m\xf3\xa0\x81\xb8essage number4940271602 \x00\x08dev/testSending m\xf3\xa0\x81\xb8essage number4940271602 \x00\x08dev/testSending m\xf3\xa0\x81\xb8essage number4940271602 \x00\x08dev/testSending m\xf3\xa0\x81\xb8essage number4940271602 \x00\x08dev/testSending m\xf3\xa0\x81\xb8essage number'
+2021-07-03 00:55:55.986972,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.987244,b'',b'.'
+2021-07-03 00:55:55.987283,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.988131,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.988349,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:55.988451,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.088554,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.089786,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message num\xef\xac\xacber'
+2021-07-03 00:55:56.090392,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.092743,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message\xf3\xa0\x80\xb6number'
+2021-07-03 00:55:56.094363,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.097739,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08dev/testSending message nu\xf3\xa0\x80\xa7mb\xca\xb8er'
+2021-07-03 00:55:56.098253,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.102742,b'0 \x00\x08dev/testSending message number',b'stSending message numberstSending\xc0\xa0message number'
+2021-07-03 00:55:56.102810,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.106376,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSendiog message n\xe2\x80\x81umber'
+2021-07-03 00:55:56.106447,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.108473,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSe\xe2\x80\x87nding message number'
+2021-07-03 00:55:56.109952,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.112927,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/uestSending m\xf3\xa0\x81\x90essage number'
+2021-07-03 00:55:56.113874,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.116279,b'\xe0\x00',b'\xe0\xcd\x85\x00'
+2021-07-03 00:55:56.116349,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.117221,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.118351,b'p\x02r0',b'p\xc2\xa0\x02r0'
+2021-07-03 00:55:56.228764,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.231533,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08devnes/etStding message number'
+2021-07-03 00:55:56.231622,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.233428,b'0 \x00\x08dev/testSending message number',b'\xc0\xb0 \x00\x08dev/testSending message number'
+2021-07-03 00:55:56.234583,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.241152,b'0 \x00\x08dev/testSending message number',b'-706316717663983079132595 \x00\x08\xed\xaa\xaddev/testSending m67296 \x00\x08\xed\xaa\xaddev/testSending m67296 \x00\x08\xed\xaa\xaddev/testSending message num\xe0\xb9\x83ber'
+2021-07-03 00:55:56.241233,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.242905,b'0 \x00\x08dev/testSending message number',b'2147483649 \x00\x08dev/testSending message number'
+2021-07-03 00:55:56.244255,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.247812,b'0 \x00\x08dev/testSending message number',b'252 \x00\x08dev/testSending m\xf3\xa0\x81\xb4essage number'
+2021-07-03 00:55:56.248191,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.250984,b'0 \x00\x08dev/testSending message number',b'0 \x00dev/testSending message number'
+2021-07-03 00:55:56.252108,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.254627,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08\xf3\xa0\x81\x98dev/tes\xf3\xa0\x81\x82tSending message number'
+2021-07-03 00:55:56.255908,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.256202,b'',b'\xb0'
+2021-07-03 00:55:56.256238,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.257972,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.369274,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.375281,b'0 \x00\x08dev/testSending message number',b'25vd6 e\x08/\x00testSe\xf3\xa0\x81\xbfn\xf3\xa0\x81\xbdding messa\xf3\xa0\x81\xb1g\xc0\xa0numbe\xe2\x80\x8dr'
+2021-07-03 00:55:56.375361,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.376843,b'0 \x00\x08dev/testSending message number',b'0\xc0\xa0\x00\x08dev/testSending message number'
+2021-07-03 00:55:56.378007,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.380372,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message num\xe0\xb9\x83ber'
+2021-07-03 00:55:56.381939,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.386466,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08dev/\xf3\xa0\x81\x96tes\xf3\xa0\x81\x85tSendiSending \x96tes\xf3\xa0\x81\x85tSendiSending message number'
+2021-07-03 00:55:56.386555,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.387144,b'0 \x00\x08dev/testSending message number',b'-6905702757737 \x00\x08dev/testSending message number'
+2021-07-03 00:55:56.389583,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.390256,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending mess\xf3\xa0\x80\xbcage number'
+2021-07-03 00:55:56.391564,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.394347,b'\xe0\x00',b'\xe0\xf3\xa0\x81\xf3\xa0\x81\xad\x82\x00'
+2021-07-03 00:55:56.394408,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.395492,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.395614,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.395655,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.506757,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.547692,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message nmber1 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number'
+2021-07-03 00:55:56.547791,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.549844,b'',b'.'
+2021-07-03 00:55:56.549914,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.550679,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.552677,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.552736,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.646977,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.669108,b'0 \x00\x08dev/testSending message number',b'\xef\xbc\xbes'
+2021-07-03 00:55:56.669181,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.671125,b'0 \x00\x08dev/testSending message number',b'0 \x00sag\xe2\x80\x8ee number'
+2021-07-03 00:55:56.672304,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.674589,b'\xe0\x00',b'\xe0\xc0\x80'
+2021-07-03 00:55:56.674635,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.675293,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.786188,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.789260,b'0 \x00\x08dev/testSending message number',b'-170141183460469231\xf3\xa0\x81\xae73168730371588410572 \x00\x08dev/testSending message number'
+2021-07-03 00:55:56.789355,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.790546,b'0 \x00\x08dev/testSending message number',b'18446744073709551615 \x00\x08dev/testSending message number'
+2021-07-03 00:55:56.790825,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.803699,b'0 \x00\x08dev/testSending message number',b'2 \xf3\xa0\x81\xa6\x00\x00\xf3\xa0\x81\x8f\x08\xa6\x00\x00\x81\x91er'
+2021-07-03 00:55:56.803788,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.805180,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending\xcb\x90 mess+/v/age number'
+2021-07-03 00:55:56.806460,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.808834,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testS\xf3\xa0\x81\xbeending message numb\ner'
+2021-07-03 00:55:56.809553,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.809850,b'',b'$'
+2021-07-03 00:55:56.809892,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.810609,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.810958,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.811003,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.923692,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.943915,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08de\xf3\xa0\x81\xb3v/testS\xef\xbd\xb0ending message number'
+2021-07-03 00:55:56.943980,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.945848,b'0 \x00\x08dev/testSending message number',b'0 \x00\xce\x90\x08dev/testSend\xcd\x85ing message numb\xf3\xa0\x81\xb0er'
+2021-07-03 00:55:56.947472,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.951595,b'0 \x00\x08dev/testSending message number',b'0 \x00\xf3\xa0\x80\xa7\x08dev/testSending message number'
+2021-07-03 00:55:56.951774,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.952680,b'',b'\xfb'
+2021-07-03 00:55:56.952824,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.955893,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.956907,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:56.957056,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.064558,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.066578,b'0 \x00\x08dev/testSending message number',b'\xc0\xb0er'
+2021-07-03 00:55:57.066640,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.069013,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08dev/testSending message number'
+2021-07-03 00:55:57.070249,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.078636,b'0 \x00\x08dev/testSending message number',b'0\xf3\xa0\x80\xb8 \x00\x08dev/testSending message number'
+2021-07-03 00:55:57.078771,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.082616,b'0 \x00\x08dev/testSending message number',b'0 \xf3\xa0\x81\x88\x00\x08dev/testS\x00\x00\xff\xffending message oumber'
+2021-07-03 00:55:57.082714,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.085207,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSeneing \xf3\xa0\x81\x87message number'
+2021-07-03 00:55:57.085941,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.092280,b'0 \x00\x08dev/testSending message number',b'2 \x00\x08d\xf3ssag\xf3\xf3\xa0\x81\xbf\xa0\x80\xa1e nuer'
+2021-07-03 00:55:57.092349,b'0 \x00\x08dev/testSending message number\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.092619,b'',b'\n'
+2021-07-03 00:55:57.092661,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.093397,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.205084,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.207006,b'0 \x00\x08dev/testSending message number',b'-1 \x00\x08dev/testSending message number'
+2021-07-03 00:55:57.207085,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.211252,b'0 \x00\x08dev/testSending message number',b'-1dis\xef\xe2\x80\xad\xbb\xbeage number'
+2021-07-03 00:55:57.211325,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.220810,b'0 \x00\x08dev/testSending message number',b'32essage n\xf0\x9f\x92\xa9umbe32essage n\xf0\x9f\x92\xa9umber'
+2021-07-03 00:55:57.220895,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.225869,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08d/vetesnumber'
+2021-07-03 00:55:57.225939,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.229528,b'0 \x00\x08dev/testSending message number',b'104428214130583214 \xe2\x80\x80\x00\x08dev/testSending message number'
+2021-07-03 00:55:57.229597,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.232797,b'0 \x00\x08dev/testSending message number',b'-5603903 \x00\x08dev/testSending message numb-0 \x00\x08dev/testSending message number'
+2021-07-03 00:55:57.232906,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.233170,b'',b'\x99'
+2021-07-03 00:55:57.233205,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.234438,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.234736,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.234782,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.345145,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.346450,b'0 \x00\x08dev/testSending message number',b'-1 \x00\x08dev/testSending message number'
+2021-07-03 00:55:57.346502,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.349347,b'0 \x00\x08dev/testSending message number',b'9223372036854775808 \x00\x08dev/testSendng\xf3\xa0\x81\xb4message number'
+2021-07-03 00:55:57.350190,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.352691,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending me\xf3\xa0\x81\xa8ssage number'
+2021-07-03 00:55:57.352852,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.358134,b'0 \x00\x08dev/testSending message number',b'4294967295age number'
+2021-07-03 00:55:57.358197,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.359910,b'0 \x00\x08dev/testSending message number',b''
+2021-07-03 00:55:57.360715,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.360830,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.362457,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSendinmessage number'
+2021-07-03 00:55:57.363632,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.367791,b'0 \x00\x08dev/testSending message number',b'0 \x00\xf3\xa0\x80\xac\x08dege+/v/ number'
+2021-07-03 00:55:57.367879,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.371673,b'\xe0\x00',b'\xf3\xa0\x86\xf3\xa0\x81\x86\xf3\xa0\xef\xb7\xba\x81\xb9\xe0\xc0\x80'
+2021-07-03 00:55:57.485402,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.488115,b'0 \x00\x08dev/testSending message number',b'340282366920938463463374607431768211456 \x00\x08dev/testSending message number'
+2021-07-03 00:55:57.488215,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.491044,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev\xc0\xaftestSending message number'
+2021-07-03 00:55:57.492130,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.499305,b'0 \x00\x08dev/testSending message number',b'3 2 \x00\x08devumbr'
+2021-07-03 00:55:57.499397,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.500492,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSening messge number'
+2021-07-03 00:55:57.502045,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.506443,b'0 \x00\x08dev/testSending message number',b'340282366920938463463374607431768211455 \x00\x08dev/testSending message numbr'
+2021-07-03 00:55:57.506569,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.513207,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',b'1 \x00\x08dev/tes\xf3\xf3\xa0\x80\xb8\xa0\x80\xa3tSending message number'
+2021-07-03 00:55:57.513452,b'0 \x00\x08dev/testSending message number\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.513902,b'',b'\xd0'
+2021-07-03 00:55:57.513964,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.515366,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.515542,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.515685,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.625670,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.628250,b'0 \x00\x08dev/testSending message number',b'3402\xf3\xa0\x80\xa9170141183460469231731687303715884105729 \x00\x08dev/testSending message number'
+2021-07-03 00:55:57.628309,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.645096,b'0 \x00\x08dev/testSending message number',b''
+2021-07-03 00:55:57.645998,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.646111,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.650313,b'0 \x00\x08dev/testSending message number',b'-85\xc0\xb0 \x00\x08d\xf3\xa0\x81\x91ev/testSending messag\xddsfsge number'
+2021-07-03 00:55:57.650387,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.652033,b'0 \x00\x08dev/testSending message number',b'\xf3\xa0\x81\xac4294967296 \x00\x08dev/testSending message number'
+2021-07-03 00:55:57.653278,b'\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.765469,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.769166,b'0 \x00\x08dev/testSending message number',b'1 \x00\x08dev/\xe2\x80\x8atestestSendig me\xca\xb3ssag\xcd\x85e n\xe2\x81\xf3\xa0\x81\x97\xa7umber'
+2021-07-03 00:55:57.769230,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.771520,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending messahe number'
+2021-07-03 00:55:57.773296,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.775339,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending mess\xf3\xa0\x80\xaeage number'
+2021-07-03 00:55:57.777103,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.781148,b'0 \x00\x08dev/testSending message number',b'0 \x08dev\xc0\xaftestSending messa\xf3\xa0\x81\x9fge numbe\xe2\x80\xabr'
+2021-07-03 00:55:57.781257,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.783072,b'0 \x00\x08dev/testSending message number',b'-1 \x00\x08dev/testSending message number'
+2021-07-03 00:55:57.783977,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.787172,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending m\xf3\xa0\x81\x99essage number'
+2021-07-03 00:55:57.789918,b'0 \x00\x08dev/testSending message number0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.791442,b'\xe0\x00',b'\xf3\xa0\x81\x8b\x00'
+2021-07-03 00:55:57.791518,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.792577,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.792672,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.792708,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.904038,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.905147,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/tessage number'
+2021-07-03 00:55:57.905844,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.908121,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending message num\xf3\xa0\x81\x99ber'
+2021-07-03 00:55:57.909817,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.912321,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSend\xf3\xa0\x81\xbcing message number'
+2021-07-03 00:55:57.913726,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.917019,b'0 \x00\x08dev/testSending message number',b'9223372036854775808 \xf3\xa0\x81\x9a\x00\x08dev/tesage umber'
+2021-07-03 00:55:57.917545,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.920105,b'0 \x00\x08dev/testSending message number',b'-1 \x00\x08dev/testSending message number'
+2021-07-03 00:55:57.921489,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.923999,b'0 \x00\x08dev/testSending message number',b'0 \x00\x08dev/testSending messa\xe2\x80\xadge number'
+2021-07-03 00:55:57.925324,b'0 \x00\x08dev/testSending message number',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.954283,b'0 \x00\x08dev/testSending message number',b'2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number1 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 \x00\x08dev/testSending message number2147483647 '
+2021-07-03 00:55:57.954470,b'0 \x00\x08dev/testSending message number\xe0\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.954976,b'',b'W'
+2021-07-03 00:55:57.955017,b'',MESSAGE NOT FUZZED
+2021-07-03 00:55:57.955759,b' \x02\x00\x00',MESSAGE NOT FUZZED
+2021-07-03 00:55:58.034698,b'\x10 \x00\x04MQTT\x04\xc2\x00<\x00\x00\x00\x08username\x00\x08password',MESSAGE NOT FUZZED
