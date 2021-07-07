@@ -33,8 +33,10 @@ for ele in cases:
         client.on_connect = on_connect
         client.connect("192.168.0.25", 1883, 60)
 
-        message = m + str(i)
+        message = m + str(i) + " with original topic " + ele
         client.publish(topic, payload=message, qos=0, retain=False)
         write_to_file(decodedCase, topic, message)
+
+        client.disconnect()
 
 print("Done")
