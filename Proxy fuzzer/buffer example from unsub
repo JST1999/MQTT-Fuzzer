@@ -9,5 +9,5 @@
 \xa2\x14\x00\x08\x00\x10	abcdefghijklmnop
 \xa2\x15\x00\t\x00\x11		abcdefghijklmnopq
 
-a2 means it is an unsub packet. The next 3 ish hexs are ids. The last hex is the length of the topic including the /. r which is 0d is displayed as an r because its also a value of a carriage return, its just in its simplified format. \n is newline (like how you would use it in python strings)
+a2 means it is an unsub packet. The next 2 ish hexs are ids. The last 2 hexs is the length of the topic including the /. r which is 0d is displayed as an r because its also a value of a carriage return, its just in its simplified format. \n is newline (like how you would use it in python strings)
 Note: I added spaces
