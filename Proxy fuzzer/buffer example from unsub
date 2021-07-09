@@ -1,0 +1,13 @@
+\x10\x0c\x00\x04MQTT\x04\x02\x00<\x00\x00
+\xa2\r\x00\x01\x00\t		abcdefghi
+\xa2\x0e\x00\x02\x00\n		abcdefghij
+\xa2\x0f\x00\x03\x00\x0b	abcdefghijk
+\xa2\x10\x00\x04\x00\x0c	abcdefghijkl
+\xa2\x11\x00\x05\x00\r		abcdefghijklm
+\xa2\x12\x00\x06\x00\x0e	abcdefghijklmn
+\xa2\x13\x00\x07\x00\x0f	abcdefghijklmno
+\xa2\x14\x00\x08\x00\x10	abcdefghijklmnop
+\xa2\x15\x00\t\x00\x11		abcdefghijklmnopq
+
+a2 means it is an unsub packet. The next 3 ish hexs are ids. The last hex is the length of the topic including the /. r which is 0d is displayed as an r because its also a value of a carriage return, its just in its simplified format. \n is newline (like how you would use it in python strings)
+Note: I added spaces

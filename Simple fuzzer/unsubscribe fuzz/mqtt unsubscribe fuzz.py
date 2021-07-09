@@ -27,14 +27,12 @@ def write_to_file(topic, mutatedTopic):
 
 for ele in cases:
     client.subscribe(ele)
-    for i in range(1):
+    for i in range(1000):
         case = rad.fuzz(ele.encode("UTF-8"))
         decodedCase = case.decode("UTF-8", "ignore")
 
         write_to_file(ele, decodedCase)
 
         client.unsubscribe(decodedCase)
-
-        client.unsubscribe(case)
 
 print("Done")
